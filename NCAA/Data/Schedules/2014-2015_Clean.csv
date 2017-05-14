@@ -1,0 +1,1111 @@
+Season,Away,AwayScore,at,Home,HomeScore,OT,Notes,Date,GameType,HomeWin,AwayWin,Tournament,ConfTournament,NCAA,HomeConference,AwayConference
+20142015,Michigan Tech,5,@,Lake Superior,3,,,10/4/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Michigan,3,@,Ferris State,4,,,10/4/2014,NC,Win,Loss,No,No,No,WCHA,Big Ten
+20142015,Michigan Tech,5,@,Lake Superior,1,,,10/5/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Mercyhurst,1,@,Air Force,5,,,10/10/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,1,@,Army,2,,,10/10/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Boston University,8,@,Massachusetts,1,,,10/10/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston College,2,@,Massachusetts-Lowell,5,,,10/10/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Miami,2,@,Bowling Green,3,,,10/10/2014,NC,Win,Loss,No,No,No,WCHA,NCHC
+20142015,Western Michigan,2,@,Canisius,4,,,10/10/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,NCHC
+20142015,Alabama-Huntsville,2,@,Colorado College,3,,,10/10/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Merrimack,3,@,Holy Cross,2,,,10/10/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,Hockey East
+20142015,Clarkson,3,@,Niagara,1,,,10/10/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20142015,Providence,4,@,Ohio State,5,OT,,10/10/2014,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20142015,Connecticut,2,@,Penn State,2,OT,,10/10/2014,NC,Tie,Tie,No,No,No,Big Ten,Hockey East
+20142015,St. Lawrence,2,@,RIT,5,,,10/10/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,ECAC
+20142015,Lake Superior,1,@,Robert Morris,3,,,10/10/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,WCHA
+20142015,Colgate,3,@,St. Cloud State,1,,,10/10/2014,NC,Loss,Win,No,No,No,NCHC,ECAC
+20142015,American International,3,@,Union,7,,,10/10/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Bemidji State,5,@,North Dakota,1,,,10/10/2014,NC,Loss,Win,No,No,No,NCHC,WCHA
+20142015,Minnesota State,3,@,Nebraska-Omaha,5,,,10/10/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Rensselaer,3,@,Notre Dame,2,,IceBreaker,10/10/2014,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20142015,Minnesota,4,vs.,Minnesota-Duluth,3,,IceBreaker,10/10/2014,NC,Loss,Win,Yes,No,No,NCHC,Big Ten
+20142015,Maine,1,@,Alaska-Anchorage,3,,Kendall Hockey Classic,10/10/2014,NC,Win,Loss,Yes,No,No,WCHA,Hockey East
+20142015,Wisconsin,0,vs.,Alaska,1,,Kendall Hockey Classic,10/10/2014,NC,Win,Loss,Yes,No,No,WCHA,Big Ten
+20142015,Mercyhurst,4,@,Air Force,2,,,10/11/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Vermont,6,@,Northeastern,2,,,10/11/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,North Dakota,2,@,Bemidji State,1,,,10/11/2014,NC,Loss,Win,No,No,No,WCHA,NCHC
+20142015,Western Michigan,4,@,Canisius,1,,,10/11/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,NCHC
+20142015,Alabama-Huntsville,3,@,Colorado College,4,,,10/11/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Holy Cross,1,@,Merrimack,2,,,10/11/2014,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20142015,St. Lawrence,10,@,Niagara,2,,,10/11/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20142015,Providence,2,@,Ohio State,1,OT,,10/11/2014,NC,Loss,Win,No,No,No,Big Ten,Hockey East
+20142015,Connecticut,1,@,Penn State,7,,,10/11/2014,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20142015,Bentley,3,@,Quinnipiac,5,,,10/11/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Clarkson,3,@,RIT,1,,,10/11/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20142015,Lake Superior,0,@,Robert Morris,3,,,10/11/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,WCHA
+20142015,Colgate,1,@,St. Cloud State,3,,,10/11/2014,NC,Win,Loss,No,No,No,NCHC,ECAC
+20142015,New Hampshire,1,@,Union,3,,,10/11/2014,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,Minnesota State,4,@,Nebraska-Omaha,2,,,10/11/2014,NC,Loss,Win,No,No,No,NCHC,WCHA
+20142015,Wisconsin,2,@,Alaska-Anchorage,4,,Kendall Hockey Classic,10/11/2014,NC,Win,Loss,Yes,No,No,WCHA,Big Ten
+20142015,Maine,2,vs.,Alaska,5,,Kendall Hockey Classic,10/11/2014,NC,Win,Loss,Yes,No,No,WCHA,Hockey East
+20142015,Sacred Heart,5,@,Army,1,,,10/12/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bowling Green,2,@,Miami,3,,,10/12/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Minnesota-Duluth,3,@,Notre Dame,0,,IceBreaker,10/12/2014,NC,Loss,Win,Yes,No,No,Hockey East,NCHC
+20142015,Rensselaer,0,vs.,Minnesota,3,,IceBreaker,10/12/2014,NC,Win,Loss,Yes,No,No,Big Ten,ECAC
+20142015,Canisius,6,@,Army,4,,,10/17/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,2,@,Holy Cross,2,OT,,10/17/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,2,@,Robert Morris,5,,,10/17/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,4,@,Sacred Heart,1,,,10/17/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,North Dakota,3,@,Colorado College,1,,,10/17/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Nebraska-Omaha,5,@,Western Michigan,2,,,10/17/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Bowling Green,5,@,Alabama-Huntsville,0,,,10/17/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northeastern,0,@,Colgate,3,,,10/17/2014,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,Rensselaer,0,@,Denver,3,,,10/17/2014,NC,Win,Loss,No,No,No,NCHC,ECAC
+20142015,Union,3,@,Maine,0,,,10/17/2014,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20142015,Massachusetts,3,@,Michigan State,5,,,10/17/2014,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20142015,Lake Superior,3,@,Notre Dame,5,,,10/17/2014,NC,Win,Loss,No,No,No,Hockey East,WCHA
+20142015,Wisconsin,0,vs.,Northern Michigan,2,,,10/17/2014,NC,Win,Loss,No,No,No,WCHA,Big Ten
+20142015,Miami,5,@,Ohio State,1,,,10/17/2014,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20142015,Ferris State,3,@,St. Lawrence,2,OT,,10/17/2014,NC,Loss,Win,No,No,No,ECAC,WCHA
+20142015,New Hampshire,5,@,Michigan,1,,,10/17/2014,NC,Loss,Win,No,No,No,Big Ten,Hockey East
+20142015,Minnesota State,5,@,Minnesota-Duluth,4,OT,,10/17/2014,NC,Loss,Win,No,No,No,NCHC,WCHA
+20142015,Quinnipiac,3,@,Massachusetts-Lowell,6,,,10/17/2014,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Clarkson,1,@,Vermont,2,,,10/17/2014,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Penn State,3,vs.,Alaska-Anchorage,3,OT,Alaska Goal Rush,10/17/2014,NC,Tie,Tie,Yes,No,No,WCHA,Big Ten
+20142015,Air Force,3,@,Alaska,4,,Alaska Goal Rush,10/17/2014,NC,Win,Loss,Yes,No,No,WCHA,Atlantic Hockey
+20142015,Canisius,0,@,Army,3,,,10/18/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,6,@,Bentley,3,,,10/18/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,2,@,Holy Cross,3,,,10/18/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,4,@,Niagara,1,,,10/18/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Connecticut,1,@,Merrimack,2,OT,,10/18/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,North Dakota,7,@,Colorado College,2,,,10/18/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Nebraska-Omaha,3,@,Western Michigan,0,,,10/18/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Bowling Green,4,@,Alabama-Huntsville,1,,,10/18/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Vermont,3,@,Clarkson,0,,,10/18/2014,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20142015,Northeastern,0,@,Colgate,3,,,10/18/2014,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,Rensselaer,1,@,Denver,4,,,10/18/2014,NC,Win,Loss,No,No,No,NCHC,ECAC
+20142015,Union,5,@,Maine,2,,,10/18/2014,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20142015,Minnesota-Duluth,6,@,Minnesota State,2,,,10/18/2014,NC,Loss,Win,No,No,No,WCHA,NCHC
+20142015,Massachusetts,4,@,Michigan State,3,,,10/18/2014,NC,Loss,Win,No,No,No,Big Ten,Hockey East
+20142015,Ohio State,1,@,Miami,2,,,10/18/2014,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20142015,Lake Superior,1,@,Notre Dame,5,,,10/18/2014,NC,Win,Loss,No,No,No,Hockey East,WCHA
+20142015,Wisconsin,1,vs.,Northern Michigan,4,,,10/18/2014,NC,Win,Loss,No,No,No,WCHA,Big Ten
+20142015,Massachusetts-Lowell,3,@,Quinnipiac,3,OT,,10/18/2014,NC,Tie,Tie,No,No,No,ECAC,Hockey East
+20142015,Boston College,6,@,RIT,2,,,10/18/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,Hockey East
+20142015,Ferris State,0,@,St. Lawrence,2,,,10/18/2014,NC,Win,Loss,No,No,No,ECAC,WCHA
+20142015,New Hampshire,1,@,Michigan,2,,,10/18/2014,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20142015,Air Force,1,vs.,Alaska-Anchorage,4,,Alaska Goal Rush,10/18/2014,NC,Win,Loss,Yes,No,No,WCHA,Atlantic Hockey
+20142015,Penn State,3,@,Alaska,4,,Alaska Goal Rush,10/18/2014,NC,Win,Loss,Yes,No,No,WCHA,Big Ten
+20142015,Connecticut,4,@,Quinnipiac,1,,,10/21/2014,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20142015,RIT,5,@,Air Force,1,,,10/24/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,3,@,American International,1,,,10/24/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,3,@,Army,0,,,10/24/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Massachusetts,3,@,Northeastern,2,,,10/24/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Denver,3,@,Minnesota-Duluth,1,,,10/24/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Michigan Tech,1,@,Ferris State,0,,,10/24/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,4,@,Lake Superior,2,,,10/24/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,1,@,Minnesota State,3,,,10/24/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Colorado College,2,@,Boston College,6,,,10/24/2014,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20142015,Michigan State,0,@,Boston University,1,,,10/24/2014,NC,Win,Loss,No,No,No,Hockey East,Big Ten
+20142015,Bowling Green,2,@,Clarkson,2,OT,,10/24/2014,NC,Tie,Tie,No,No,No,ECAC,WCHA
+20142015,Alaska-Anchorage,1,@,Maine,3,,,10/24/2014,NC,Win,Loss,No,No,No,Hockey East,WCHA
+20142015,Merrimack,5,@,Mercyhurst,4,OT,,10/24/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,Hockey East
+20142015,St. Lawrence,5,@,Miami,4,,,10/24/2014,NC,Loss,Win,No,No,No,NCHC,ECAC
+20142015,Niagara,3,@,Notre Dame,6,,,10/24/2014,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20142015,Holy Cross,1,@,Penn State,3,,,10/24/2014,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20142015,Bentley,5,@,Rensselaer,2,,,10/24/2014,NC,Loss,Win,No,No,No,ECAC,Atlantic Hockey
+20142015,Colgate,5,@,Sacred Heart,2,,,10/24/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20142015,St. Cloud State,1,@,Union,5,,,10/24/2014,NC,Win,Loss,No,No,No,ECAC,NCHC
+20142015,Michigan,8,@,Massachusetts-Lowell,4,,,10/24/2014,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20142015,Bemidji State,2,@,Minnesota,5,,,10/24/2014,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20142015,Providence,1,@,North Dakota,6,,,10/24/2014,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20142015,Alaska,1,@,Western Michigan,0,,,10/24/2014,NC,Loss,Win,No,No,No,NCHC,WCHA
+20142015,RIT,3,@,Air Force,4,OT,,10/25/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,4,@,American International,2,,,10/25/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,3,@,Army,3,OT,,10/25/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Massachusetts,1,@,Boston College,4,,,10/25/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Connecticut,1,@,Vermont,2,,,10/25/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Denver,1,@,Minnesota-Duluth,6,,,10/25/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Michigan Tech,2,@,Ferris State,1,,,10/25/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,3,@,Lake Superior,0,,,10/25/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,1,@,Minnesota State,4,,,10/25/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Michigan,2,@,Boston University,3,,,10/25/2014,NC,Win,Loss,No,No,No,Hockey East,Big Ten
+20142015,Bowling Green,5,@,Clarkson,4,,,10/25/2014,NC,Loss,Win,No,No,No,ECAC,WCHA
+20142015,Alaska-Anchorage,3,@,Maine,3,OT,,10/25/2014,NC,Tie,Tie,No,No,No,Hockey East,WCHA
+20142015,Merrimack,2,@,Mercyhurst,3,,,10/25/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,Hockey East
+20142015,St. Lawrence,1,@,Miami,2,OT,,10/25/2014,NC,Win,Loss,No,No,No,NCHC,ECAC
+20142015,Niagara,0,@,Notre Dame,7,,,10/25/2014,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20142015,Bentley,4,@,Rensselaer,0,,,10/25/2014,NC,Loss,Win,No,No,No,ECAC,Atlantic Hockey
+20142015,Colgate,4,@,Sacred Heart,2,,,10/25/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20142015,St. Cloud State,3,@,Union,2,,,10/25/2014,NC,Loss,Win,No,No,No,ECAC,NCHC
+20142015,Michigan State,1,@,Massachusetts-Lowell,2,,,10/25/2014,NC,Win,Loss,No,No,No,Hockey East,Big Ten
+20142015,Bemidji State,3,@,Minnesota,5,,,10/25/2014,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20142015,Providence,2,@,North Dakota,2,OT,,10/25/2014,NC,Tie,Tie,No,No,No,NCHC,Hockey East
+20142015,Colorado College,2,@,New Hampshire,6,,,10/25/2014,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20142015,Alaska,2,@,Western Michigan,4,,,10/25/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Holy Cross,1,@,Penn State,7,,,10/26/2014,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20142015,Bentley,2,@,Penn State,3,,,10/30/2014,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20142015,American International,3,@,Niagara,1,,,10/31/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,3,@,Robert Morris,6,,,10/31/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,3,@,Sacred Heart,0,,,10/31/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Union,1,@,Rensselaer,6,,,10/31/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Massachusetts,5,@,Maine,6,OT,,10/31/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Vermont,2,@,Notre Dame,3,,,10/31/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Boston University,4,@,Providence,1,,,10/31/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,2,@,New Hampshire,0,,,10/31/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Miami,3,@,Minnesota-Duluth,2,,,10/31/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Minnesota State,5,@,Bowling Green,2,,,10/31/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska,1,@,Bemidji State,6,,,10/31/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,2,@,Alaska-Anchorage,3,,,10/31/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Brown,4,@,Army,2,,,10/31/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20142015,Ohio State,3,@,Canisius,3,OT,,10/31/2014,NC,Tie,Tie,No,No,No,Atlantic Hockey,Big Ten
+20142015,Mercyhurst,0,@,Colgate,4,,,10/31/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Nebraska-Omaha,1,@,Cornell,1,OT,,10/31/2014,NC,Tie,Tie,No,No,No,ECAC,NCHC
+20142015,Boston College,2,@,Denver,1,,,10/31/2014,NC,Loss,Win,No,No,No,NCHC,Hockey East
+20142015,Ferris State,1,@,Michigan State,0,,,10/31/2014,NC,Loss,Win,No,No,No,Big Ten,WCHA
+20142015,Michigan,1,@,Michigan Tech,4,,,10/31/2014,NC,Win,Loss,No,No,No,WCHA,Big Ten
+20142015,Alabama-Huntsville,1,@,Northern Michigan,1,OT,,10/31/2014,NC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Bentley,2,@,Penn State,3,,,10/31/2014,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20142015,Minnesota,1,@,St. Cloud State,4,,,10/31/2014,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20142015,Clarkson,2,@,St. Lawrence,2,OT,,10/31/2014,NC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Yale,2,vs.,Princeton,2,OT,Liberty Invitational,10/31/2014,NC,Tie,Tie,Yes,No,No,ECAC,ECAC
+20142015,Merrimack,2,vs.,Connecticut,2,OT,Liberty Invitational,10/31/2014,NC,Tie,Tie,Yes,No,No,Hockey East,Hockey East
+20142015,Sacred Heart,2,@,Holy Cross,2,OT,,11/1/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,4,@,Niagara,2,,,11/1/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,2,@,Robert Morris,4,,,11/1/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Dartmouth,3,@,Harvard,3,OT,,11/1/2014,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Rensselaer,2,@,Union,1,OT,,11/1/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Providence,2,@,Boston University,1,,,11/1/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts,2,@,Maine,3,,,11/1/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Vermont,2,@,Notre Dame,2,OT,,11/1/2014,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,2,@,Massachusetts-Lowell,8,,,11/1/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Miami,3,@,Minnesota-Duluth,4,,,11/1/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota State,1,@,Bowling Green,3,,,11/1/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska,3,@,Bemidji State,4,OT,,11/1/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,3,@,Alaska-Anchorage,2,OT,,11/1/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Ohio State,4,@,Canisius,1,,,11/1/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,Big Ten
+20142015,St. Lawrence,4,@,Clarkson,0,,,11/1/2014,NC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Mercyhurst,2,@,Colgate,1,,,11/1/2014,NC,Loss,Win,No,No,No,ECAC,Atlantic Hockey
+20142015,Nebraska-Omaha,2,@,Cornell,1,,,11/1/2014,NC,Loss,Win,No,No,No,ECAC,NCHC
+20142015,Boston College,1,@,Denver,2,OT,,11/1/2014,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20142015,Ferris State,1,@,Michigan State,4,,,11/1/2014,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20142015,Michigan,2,@,Michigan Tech,6,,,11/1/2014,NC,Win,Loss,No,No,No,WCHA,Big Ten
+20142015,Alabama-Huntsville,1,@,Northern Michigan,4,,,11/1/2014,NC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Northeastern,2,@,Quinnipiac,3,,,11/1/2014,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,St. Cloud State,3,@,Minnesota,4,OT,,11/1/2014,NC,Win,Loss,No,No,No,Big Ten,NCHC
+20142015,Air Force,2,@,North Dakota,3,OT,,11/1/2014,NC,Win,Loss,No,No,No,NCHC,Atlantic Hockey
+20142015,Northeastern,3,@,Quinnipiac,4,,,11/2/2014,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,Merrimack,6,vs.,Princeton,1,,Liberty Invitational,11/2/2014,NC,Loss,Win,Yes,No,No,ECAC,Hockey East
+20142015,Yale,2,vs.,Connecticut,1,,Liberty Invitational,11/2/2014,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20142015,Boston College,0,@,Connecticut,1,,,11/5/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Niagara,0,@,Bentley,6,,,11/7/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,0,@,Mercyhurst,2,,,11/7/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,3,@,RIT,3,OT,,11/7/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,2,@,Sacred Heart,3,,,11/7/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,St. Lawrence,5,@,Brown,2,,,11/7/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Cornell,1,@,Princeton,2,,,11/7/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Colgate,0,@,Quinnipiac,5,,,11/7/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Harvard,4,@,Rensselaer,0,,,11/7/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Dartmouth,4,@,Union,3,OT,,11/7/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Clarkson,2,@,Yale,2,OT,,11/7/2014,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Boston University,5,@,Boston College,3,,,11/7/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,2,@,Providence,3,,,11/7/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,3,@,Massachusetts-Lowell,3,OT,,11/7/2014,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Maine,3,@,Vermont,4,OT,,11/7/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Western Michigan,4,@,Denver,5,,,11/7/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Colorado College,0,@,Miami,3,,,11/7/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,3,@,St. Cloud State,2,OT,,11/7/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Bemidji State,3,@,Minnesota State,6,,,11/7/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,0,@,Michigan Tech,2,,,11/7/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Ferris State,1,@,Northern Michigan,0,OT,,11/7/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bowling Green,3,@,Alaska,2,,,11/7/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,4,@,Air Force,2,,,11/7/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,WCHA
+20142015,Nebraska-Omaha,4,@,Ohio State,1,,,11/7/2014,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20142015,American International,1,@,Massachusetts,7,,,11/7/2014,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20142015,Notre Dame,0,@,Minnesota,5,,,11/7/2014,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20142015,Michigan State,4,@,New Hampshire,3,,,11/7/2014,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20142015,North Dakota,4,@,Wisconsin,3,,,11/7/2014,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20142015,Niagara,3,@,Bentley,2,OT,,11/8/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,5,@,Mercyhurst,7,,,11/8/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,2,@,RIT,1,,,11/8/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,4,@,Sacred Heart,4,OT,,11/8/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Clarkson,2,@,Brown,1,,,11/8/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Colgate,5,@,Princeton,1,,,11/8/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Cornell,0,@,Quinnipiac,1,,,11/8/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Dartmouth,1,@,Rensselaer,2,,,11/8/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Harvard,2,@,Union,2,OT,,11/8/2014,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,4,@,Yale,0,,,11/8/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Connecticut,4,@,Boston University,4,OT,,11/8/2014,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Providence,0,@,Merrimack,1,,,11/8/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,5,@,Northeastern,0,,,11/8/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Maine,1,@,Vermont,4,,,11/8/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Western Michigan,6,@,Denver,3,,,11/8/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Colorado College,1,@,Miami,5,,,11/8/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,3,@,St. Cloud State,1,,,11/8/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Bemidji State,3,@,Minnesota State,5,,,11/8/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,1,@,Michigan Tech,3,,,11/8/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Ferris State,0,@,Northern Michigan,2,,,11/8/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bowling Green,3,@,Alaska,2,,,11/8/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,3,@,Air Force,3,OT,,11/8/2014,NC,Tie,Tie,No,No,No,Atlantic Hockey,WCHA
+20142015,Nebraska-Omaha,4,@,Ohio State,3,,,11/8/2014,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20142015,Michigan State,2,@,New Hampshire,5,,,11/8/2014,NC,Win,Loss,No,No,No,Hockey East,Big Ten
+20142015,North Dakota,5,@,Wisconsin,1,,,11/8/2014,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20142015,Notre Dame,2,@,Minnesota,4,,,11/9/2014,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20142015,Harvard,6,@,Boston College,3,,,11/11/2014,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20142015,Alaska-Anchorage,2,@,Ferris State,10,,,11/13/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Holy Cross,4,@,Army,5,OT,,11/14/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,4,@,Bentley,4,OT,,11/14/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,3,@,Canisius,3,OT,,11/14/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,3,@,Robert Morris,3,OT,,11/14/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,St. Lawrence,2,@,Colgate,5,,,11/14/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Clarkson,1,@,Cornell,2,OT,,11/14/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Yale,4,@,Dartmouth,1,,,11/14/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Brown,2,@,Harvard,6,,,11/14/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Princeton,1,@,Rensselaer,3,,,11/14/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,4,@,Union,3,,,11/14/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Notre Dame,3,@,Merrimack,2,OT,,11/14/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston University,3,@,Maine,1,,,11/14/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Vermont,0,@,Providence,3,,,11/14/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,3,@,New Hampshire,5,,,11/14/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Colorado College,1,@,Denver,8,,,11/14/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Miami,3,@,North Dakota,2,,,11/14/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,4,@,Western Michigan,3,,,11/14/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Michigan Tech,2,@,Bemidji State,1,,,11/14/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,0,@,Ferris State,4,,,11/14/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,1,@,Alabama-Huntsville,0,,,11/14/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Ohio State,3,@,Bowling Green,2,,,11/14/2014,NC,Loss,Win,No,No,No,WCHA,Big Ten
+20142015,Boston College,3,@,Michigan State,2,,,11/14/2014,NC,Loss,Win,No,No,No,Big Ten,Hockey East
+20142015,Connecticut,0,vs.,Sacred Heart,2,,,11/14/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,Hockey East
+20142015,American International,2,@,Michigan,5,,,11/14/2014,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20142015,Penn State,3,@,Massachusetts-Lowell,5,,,11/14/2014,NC,Win,Loss,No,No,No,Hockey East,Big Ten
+20142015,Minnesota-Duluth,3,@,Minnesota,0,,,11/14/2014,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20142015,Holy Cross,0,@,Army,0,OT,,11/15/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,4,@,Bentley,5,OT,,11/15/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,3,@,Canisius,0,,,11/15/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,2,@,Robert Morris,1,OT,,11/15/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Clarkson,2,@,Colgate,2,OT,,11/15/2014,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,4,@,Cornell,2,,,11/15/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Brown,0,@,Dartmouth,6,,,11/15/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Yale,2,@,Harvard,1,,,11/15/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,3,@,Rensselaer,1,,,11/15/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Princeton,1,@,Union,6,,,11/15/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Notre Dame,1,@,Merrimack,4,,,11/15/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,1,@,Northeastern,2,,,11/15/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Vermont,2,@,Providence,1,,,11/15/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Miami,1,@,North Dakota,4,,,11/15/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,1,@,Western Michigan,1,OT,"Western Michigan wins shootout, 1-0 (6 rounds)",11/15/2014,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Michigan Tech,4,@,Bemidji State,2,,,11/15/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Lake Superior,2,@,Alabama-Huntsville,5,,,11/15/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bowling Green,3,@,Ohio State,2,,,11/15/2014,NC,Loss,Win,No,No,No,Big Ten,WCHA
+20142015,American International,3,@,Michigan,6,,,11/15/2014,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20142015,Minnesota,1,@,Minnesota-Duluth,2,,,11/15/2014,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20142015,Penn State,4,@,Massachusetts-Lowell,1,,,11/15/2014,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20142015,Harvard,2,@,Dartmouth,0,,,11/18/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Rensselaer,1,@,Connecticut,1,OT,,11/18/2014,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20142015,Michigan State,3,@,Ohio State,1,,,11/20/2014,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Massachusetts-Lowell,3,@,Notre Dame,1,,,11/20/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Robert Morris,5,@,American International,5,OT,,11/21/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,1,@,Niagara,3,,,11/21/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,1,@,RIT,5,,,11/21/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan State,0,@,Ohio State,3,,,11/21/2014,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Penn State,3,@,Michigan,2,,,11/21/2014,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Quinnipiac,1,@,Clarkson,2,,,11/21/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Brown,3,@,Colgate,4,OT,,11/21/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Yale,2,@,Cornell,3,,,11/21/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Princeton,0,@,St. Lawrence,3,,,11/21/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Maine,2,@,Boston University,3,OT,,11/21/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,2,@,Merrimack,4,,,11/21/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,2,@,Notre Dame,2,OT,,11/21/2014,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Vermont,1,@,Connecticut,2,,,11/21/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Boston College,5,@,Massachusetts,3,,,11/21/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Western Michigan,0,@,Miami,1,,,11/21/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,North Dakota,1,@,St. Cloud State,3,,,11/21/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,3,@,Nebraska-Omaha,2,,,11/21/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Bemidji State,1,@,Bowling Green,3,,,11/21/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,3,@,Ferris State,2,,,11/21/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska,7,@,Lake Superior,5,,,11/21/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Minnesota State,2,@,Michigan Tech,1,,,11/21/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,1,@,Alaska-Anchorage,0,,,11/21/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Wisconsin,2,@,Colorado College,5,,,11/21/2014,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20142015,Air Force,0,@,Denver,7,,,11/21/2014,NC,Win,Loss,No,No,No,NCHC,Atlantic Hockey
+20142015,Bentley,1,@,Harvard,5,,,11/21/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Robert Morris,6,@,American International,0,,,11/22/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,3,@,Canisius,3,OT,,11/22/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,1,@,Niagara,6,,,11/22/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,2,@,RIT,1,,,11/22/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Penn State,1,@,Michigan,8,,,11/22/2014,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Princeton,0,@,Clarkson,4,,,11/22/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Yale,3,@,Colgate,1,,,11/22/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Brown,0,@,Cornell,4,,,11/22/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,3,@,St. Lawrence,2,OT,,11/22/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Maine,1,@,Boston College,4,,,11/22/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,1,@,Northeastern,3,,,11/22/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Boston University,5,@,Connecticut,2,,,11/22/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Vermont,11,@,Massachusetts,1,,,11/22/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Providence,1,@,New Hampshire,0,,,11/22/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Western Michigan,2,@,Miami,5,,,11/22/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,North Dakota,3,@,St. Cloud State,2,,,11/22/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,1,@,Nebraska-Omaha,4,,,11/22/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Bemidji State,2,@,Bowling Green,3,,,11/22/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,2,@,Ferris State,5,,,11/22/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska,2,@,Lake Superior,3,OT,,11/22/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Minnesota State,3,@,Michigan Tech,2,,,11/22/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,0,@,Alaska-Anchorage,4,,,11/22/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Colorado College,1,@,Air Force,3,,,11/22/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,NCHC
+20142015,Wisconsin,2,@,Denver,3,,,11/22/2014,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20142015,Bentley,2,@,Holy Cross,4,,,11/25/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Massachusetts,1,@,Vermont,3,,,11/25/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Harvard,3,@,Boston University,2,OT,,11/25/2014,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20142015,Army,0,@,Providence,3,,,11/25/2014,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20142015,Rensselaer,2,@,New Hampshire,1,,,11/25/2014,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20142015,Army,2,@,Bentley,3,,,11/28/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,1,@,Canisius,3,,,11/28/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Nebraska-Omaha,2,@,North Dakota,2,OT,"Nebraska-Omaha wins shootout, 1-0",11/28/2014,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Minnesota State,7,@,Lake Superior,0,,,11/28/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,0,@,Alaska,3,,,11/28/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,4,@,Alabama-Huntsville,2,,,11/28/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Minnesota,6,@,Boston College,2,,,11/28/2014,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20142015,St. Cloud State,6,@,Bemidji State,3,,,11/28/2014,NC,Loss,Win,No,No,No,WCHA,NCHC
+20142015,Clarkson,0,@,Merrimack,3,,,11/28/2014,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Vermont,6,@,Maine,3,,,11/28/2014,NC,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Michigan State,1,@,Princeton,3,,,11/28/2014,NC,Win,Loss,No,No,No,ECAC,Big Ten
+20142015,Massachusetts,3,@,Quinnipiac,2,,,11/28/2014,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20142015,Rensselaer,2,@,Michigan,3,,,11/28/2014,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20142015,Ferris State,1,@,Wisconsin,1,OT,,11/28/2014,NC,Tie,Tie,No,No,No,Big Ten,WCHA
+20142015,Union,3,@,Notre Dame,2,OT,Shillelagh Tournament,11/28/2014,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20142015,Ohio State,2,vs.,Western Michigan,6,,Shillelagh Tournament,11/28/2014,NC,Win,Loss,Yes,No,No,NCHC,Big Ten
+20142015,Army,2,@,Bentley,1,,,11/29/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,3,@,Canisius,2,,,11/29/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Boston College,0,@,Providence,1,,,11/29/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Nebraska-Omaha,2,@,North Dakota,3,,,11/29/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota State,3,@,Lake Superior,0,,,11/29/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,4,@,Alaska,1,,,11/29/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,5,@,Alabama-Huntsville,2,,,11/29/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Connecticut,0,@,Brown,1,,,11/29/2014,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,St. Cloud State,1,@,Bemidji State,4,,,11/29/2014,NC,Win,Loss,No,No,No,WCHA,NCHC
+20142015,Colgate,2,@,Boston University,5,,,11/29/2014,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Penn State,1,vs.,Cornell,3,,,11/29/2014,NC,Win,Loss,No,No,No,ECAC,Big Ten
+20142015,American International,2,@,Dartmouth,3,,,11/29/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Clarkson,1,@,Merrimack,2,,,11/29/2014,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Vermont,4,@,Maine,1,,,11/29/2014,NC,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Minnesota,2,@,Northeastern,3,,,11/29/2014,NC,Win,Loss,No,No,No,Hockey East,Big Ten
+20142015,Michigan State,4,@,Princeton,2,,,11/29/2014,NC,Loss,Win,No,No,No,ECAC,Big Ten
+20142015,Rensselaer,0,@,Michigan,6,,,11/29/2014,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20142015,Quinnipiac,3,@,Massachusetts,1,,,11/29/2014,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20142015,Harvard,4,@,Massachusetts-Lowell,2,,,11/29/2014,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20142015,Ferris State,3,@,Wisconsin,5,,,11/29/2014,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20142015,RIT,0,@,Yale,2,,,11/29/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Ohio State,5,@,Notre Dame,1,,Shillelagh Tournament,11/29/2014,NC,Loss,Win,Yes,No,No,Hockey East,Big Ten
+20142015,Union,2,vs.,Western Michigan,8,,Shillelagh Tournament,11/29/2014,NC,Win,Loss,Yes,No,No,NCHC,ECAC
+20142015,Boston University,0,@,Dartmouth,2,,,11/30/2014,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,Brown,0,@,Holy Cross,5,,,11/30/2014,NC,Win,Loss,No,No,No,Atlantic Hockey,ECAC
+20142015,Providence,5,@,Northeastern,1,,,12/3/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Connecticut,4,@,Massachusetts-Lowell,6,,,12/3/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Mercyhurst,3,@,Army,2,,,12/5/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,1,@,Bentley,2,,,12/5/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,1,@,Canisius,3,,,12/5/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,4,@,Niagara,1,,,12/5/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,4,@,Robert Morris,5,OT,,12/5/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Minnesota,5,@,Michigan State,0,,,12/5/2014,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Ohio State,3,@,Michigan,8,,,12/5/2014,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Penn State,5,@,Wisconsin,2,,,12/5/2014,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Union,7,@,Brown,1,,,12/5/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Harvard,4,@,Princeton,3,,,12/5/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Dartmouth,1,@,Quinnipiac,2,OT,,12/5/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Rensselaer,2,@,Yale,5,,,12/5/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Boston University,1,@,Merrimack,1,OT,,12/5/2014,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Notre Dame,7,@,Massachusetts,5,,,12/5/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston College,2,@,New Hampshire,2,OT,,12/5/2014,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Nebraska-Omaha,2,@,Miami,8,,,12/5/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Colorado College,2,@,Minnesota-Duluth,3,OT,,12/5/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Alaska,5,@,Minnesota State,4,OT,,12/5/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bowling Green,5,@,Northern Michigan,5,OT,,12/5/2014,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Bemidji State,3,@,Alaska-Anchorage,3,OT,,12/5/2014,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Denver,1,@,Cornell,4,,,12/5/2014,NC,Win,Loss,No,No,No,ECAC,NCHC
+20142015,Lake Superior,4,@,North Dakota,7,,,12/5/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Mercyhurst,6,@,Army,3,,,12/6/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,1,@,Bentley,4,,,12/6/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,4,@,Canisius,4,OT,,12/6/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,4,@,Niagara,2,,,12/6/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,4,@,Robert Morris,8,,,12/6/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Minnesota,3,@,Michigan State,3,OT,"Michigan State wins shootout, 2-1 (6 rounds)",12/6/2014,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20142015,Penn State,4,@,Wisconsin,2,,,12/6/2014,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Rensselaer,2,@,Brown,4,,,12/6/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Dartmouth,4,@,Princeton,2,,,12/6/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Harvard,5,@,Quinnipiac,2,,,12/6/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Clarkson,2,@,St. Lawrence,1,,,12/6/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Union,3,@,Yale,1,,,12/6/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,New Hampshire,2,@,Boston College,4,,,12/6/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,2,@,Boston University,4,,,12/6/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,2,@,Providence,1,,,12/6/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Notre Dame,4,@,Massachusetts,0,,,12/6/2014,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Maine,2,@,Massachusetts-Lowell,3,OT,,12/6/2014,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Nebraska-Omaha,5,@,Miami,2,,,12/6/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Colorado College,2,@,Minnesota-Duluth,7,,,12/6/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Alaska,2,@,Minnesota State,5,,,12/6/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bowling Green,5,@,Northern Michigan,0,,,12/6/2014,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bemidji State,4,@,Alaska-Anchorage,4,OT,,12/6/2014,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Denver,3,@,Cornell,1,,,12/6/2014,NC,Loss,Win,No,No,No,ECAC,NCHC
+20142015,Lake Superior,1,@,North Dakota,3,,,12/6/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Colgate,3,@,Providence,4,,,12/9/2014,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Niagara,1,@,RIT,4,,,12/12/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,North Dakota,1,@,Denver,4,,,12/12/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,2,@,Nebraska-Omaha,3,,,12/12/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Colorado College,2,@,Western Michigan,3,OT,,12/12/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Northern Michigan,2,@,Bemidji State,4,,,12/12/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,2,@,Ferris State,5,,,12/12/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,1,@,Alaska,2,OT,,12/12/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Princeton,0,@,Minnesota State,5,,,12/12/2014,NC,Win,Loss,No,No,No,WCHA,ECAC
+20142015,Minnesota-Duluth,3,@,Michigan Tech,1,,,12/12/2014,NC,Loss,Win,No,No,No,WCHA,NCHC
+20142015,Maine,5,@,New Hampshire,2,,,12/12/2014,NC,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,St. Lawrence,1,@,Vermont,2,,,12/12/2014,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Bentley,4,@,American International,4,OT,,12/13/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,7,@,Mercyhurst,4,,,12/13/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,1,@,Niagara,1,OT,,12/13/2014,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,North Dakota,3,@,Denver,1,,,12/13/2014,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,3,@,Nebraska-Omaha,5,,,12/13/2014,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Colorado College,1,@,Western Michigan,1,OT,"WMU wins shootout, 2-1 (4 rounds)",12/13/2014,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Northern Michigan,1,@,Bemidji State,1,OT,,12/13/2014,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Lake Superior,0,@,Ferris State,5,,,12/13/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,0,@,Alaska,4,,,12/13/2014,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Michigan,1,@,Boston College,5,,,12/13/2014,NC,Win,Loss,No,No,No,Hockey East,Big Ten
+20142015,New Hampshire,7,@,Maine,4,,,12/13/2014,NC,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Minnesota-Duluth,3,@,Michigan Tech,4,,,12/13/2014,NC,Win,Loss,No,No,No,WCHA,NCHC
+20142015,Boston University,5,@,Rensselaer,1,,,12/13/2014,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20142015,Vermont,2,@,St. Lawrence,0,,,12/13/2014,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20142015,Bentley,5,@,American International,2,,,12/14/2014,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,0,@,Mercyhurst,3,,,12/14/2014,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,3,@,Dartmouth,8,,,12/14/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Clarkson,4,@,Michigan State,6,,,12/14/2014,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20142015,Northeastern,8,@,Massachusetts,3,,,12/16/2014,NC,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Alabama-Huntsville,1,@,Nebraska-Omaha,2,,,12/20/2014,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Alabama-Huntsville,3,@,Nebraska-Omaha,3,OT,,12/21/2014,NC,Tie,Tie,No,No,No,NCHC,WCHA
+20142015,Princeton,0,@,Quinnipiac,2,,,12/27/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Massachusetts-Lowell,5,vs.,Sacred Heart,1,,Frozen Holiday Classic,12/27/2014,NC,Loss,Win,Yes,No,No,Atlantic Hockey,Hockey East
+20142015,Union,2,@,Connecticut,3,,Frozen Holiday Classic,12/27/2014,NC,Win,Loss,Yes,No,No,Hockey East,ECAC
+20142015,Quinnipiac,1,@,Princeton,0,,,12/28/2014,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Lake Superior,0,vs.,Cornell,0,OT,Florida College Classic,12/28/2014,NC,Tie,Tie,Yes,No,No,ECAC,WCHA
+20142015,Notre Dame,3,vs.,Miami,2,OT,Florida College Classic,12/28/2014,NC,Loss,Win,Yes,No,No,NCHC,Hockey East
+20142015,Ferris State,0,vs.,Michigan State,2,,Great Lakes Invitational,12/28/2014,NC,Win,Loss,Yes,No,No,Big Ten,WCHA
+20142015,Michigan,2,vs.,Michigan Tech,1,,Great Lakes Invitational,12/28/2014,NC,Loss,Win,Yes,No,No,WCHA,Big Ten
+20142015,Union,3,vs.,Sacred Heart,1,,Frozen Holiday Classic,12/28/2014,NC,Loss,Win,Yes,No,No,Atlantic Hockey,ECAC
+20142015,Connecticut,1,vs.,Massachusetts-Lowell,3,,Frozen Holiday Classic,12/28/2014,NC,Win,Loss,Yes,No,No,Hockey East,Hockey East
+20142015,Providence,4,vs.,Massachusetts,1,,Catamount Cup,12/28/2014,NC,Loss,Win,Yes,No,No,Hockey East,Hockey East
+20142015,Air Force,2,@,Vermont,4,,Catamount Cup,12/28/2014,NC,Win,Loss,Yes,No,No,Hockey East,Atlantic Hockey
+20142015,Cornell,0,vs.,Miami,3,,Florida College Classic,12/29/2014,NC,Win,Loss,Yes,No,No,NCHC,ECAC
+20142015,Lake Superior,2,vs.,Notre Dame,1,,Florida College Classic,12/29/2014,NC,Loss,Win,Yes,No,No,Hockey East,WCHA
+20142015,Michigan,2,vs.,Michigan State,1,,Great Lakes Invitational,12/29/2014,NC,Loss,Win,Yes,No,No,Big Ten,Big Ten
+20142015,Ferris State,2,vs.,Michigan Tech,4,,Great Lakes Invitational,12/29/2014,NC,Win,Loss,Yes,No,No,WCHA,WCHA
+20142015,Air Force,1,vs.,Massachusetts,5,,Catamount Cup,12/29/2014,NC,Win,Loss,Yes,No,No,Hockey East,Atlantic Hockey
+20142015,Providence,3,@,Vermont,0,,Catamount Cup,12/29/2014,NC,Loss,Win,Yes,No,No,Hockey East,Hockey East
+20142015,Western Michigan,1,vs.,Colgate,2,,Three Rivers Classic,12/29/2014,NC,Win,Loss,Yes,No,No,ECAC,NCHC
+20142015,Penn State,2,vs.,Robert Morris,4,,Three Rivers Classic,12/29/2014,NC,Win,Loss,Yes,No,No,Atlantic Hockey,Big Ten
+20142015,Rensselaer,2,@,Harvard,6,,,12/30/2014,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,American International,3,@,Clarkson,4,,,12/30/2014,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Yale,3,@,Holy Cross,0,,,12/30/2014,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20142015,New Hampshire,1,@,Nebraska-Omaha,2,OT,,12/30/2014,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20142015,Robert Morris,1,vs.,Colgate,6,,Three Rivers Classic,12/30/2014,NC,Win,Loss,Yes,No,No,ECAC,Atlantic Hockey
+20142015,Penn State,1,vs.,Western Michigan,4,,Three Rivers Classic,12/30/2014,NC,Win,Loss,Yes,No,No,NCHC,Big Ten
+20142015,New Hampshire,6,@,Nebraska-Omaha,2,,,12/31/2014,NC,Loss,Win,No,No,No,NCHC,Hockey East
+20142015,American International,3,@,Army,2,OT,,1/2/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,1,@,Holy Cross,1,OT,,1/2/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,2,@,Sacred Heart,5,,,1/2/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Connecticut,4,@,Massachusetts,3,,,1/2/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Minnesota State,4,@,Northern Michigan,1,,,1/2/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Ferris State,1,@,Alaska,2,,,1/2/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,2,@,Alabama-Huntsville,3,,,1/2/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Canisius,1,@,Maine,4,,,1/2/2015,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20142015,Ohio State,6,@,Mercyhurst,3,,,1/2/2015,NC,Loss,Win,No,No,No,Atlantic Hockey,Big Ten
+20142015,St. Lawrence,3,@,Northeastern,3,OT,,1/2/2015,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20142015,Miami,3,@,Rensselaer,2,,,1/2/2015,NC,Loss,Win,No,No,No,ECAC,NCHC
+20142015,Quinnipiac,2,@,St. Cloud State,3,,,1/2/2015,NC,Win,Loss,No,No,No,NCHC,ECAC
+20142015,Michigan Tech,8,@,Wisconsin,1,,,1/2/2015,NC,Loss,Win,No,No,No,Big Ten,WCHA
+20142015,RIT,3,vs.,Massachusetts-Lowell,7,,Mariucci Classic,1/2/2015,NC,Win,Loss,Yes,No,No,Hockey East,Atlantic Hockey
+20142015,Merrimack,3,@,Minnesota,2,,Mariucci Classic,1/2/2015,NC,Loss,Win,Yes,No,No,Big Ten,Hockey East
+20142015,Boston College,4,vs.,Brown,1,,Ledyard Bank Classic,1/2/2015,NC,Loss,Win,Yes,No,No,ECAC,Hockey East
+20142015,Denver,1,@,Dartmouth,1,OT,Ledyard Bank Classic,1/2/2015,NC,Tie,Tie,Yes,No,No,ECAC,NCHC
+20142015,Army,4,@,American International,3,,,1/3/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,1,@,Holy Cross,3,,,1/3/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,2,@,Sacred Heart,2,OT,,1/3/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Minnesota State,2,@,Northern Michigan,2,OT,,1/3/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Ferris State,0,@,Alaska,6,,,1/3/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,1,@,Alabama-Huntsville,2,,,1/3/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Robert Morris,2,vs.,Bowling Green,2,OT,,1/3/2015,NC,Tie,Tie,No,No,No,WCHA,Atlantic Hockey
+20142015,Union,3,@,Boston University,3,OT,,1/3/2015,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20142015,Canisius,1,@,Maine,3,,,1/3/2015,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20142015,Ohio State,2,@,Mercyhurst,2,OT,,1/3/2015,NC,Tie,Tie,No,No,No,Atlantic Hockey,Big Ten
+20142015,St. Lawrence,2,@,Northeastern,4,,,1/3/2015,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Colorado College,4,@,Providence,5,OT,,1/3/2015,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20142015,Miami,3,@,Rensselaer,0,,,1/3/2015,NC,Loss,Win,No,No,No,ECAC,NCHC
+20142015,Quinnipiac,4,@,St. Cloud State,1,,,1/3/2015,NC,Loss,Win,No,No,No,NCHC,ECAC
+20142015,Michigan Tech,0,@,Wisconsin,2,,,1/3/2015,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20142015,Vermont,1,@,Yale,3,,,1/3/2015,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20142015,Massachusetts-Lowell,3,vs.,Merrimack,1,,Mariucci Classic,1/3/2015,NC,Loss,Win,Yes,No,No,Hockey East,Hockey East
+20142015,RIT,2,@,Minnesota,3,OT,Mariucci Classic,1/3/2015,NC,Win,Loss,Yes,No,No,Big Ten,Atlantic Hockey
+20142015,Denver,5,vs.,Brown,3,,Ledyard Bank Classic,1/3/2015,NC,Loss,Win,Yes,No,No,ECAC,NCHC
+20142015,Boston College,3,@,Dartmouth,2,,Ledyard Bank Classic,1/3/2015,NC,Loss,Win,Yes,No,No,ECAC,Hockey East
+20142015,Colorado College,3,@,Providence,5,,,1/4/2015,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20142015,Bowling Green,4,@,Robert Morris,1,,,1/4/2015,NC,Loss,Win,No,No,No,Atlantic Hockey,WCHA
+20142015,Yale,2,@,Northeastern,3,,,1/6/2015,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Colorado College,4,@,Connecticut,1,,,1/6/2015,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20142015,Ferris State,4,@,Alaska-Anchorage,1,,,1/8/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Niagara,3,@,Air Force,4,,,1/9/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,1,@,Canisius,2,OT,,1/9/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,2,@,Mercyhurst,7,,,1/9/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,3,@,RIT,3,OT,,1/9/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,0,@,Robert Morris,3,,,1/9/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Ohio State,5,@,Penn State,4,OT,,1/9/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Minnesota,3,@,Michigan,4,OT,,1/9/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Colgate,2,@,Clarkson,1,,,1/9/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Union,5,@,Princeton,2,,,1/9/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Rensselaer,2,@,Quinnipiac,4,,,1/9/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Cornell,1,@,St. Lawrence,3,,,1/9/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Boston College,1,@,Northeastern,1,OT,,1/9/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Miami,1,@,St. Cloud State,3,,,1/9/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,4,@,North Dakota,1,,,1/9/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Denver,4,@,Nebraska-Omaha,5,,,1/9/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Alaska,0,@,Bowling Green,3,,,1/9/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,0,@,Bemidji State,4,,,1/9/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,2,@,Minnesota State,5,,,1/9/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,3,@,Northern Michigan,3,OT,,1/9/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Ferris State,3,@,Alaska-Anchorage,2,,,1/9/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Connecticut,6,@,Army,3,,,1/9/2015,NC,Loss,Win,No,No,No,Atlantic Hockey,Hockey East
+20142015,Maine,2,@,Massachusetts,3,,,1/9/2015,NC,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Dartmouth,2,@,New Hampshire,2,OT,,1/9/2015,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20142015,Boston University,3,@,Wisconsin,3,OT,,1/9/2015,NC,Tie,Tie,No,No,No,Big Ten,Hockey East
+20142015,Notre Dame,2,@,Western Michigan,4,,,1/9/2015,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20142015,Providence,3,@,Brown,2,OT,Mayor's Cup,1/9/2015,NC,Loss,Win,Yes,No,No,ECAC,Hockey East
+20142015,Niagara,3,@,Air Force,4,OT,,1/10/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,1,@,Canisius,2,,,1/10/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,2,@,Mercyhurst,4,,,1/10/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,2,@,RIT,3,,,1/10/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,1,@,Robert Morris,0,,,1/10/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Ohio State,1,@,Penn State,4,,,1/10/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Minnesota,5,@,Michigan,7,,,1/10/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Cornell,2,@,Clarkson,0,,,1/10/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Rensselaer,5,@,Princeton,2,,,1/10/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Union,3,@,Quinnipiac,4,,,1/10/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Colgate,2,@,St. Lawrence,0,,,1/10/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Northeastern,2,@,Boston College,4,,,1/10/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,0,@,Connecticut,2,,,1/10/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Miami,2,@,St. Cloud State,3,,,1/10/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,2,@,North Dakota,5,,,1/10/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Denver,0,@,Nebraska-Omaha,1,,,1/10/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Alaska,4,@,Bowling Green,4,OT,,1/10/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,0,@,Bemidji State,4,,,1/10/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,1,@,Minnesota State,3,,,1/10/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,5,@,Michigan Tech,4,OT,,1/10/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Western Michigan,4,@,Notre Dame,3,,,1/10/2015,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20142015,Maine,3,@,Massachusetts,0,,,1/10/2015,NC,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston University,6,@,Wisconsin,1,,,1/10/2015,NC,Loss,Win,No,No,No,Big Ten,Hockey East
+20142015,Harvard,1,vs.,Yale,4,,,1/10/2015,NC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Brown,5,@,Providence,3,,Mayor's Cup,1/10/2015,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20142015,Vermont,4,@,Dartmouth,1,,,1/11/2015,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20142015,Canisius,5,@,Mercyhurst,2,,,1/13/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Providence,1,@,New Hampshire,2,,,1/13/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Army,3,@,Air Force,4,,,1/16/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,2,@,Canisius,2,OT,,1/16/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,1,@,Mercyhurst,2,,,1/16/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,3,@,Robert Morris,5,,,1/16/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,4,@,Sacred Heart,1,,,1/16/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan,10,@,Ohio State,6,,,1/16/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Michigan State,2,@,Penn State,2,OT,"Michigan State wins shootout, 1-0",1/16/2015,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20142015,Wisconsin,2,@,Minnesota,2,OT,"Wisconsin wins shootout, 2-1",1/16/2015,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20142015,Yale,1,@,Brown,0,,,1/16/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,3,@,Dartmouth,2,,,1/16/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Clarkson,3,@,Harvard,6,,,1/16/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Colgate,1,@,Rensselaer,4,,,1/16/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Cornell,5,@,Union,1,,,1/16/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Boston College,4,@,Boston University,2,,,1/16/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,2,@,Maine,0,,,1/16/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Connecticut,3,@,Notre Dame,3,OT,,1/16/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,4,@,Massachusetts,6,,,1/16/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,4,@,Vermont,1,,,1/16/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Nebraska-Omaha,3,@,Colorado College,4,,,1/16/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,1,@,Denver,3,,,1/16/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Western Michigan,2,@,Minnesota-Duluth,2,OT,"Western Michigan wins shootout, 2-1 (4 rounds)",1/16/2015,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Minnesota State,2,@,Ferris State,1,,,1/16/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bemidji State,0,@,Lake Superior,1,,,1/16/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bowling Green,3,@,Michigan Tech,4,,,1/16/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,2,@,Alaska,1,,,1/16/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,1,@,Alabama-Huntsville,2,,,1/16/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Quinnipiac,3,@,Merrimack,4,,,1/16/2015,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20142015,Niagara,1,@,North Dakota,7,,,1/16/2015,NC,Win,Loss,No,No,No,NCHC,Atlantic Hockey
+20142015,Army,1,@,Air Force,3,,,1/17/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,0,@,Canisius,2,,,1/17/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,4,@,Mercyhurst,5,OT,,1/17/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,4,@,Robert Morris,9,,,1/17/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,3,@,Sacred Heart,1,,,1/17/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan State,2,@,Penn State,5,,,1/17/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Wisconsin,2,@,Minnesota,5,,,1/17/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Clarkson,5,@,Dartmouth,2,,,1/17/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,5,@,Harvard,1,,,1/17/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Cornell,0,@,Rensselaer,3,,,1/17/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Colgate,5,@,Union,4,,,1/17/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Brown,1,@,Yale,5,,,1/17/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Massachusetts,2,@,New Hampshire,5,,,1/17/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Nebraska-Omaha,4,@,Colorado College,1,,,1/17/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,1,@,Denver,4,,,1/17/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Western Michigan,4,@,Minnesota-Duluth,2,,,1/17/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Minnesota State,3,@,Ferris State,1,,,1/17/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bemidji State,2,@,Lake Superior,4,,,1/17/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bowling Green,3,@,Michigan Tech,2,,,1/17/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,3,@,Alaska,2,OT,,1/17/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,2,@,Alabama-Huntsville,3,,,1/17/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Merrimack,3,@,Quinnipiac,1,,,1/17/2015,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20142015,Niagara,0,@,North Dakota,5,,,1/17/2015,NC,Win,Loss,No,No,No,NCHC,Atlantic Hockey
+20142015,Northeastern,2,@,Vermont,2,OT,,1/17/2015,NC,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,3,@,Boston University,4,OT,,1/18/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Boston College,2,@,Maine,4,,,1/18/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Notre Dame,6,@,Connecticut,1,,,1/18/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,1,@,Boston College,2,,,1/21/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Canisius,4,@,Niagara,1,,,1/22/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,2,@,American International,1,OT,,1/23/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,1,@,Bentley,2,,,1/23/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,4,@,Holy Cross,3,,,1/23/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,2,@,Sacred Heart,2,OT,,1/23/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Ohio State,1,@,Michigan State,4,,,1/23/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Michigan,7,@,Wisconsin,4,,,1/23/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Brown,0,@,Clarkson,6,,,1/23/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Dartmouth,2,@,Colgate,2,OT,,1/23/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Harvard,2,@,Cornell,3,,,1/23/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Yale,2,@,St. Lawrence,3,OT,,1/23/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Massachusetts,4,@,Merrimack,4,OT,,1/23/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,4,@,Maine,6,,,1/23/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Notre Dame,2,@,Northeastern,3,,,1/23/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Providence,7,@,Massachusetts-Lowell,3,,,1/23/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston University,4,@,Vermont,2,,,1/23/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Denver,3,@,Miami,1,,,1/23/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Western Michigan,0,@,St. Cloud State,7,,,1/23/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Colorado College,1,@,North Dakota,2,,,1/23/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Lake Superior,3,@,Bowling Green,1,,,1/23/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska,3,@,Michigan Tech,4,OT,,1/23/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,4,@,Penn State,5,,,1/23/2015,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20142015,Minnesota,2,vs.,Minnesota State,4,,North Star College Cup,1/23/2015,NC,Win,Loss,Yes,No,No,WCHA,Big Ten
+20142015,Bemidji State,4,vs.,Minnesota-Duluth,0,,North Star College Cup,1/23/2015,NC,Loss,Win,Yes,No,No,NCHC,WCHA
+20142015,Air Force,6,@,American International,2,,,1/24/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,5,@,Bentley,2,,,1/24/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,2,@,Holy Cross,1,,,1/24/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,6,@,Niagara,4,,,1/24/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,1,@,Sacred Heart,5,,,1/24/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Ohio State,0,@,Michigan State,2,,,1/24/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Michigan,6,@,Wisconsin,0,,,1/24/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Yale,0,@,Clarkson,1,,,1/24/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Harvard,6,@,Colgate,1,,,1/24/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Dartmouth,5,@,Cornell,2,,,1/24/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Brown,2,@,St. Lawrence,5,,,1/24/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Connecticut,2,@,Boston College,3,,,1/24/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Notre Dame,2,@,Northeastern,4,,,1/24/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,1,@,Providence,4,,,1/24/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Maine,4,@,New Hampshire,0,,,1/24/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston University,2,@,Vermont,1,OT,,1/24/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Denver,1,@,Miami,4,,,1/24/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Western Michigan,3,@,St. Cloud State,2,,,1/24/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Colorado College,3,@,North Dakota,5,,,1/24/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Lake Superior,1,@,Bowling Green,3,,,1/24/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska,2,@,Michigan Tech,3,,,1/24/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,5,@,Penn State,5,OT,,1/24/2015,NC,Tie,Tie,No,No,No,Big Ten,WCHA
+20142015,Rensselaer,3,vs.,Union,8,,Mayor's Cup,1/24/2015,NC,Win,Loss,Yes,No,No,ECAC,ECAC
+20142015,Minnesota State,1,vs.,Bemidji State,3,,North Star College Cup,1/24/2015,NC,Win,Loss,Yes,No,No,WCHA,WCHA
+20142015,Minnesota,1,vs.,Minnesota-Duluth,2,,North Star College Cup,1/24/2015,NC,Win,Loss,Yes,No,No,NCHC,Big Ten
+20142015,Merrimack,1,@,Massachusetts,4,,,1/25/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Army,1,@,Princeton,4,,,1/28/2015,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20142015,Robert Morris,5,@,Air Force,4,OT,,1/30/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,4,@,American International,4,OT,,1/30/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,3,@,Holy Cross,6,,,1/30/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,3,@,Mercyhurst,2,,,1/30/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,4,@,RIT,2,,,1/30/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan,1,vs.,Michigan State,2,,,1/30/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Minnesota,7,@,Wisconsin,5,,,1/30/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Quinnipiac,5,@,Brown,3,,,1/30/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Cornell,2,@,Colgate,1,OT,,1/30/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Rensselaer,1,@,Dartmouth,3,,,1/30/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Union,5,@,Harvard,4,,,1/30/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Princeton,0,@,Yale,4,,,1/30/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Providence,2,@,Boston College,3,,,1/30/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts,5,@,Boston University,9,,,1/30/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,1,@,Merrimack,2,,,1/30/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Connecticut,2,@,Maine,1,OT,,1/30/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,5,@,Notre Dame,2,,,1/30/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,St. Cloud State,7,@,Colorado College,1,,,1/30/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,2,@,Denver,3,,,1/30/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,North Dakota,2,@,Nebraska-Omaha,3,OT,,1/30/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Bowling Green,2,@,Bemidji State,5,,,1/30/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Ferris State,1,@,Minnesota State,5,,,1/30/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,0,@,Michigan Tech,5,,,1/30/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,3,@,Northern Michigan,5,,,1/30/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Robert Morris,5,@,Air Force,2,,,1/31/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,2,@,American International,2,OT,,1/31/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,1,@,Holy Cross,5,,,1/31/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,4,@,Mercyhurst,3,,,1/31/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,1,@,RIT,4,,,1/31/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Minnesota,4,@,Wisconsin,4,OT,"Wisconsin wins shootout, 3-2 (7 rounds)",1/31/2015,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20142015,Princeton,2,@,Brown,2,OT,,1/31/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,2,@,Clarkson,1,,,1/31/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Colgate,2,@,Cornell,2,OT,,1/31/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Union,2,@,Dartmouth,3,,,1/31/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,2,@,Yale,2,OT,,1/31/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,New Hampshire,3,@,Notre Dame,5,,,1/31/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,1,@,Massachusetts-Lowell,4,,,1/31/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,St. Cloud State,6,@,Colorado College,1,,,1/31/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,4,@,Denver,2,,,1/31/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,North Dakota,4,@,Nebraska-Omaha,3,OT,,1/31/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Miami,3,@,Western Michigan,3,OT,"Miami wins shootout, 2-1 (4 rounds)",1/31/2015,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Bowling Green,2,@,Bemidji State,2,OT,,1/31/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Ferris State,1,@,Minnesota State,5,,,1/31/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,1,@,Michigan Tech,11,,,1/31/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,2,@,Northern Michigan,3,OT,,1/31/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Penn State,4,vs.,Vermont,2,,,1/31/2015,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20142015,Maine,2,@,Connecticut,2,OT,,2/1/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,3,vs.,Boston College,2,,Beanpot,2/3/2015,NC,Loss,Win,Yes,No,No,Hockey East,Hockey East
+20142015,Harvard,3,vs.,Boston University,4,2 OT,Beanpot,2/3/2015,NC,Win,Loss,Yes,No,No,Hockey East,ECAC
+20142015,Providence,2,@,Connecticut,2,OT,,2/4/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Mercyhurst,3,@,American International,1,,,2/6/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,3,@,Bentley,4,,,2/6/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,7,@,Niagara,3,,,2/6/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,1,@,Robert Morris,2,OT,,2/6/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,4,@,Sacred Heart,5,OT,,2/6/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Wisconsin,2,@,Penn State,5,,,2/6/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Ohio State,2,@,Minnesota,4,,,2/6/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Dartmouth,6,@,Brown,3,,,2/6/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Union,4,@,Clarkson,1,,,2/6/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Princeton,0,@,Colgate,2,,,2/6/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,1,@,Cornell,0,OT,,2/6/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Rensselaer,1,@,St. Lawrence,3,,,2/6/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Harvard,0,@,Yale,3,,,2/6/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Boston College,4,@,Merrimack,2,,,2/6/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Notre Dame,4,@,Maine,4,OT,,2/6/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,5,@,Massachusetts,3,,,2/6/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston University,5,@,Massachusetts-Lowell,2,,,2/6/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,2,@,Vermont,5,,,2/6/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Denver,3,@,Colorado College,0,,,2/6/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Ferris State,1,@,Bowling Green,2,,,2/6/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,2,@,Minnesota State,5,,,2/6/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bemidji State,1,@,Michigan Tech,3,,,2/6/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,1,@,Alaska,3,,,2/6/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,1,@,Minnesota-Duluth,3,,,2/6/2015,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Mercyhurst,5,@,American International,2,,,2/7/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Bentley,5,@,Holy Cross,2,,,2/7/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,4,@,RIT,4,OT,,2/7/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,1,@,Robert Morris,1,OT,,2/7/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,2,@,Sacred Heart,3,,,2/7/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Wisconsin,1,@,Penn State,4,,,2/7/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Michigan State,1,vs.,Michigan,4,,,2/7/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Ohio State,2,@,Minnesota,6,,,2/7/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Harvard,1,@,Brown,2,,,2/7/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Rensselaer,2,@,Clarkson,5,,,2/7/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,4,@,Colgate,2,,,2/7/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Princeton,2,@,Cornell,4,,,2/7/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Union,1,@,St. Lawrence,7,,,2/7/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Dartmouth,6,@,Yale,4,,,2/7/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Notre Dame,5,@,Maine,1,,,2/7/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Connecticut,1,@,Providence,10,,,2/7/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts-Lowell,2,@,Massachusetts,5,,,2/7/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,6,@,Vermont,3,,,2/7/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Miami,4,vs.,Western Michigan,3,,,2/7/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Ferris State,2,@,Bowling Green,3,,,2/7/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,0,@,Minnesota State,4,,,2/7/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bemidji State,1,@,Michigan Tech,2,,,2/7/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,1,@,Alaska,2,,,2/7/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,3,@,Minnesota-Duluth,6,,,2/7/2015,NC,Win,Loss,No,No,No,NCHC,WCHA
+20142015,Merrimack,0,@,Connecticut,1,,,2/10/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,American International,3,@,Air Force,9,,,2/13/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,1,@,Bentley,3,,,2/13/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,2,@,Canisius,1,,,2/13/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,1,@,Holy Cross,3,,,2/13/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,2,@,Mercyhurst,5,,,2/13/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Penn State,0,@,Michigan State,3,,,2/13/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Wisconsin,1,@,Ohio State,2,,,2/13/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Michigan,2,@,Minnesota,6,,,2/13/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Cornell,2,@,Dartmouth,3,,,2/13/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Colgate,1,@,Harvard,4,,,2/13/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Clarkson,1,@,Princeton,2,,,2/13/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,1,@,Quinnipiac,2,,,2/13/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Brown,6,@,Rensselaer,3,,,2/13/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Yale,2,@,Union,0,,,2/13/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Vermont,3,@,Boston College,2,OT,,2/13/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,3,@,Boston University,6,,,2/13/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Maine,4,@,Merrimack,3,,,2/13/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Providence,0,@,Notre Dame,2,,,2/13/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Connecticut,0,@,Northeastern,9,,,2/13/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Miami,3,@,Colorado College,1,,,2/13/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,2,@,Minnesota-Duluth,4,,,2/13/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Denver,2,@,North Dakota,4,,,2/13/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Western Michigan,2,@,Nebraska-Omaha,1,,,2/13/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Bowling Green,4,@,Ferris State,1,,,2/13/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,1,@,Lake Superior,1,OT,,2/13/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Bemidji State,1,@,Northern Michigan,0,,,2/13/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,5,@,Alaska-Anchorage,1,,,2/13/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Minnesota State,1,@,Alaska,1,OT,,2/13/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Massachusetts-Lowell,3,@,Massachusetts,3,OT,,2/13/2015,NC,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,American International,1,@,Air Force,3,,,2/14/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,1,@,Canisius,3,,,2/14/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,RIT,2,@,Holy Cross,0,,,2/14/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,1,@,Mercyhurst,4,,,2/14/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Penn State,2,@,Michigan State,3,,,2/14/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Wisconsin,3,@,Ohio State,2,,,2/14/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Michigan,0,@,Minnesota,2,,,2/14/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Colgate,3,@,Dartmouth,0,,,2/14/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Cornell,3,@,Harvard,3,OT,,2/14/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,1,@,Princeton,1,OT,,2/14/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Clarkson,1,@,Quinnipiac,4,,,2/14/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Yale,4,@,Rensselaer,1,,,2/14/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Brown,1,@,Union,0,,,2/14/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Vermont,5,@,Boston College,6,,,2/14/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Maine,5,@,Merrimack,3,,,2/14/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Providence,3,@,Notre Dame,2,,,2/14/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,6,@,Connecticut,1,,,2/14/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts,1,@,Massachusetts-Lowell,7,,,2/14/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Boston University,3,@,New Hampshire,4,,,2/14/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Miami,2,@,Colorado College,1,,,2/14/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,4,@,Minnesota-Duluth,1,,,2/14/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Denver,3,@,North Dakota,3,OT,"Denver wins shootout, 1-0",2/14/2015,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Western Michigan,1,@,Nebraska-Omaha,3,,,2/14/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Bowling Green,2,@,Ferris State,3,OT,,2/14/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alabama-Huntsville,3,@,Lake Superior,1,,,2/14/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bemidji State,5,@,Northern Michigan,1,,,2/14/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,10,@,Alaska-Anchorage,0,,,2/14/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Minnesota State,1,@,Alaska,3,,,2/14/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bentley,1,@,Army,1,OT,,2/20/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Canisius,4,@,Mercyhurst,2,,,2/20/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,1,@,Niagara,6,,,2/20/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,4,@,RIT,3,,,2/20/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,1,@,Sacred Heart,0,,,2/20/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan,3,@,Ohio State,5,,,2/20/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Minnesota,2,@,Penn State,1,,,2/20/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Michigan State,1,@,Wisconsin,2,,,2/20/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Dartmouth,3,@,Clarkson,2,OT,,2/20/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Union,0,@,Colgate,2,,,2/20/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Rensselaer,2,@,Cornell,2,OT,,2/20/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Brown,4,@,Princeton,1,,,2/20/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Yale,2,@,Quinnipiac,2,OT,,2/20/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Harvard,1,@,St. Lawrence,5,,,2/20/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Massachusetts-Lowell,2,@,Boston College,2,OT,,2/20/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Notre Dame,2,@,Boston University,2,OT,,2/20/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,6,@,Maine,4,,,2/20/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts,2,@,Providence,3,OT,,2/20/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,New Hampshire,4,@,Connecticut,1,,,2/20/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,1,@,Vermont,2,,,2/20/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Denver,6,@,Colorado College,4,,,2/20/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,3,@,Miami,1,,,2/20/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Nebraska-Omaha,3,@,St. Cloud State,4,,,2/20/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,North Dakota,3,@,Western Michigan,1,,,2/20/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Northern Michigan,3,@,Bowling Green,2,OT,,2/20/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,2,@,Bemidji State,3,,,2/20/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Ferris State,2,@,Alabama-Huntsville,1,,,2/20/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bentley,2,@,Army,2,OT,,2/21/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,1,@,Canisius,3,,,2/21/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,5,@,Holy Cross,0,,,2/21/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,4,@,Niagara,4,OT,,2/21/2015,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,3,@,RIT,4,,,2/21/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Minnesota,3,@,Penn State,4,OT,,2/21/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Michigan State,3,@,Wisconsin,0,,,2/21/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Harvard,3,@,Clarkson,2,,,2/21/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Rensselaer,2,@,Colgate,4,,,2/21/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Union,1,@,Cornell,2,,,2/21/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Yale,6,@,Princeton,2,,,2/21/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Brown,2,@,Quinnipiac,2,OT,,2/21/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Dartmouth,3,@,St. Lawrence,6,,,2/21/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Notre Dame,3,@,Boston University,2,,,2/21/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Northeastern,3,@,Maine,6,,,2/21/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Providence,1,@,Massachusetts,2,OT,,2/21/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Connecticut,1,@,New Hampshire,5,,,2/21/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,0,@,Vermont,0,OT,,2/21/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Colorado College,3,@,Denver,6,,,2/21/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,3,@,Miami,4,OT,,2/21/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Nebraska-Omaha,0,@,St. Cloud State,2,,,2/21/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,North Dakota,3,@,Western Michigan,2,OT,,2/21/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Northern Michigan,4,@,Bowling Green,3,,,2/21/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska-Anchorage,1,@,Bemidji State,3,,,2/21/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Ferris State,3,@,Alabama-Huntsville,2,,,2/21/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Ohio State,2,@,Michigan,5,,,2/22/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Harvard,2,vs.,Boston College,3,OT,Beanpot,2/23/2015,NC,Win,Loss,Yes,No,No,Hockey East,ECAC
+20142015,Boston University,4,vs.,Northeastern,3,OT,Beanpot,2/23/2015,NC,Loss,Win,Yes,No,No,Hockey East,Hockey East
+20142015,Bentley,1,@,Sacred Heart,4,,,2/26/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan State,3,@,Minnesota,5,,,2/26/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Canisius,4,@,Air Force,1,,,2/27/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,0,@,American International,4,,,2/27/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Robert Morris,1,@,Niagara,2,,,2/27/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,0,@,RIT,8,,,2/27/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Penn State,3,@,Ohio State,5,,,2/27/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Wisconsin,0,@,Michigan,3,,,2/27/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Michigan State,4,@,Minnesota,2,,,2/27/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Cornell,3,@,Brown,3,OT,,2/27/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Princeton,1,@,Dartmouth,3,,,2/27/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,5,@,Harvard,2,,,2/27/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Clarkson,3,@,Rensselaer,3,OT,,2/27/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,2,@,Union,3,,,2/27/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Colgate,2,@,Yale,2,OT,,2/27/2015,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20142015,Northeastern,6,@,Boston University,5,,,2/27/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Boston College,2,@,Notre Dame,0,,,2/27/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Maine,2,@,Providence,5,,,2/27/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Massachusetts,0,@,Connecticut,4,,,2/27/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Vermont,1,@,Massachusetts-Lowell,4,,,2/27/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,1,@,New Hampshire,4,,,2/27/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Western Michigan,2,@,Colorado College,2,OT,"Western Michigan wins shootout, 1-0",2/27/2015,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Miami,5,@,Denver,3,,,2/27/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Nebraska-Omaha,1,@,Minnesota-Duluth,1,OT,"Nebraska-Omaha wins shootout, 2-0",2/27/2015,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,2,@,North Dakota,3,,,2/27/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Bemidji State,2,@,Ferris State,1,,,2/27/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,1,@,Minnesota State,1,OT,,2/27/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Lake Superior,0,@,Northern Michigan,5,,,2/27/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Bowling Green,4,@,Alaska-Anchorage,3,,,2/27/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska,4,@,Alabama-Huntsville,2,,,2/27/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Canisius,1,@,Air Force,4,,,2/28/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,American International,1,@,Army,5,,,2/28/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Holy Cross,2,@,Bentley,1,,,2/28/2015,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,1,@,RIT,2,OT,,2/28/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,1,@,Robert Morris,2,,,2/28/2015,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20142015,Penn State,3,@,Ohio State,5,,,2/28/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Wisconsin,2,@,Michigan,5,,,2/28/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Colgate,4,@,Brown,2,,,2/28/2015,EC,Loss,Win,No,No,No,ECAC,ECAC
+20142015,Quinnipiac,1,@,Dartmouth,3,,,2/28/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Princeton,0,@,Harvard,5,,,2/28/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,St. Lawrence,3,@,Rensselaer,4,,,2/28/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Clarkson,2,@,Union,3,,,2/28/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Cornell,0,@,Yale,4,,,2/28/2015,EC,Win,Loss,No,No,No,ECAC,ECAC
+20142015,Boston College,1,@,Notre Dame,3,,,2/28/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Boston University,6,@,Northeastern,1,,,2/28/2015,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20142015,Maine,2,@,Providence,5,,,2/28/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Vermont,2,@,Massachusetts-Lowell,2,OT,,2/28/2015,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20142015,Merrimack,0,@,New Hampshire,3,,,2/28/2015,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20142015,Western Michigan,0,@,Colorado College,5,,,2/28/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Miami,2,@,Denver,6,,,2/28/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Nebraska-Omaha,1,@,Minnesota-Duluth,1,OT,"Nebraska-Omaha wins shootout, 2-1",2/28/2015,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,St. Cloud State,1,@,North Dakota,3,,,2/28/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Bemidji State,1,@,Ferris State,1,OT,,2/28/2015,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,2,@,Minnesota State,4,,,2/28/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Lake Superior,3,@,Northern Michigan,0,,,2/28/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Bowling Green,1,@,Alaska-Anchorage,6,,,2/28/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska,4,@,Alabama-Huntsville,3,OT,,2/28/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,American International,1,@,Air Force,6,,AHA Tournament,3/6/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,2,@,Holy Cross,1,,AHA Tournament,3/6/2015,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,0,@,Sacred Heart,2,,AHA Tournament,3/6/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Wisconsin,0,@,Michigan State,3,,,3/6/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Minnesota,4,@,Ohio State,2,,,3/6/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Michigan,4,@,Penn State,6,,,3/6/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Rensselaer,3,@,Clarkson,2,,ECAC Tournament,3/6/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Union,4,@,Cornell,2,,ECAC Tournament,3/6/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Princeton,2,@,Dartmouth,3,,ECAC Tournament,3/6/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Brown,2,@,Harvard,6,,ECAC Tournament,3/6/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Massachusetts,4,@,Notre Dame,3,5 OT,HEA Tournament,3/6/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,Merrimack,3,@,Northeastern,2,OT,HEA Tournament,3/6/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,Connecticut,2,@,New Hampshire,5,,HEA Tournament,3/6/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Maine,2,@,Vermont,4,,HEA Tournament,3/6/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,North Dakota,2,@,Miami,1,,,3/6/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Denver,3,@,St. Cloud State,2,,,3/6/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Colorado College,2,@,Nebraska-Omaha,2,OT,"Colorado College wins shootout, 1-0",3/6/2015,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,6,@,Western Michigan,3,,,3/6/2015,NT,Loss,Win,No,No,No,NCHC,NCHC
+20142015,Alabama-Huntsville,2,@,Bowling Green,7,,,3/6/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Minnesota State,2,@,Bemidji State,5,,,3/6/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Ferris State,4,@,Lake Superior,1,,,3/6/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Northern Michigan,1,@,Michigan Tech,5,,,3/6/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Alaska,1,@,Alaska-Anchorage,0,,,3/6/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,American International,3,@,Air Force,10,,AHA Tournament,3/7/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,1,@,Holy Cross,2,3 OT,AHA Tournament,3/7/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Army,2,@,Sacred Heart,5,,AHA Tournament,3/7/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Wisconsin,0,@,Michigan State,3,,,3/7/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Minnesota,2,@,Ohio State,5,,,3/7/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Michigan,3,@,Penn State,4,,,3/7/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Rensselaer,0,@,Clarkson,5,,ECAC Tournament,3/7/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Union,7,@,Cornell,0,,ECAC Tournament,3/7/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Princeton,0,@,Dartmouth,2,,ECAC Tournament,3/7/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Brown,3,@,Harvard,4,,ECAC Tournament,3/7/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Massachusetts,3,@,Notre Dame,5,,HEA Tournament,3/7/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Merrimack,2,@,Northeastern,1,2 OT,HEA Tournament,3/7/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,Connecticut,0,@,New Hampshire,2,,HEA Tournament,3/7/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Maine,4,@,Vermont,2,,HEA Tournament,3/7/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,North Dakota,3,@,Miami,6,,,3/7/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Denver,2,@,St. Cloud State,4,,,3/7/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Colorado College,2,@,Nebraska-Omaha,4,,,3/7/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Minnesota-Duluth,0,@,Western Michigan,3,,,3/7/2015,NT,Win,Loss,No,No,No,NCHC,NCHC
+20142015,Alabama-Huntsville,1,@,Bowling Green,2,,,3/7/2015,WC,Win,Loss,No,No,No,WCHA,WCHA
+20142015,Minnesota State,3,@,Bemidji State,0,,,3/7/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Ferris State,3,@,Lake Superior,0,,,3/7/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Michigan Tech,3,@,Northern Michigan,1,,,3/7/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Alaska,3,@,Alaska-Anchorage,2,,,3/7/2015,WC,Loss,Win,No,No,No,WCHA,WCHA
+20142015,Niagara,5,@,Holy Cross,3,,AHA Tournament,3/8/2015,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Rensselaer,3,@,Clarkson,1,,ECAC Tournament,3/8/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Massachusetts,0,@,Notre Dame,7,,HEA Tournament,3/8/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Maine,2,@,Vermont,3,OT,HEA Tournament,3/8/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Mercyhurst,1,@,Bentley,0,OT,AHA Tournament,3/13/2015,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,0,@,Canisius,2,,AHA Tournament,3/13/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,1,@,RIT,2,,AHA Tournament,3/13/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,2,@,Robert Morris,4,,AHA Tournament,3/13/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan,5,@,Michigan State,3,,,3/13/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Penn State,0,@,Minnesota,5,,,3/13/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Ohio State,2,@,Wisconsin,2,OT,"Ohio State wins shootout, 4-3 (10 rounds)",3/13/2015,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20142015,Dartmouth,1,@,Colgate,3,,ECAC Tournament,3/13/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Union,3,@,Quinnipiac,4,3 OT,ECAC Tournament,3/13/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Rensselaer,0,@,St. Lawrence,1,,ECAC Tournament,3/13/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Harvard,3,@,Yale,2,,ECAC Tournament,3/13/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Vermont,2,@,Boston College,4,,HEA Tournament,3/13/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Merrimack,2,@,Boston University,6,,HEA Tournament,3/13/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,New Hampshire,2,@,Providence,1,OT,HEA Tournament,3/13/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,Notre Dame,0,@,Massachusetts-Lowell,5,,HEA Tournament,3/13/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Minnesota-Duluth,3,@,Denver,4,,NCHC Tournament,3/13/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,Western Michigan,3,@,Miami,5,,NCHC Tournament,3/13/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,Colorado College,1,@,North Dakota,5,,NCHC Tournament,3/13/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,St. Cloud State,2,@,Nebraska-Omaha,1,2 OT,NCHC Tournament,3/13/2015,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20142015,Northern Michigan,2,@,Bowling Green,3,OT,WCHA Tournament,3/13/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Ferris State,4,@,Bemidji State,1,,WCHA Tournament,3/13/2015,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20142015,Lake Superior,2,@,Minnesota State,9,,WCHA Tournament,3/13/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Alabama-Huntsville,0,@,Michigan Tech,1,3 OT,WCHA Tournament,3/13/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Mercyhurst,3,@,Bentley,5,,AHA Tournament,3/14/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Sacred Heart,1,@,Canisius,2,,AHA Tournament,3/14/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Air Force,3,@,RIT,7,,AHA Tournament,3/14/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Niagara,3,@,Robert Morris,6,,AHA Tournament,3/14/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan State,2,@,Michigan,1,,,3/14/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Penn State,2,@,Minnesota,6,,,3/14/2015,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20142015,Ohio State,2,@,Wisconsin,0,,,3/14/2015,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20142015,Dartmouth,2,@,Colgate,3,,ECAC Tournament,3/14/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Union,3,@,Quinnipiac,2,,ECAC Tournament,3/14/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Rensselaer,1,@,St. Lawrence,5,,ECAC Tournament,3/14/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Harvard,0,@,Yale,2,,ECAC Tournament,3/14/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Vermont,3,@,Boston College,1,,HEA Tournament,3/14/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,Merrimack,0,@,Boston University,5,,HEA Tournament,3/14/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,New Hampshire,1,@,Providence,2,,HEA Tournament,3/14/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Notre Dame,4,@,Massachusetts-Lowell,2,,HEA Tournament,3/14/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,Minnesota-Duluth,0,@,Denver,4,,NCHC Tournament,3/14/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,Western Michigan,7,@,Miami,5,,NCHC Tournament,3/14/2015,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20142015,Colorado College,2,@,North Dakota,3,,NCHC Tournament,3/14/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,St. Cloud State,3,@,Nebraska-Omaha,1,,NCHC Tournament,3/14/2015,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20142015,Northern Michigan,1,@,Bowling Green,4,,WCHA Tournament,3/14/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Ferris State,3,@,Bemidji State,2,3 OT,WCHA Tournament,3/14/2015,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20142015,Lake Superior,2,@,Minnesota State,4,,WCHA Tournament,3/14/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Alabama-Huntsville,0,@,Michigan Tech,3,,WCHA Tournament,3/14/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Mercyhurst,3,@,Bentley,2,,AHA Tournament,3/15/2015,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Union,1,@,Quinnipiac,3,,ECAC Tournament,3/15/2015,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20142015,Harvard,3,@,Yale,2,2 OT,ECAC Tournament,3/15/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Vermont,1,@,Boston College,0,,HEA Tournament,3/15/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,New Hampshire,2,@,Providence,1,OT,HEA Tournament,3/15/2015,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20142015,Notre Dame,4,@,Massachusetts-Lowell,6,,HEA Tournament,3/15/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Western Michigan,0,@,Miami,4,,NCHC Tournament,3/15/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,Ohio State,3,vs.,Penn State,1,,Big Ten Tournament,3/19/2015,B10,Loss,Win,Yes,Yes,No,Big Ten,Big Ten
+20142015,Wisconsin,1,vs.,Michigan,5,,Big Ten Tournament,3/19/2015,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20142015,RIT,2,vs.,Canisius,1,,AHA Tournament,3/20/2015,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Mercyhurst,4,vs.,Robert Morris,3,OT,AHA Tournament,3/20/2015,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan,4,vs.,Michigan State,1,,Big Ten Tournament,3/20/2015,B10,Loss,Win,Yes,Yes,No,Big Ten,Big Ten
+20142015,Ohio State,0,vs.,Minnesota,3,,Big Ten Tournament,3/20/2015,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20142015,Harvard,5,vs.,Quinnipiac,2,,ECAC Tournament,3/20/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Colgate,4,vs.,St. Lawrence,3,OT,ECAC Tournament,3/20/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,New Hampshire,1,vs.,Boston University,4,,HEA Tournament,3/20/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Vermont,1,vs.,Massachusetts-Lowell,4,,HEA Tournament,3/20/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,Denver,3,vs.,Miami,6,,NCHC Tournament,3/20/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,St. Cloud State,3,vs.,North Dakota,1,,NCHC Tournament,3/20/2015,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20142015,Ferris State,0,vs.,Minnesota State,4,,WCHA Tournament,3/20/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Bowling Green,2,vs.,Michigan Tech,5,,WCHA Tournament,3/20/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,Mercyhurst,1,vs.,RIT,5,,AHA Tournament,3/21/2015,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20142015,Michigan,2,vs.,Minnesota,4,,Big Ten Tournament,3/21/2015,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20142015,Harvard,4,vs.,Colgate,2,,ECAC Tournament,3/21/2015,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20142015,Massachusetts-Lowell,3,vs.,Boston University,5,,HEA Tournament,3/21/2015,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20142015,St. Cloud State,2,vs.,Miami,3,,NCHC Tournament,3/21/2015,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20142015,Denver,5,vs.,North Dakota,1,,NCHC Tournament,3/21/2015,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20142015,Michigan Tech,2,vs.,Minnesota State,5,,WCHA Tournament,3/21/2015,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20142015,St. Cloud State,3,vs.,Michigan Tech,2,OT,NCAA West Regional,3/27/2015,NC,Loss,Win,Yes,No,Yes,WCHA,NCHC
+20142015,Quinnipiac,1,vs.,North Dakota,4,,NCAA West Regional,3/27/2015,NC,Win,Loss,Yes,No,Yes,NCHC,ECAC
+20142015,Yale,2,vs.,Boston University,3,OT,NCAA Northeast Regional,3/27/2015,NC,Win,Loss,Yes,No,Yes,Hockey East,ECAC
+20142015,Minnesota,1,vs.,Minnesota-Duluth,4,,NCAA Northeast Regional,3/27/2015,NC,Win,Loss,Yes,No,Yes,NCHC,Big Ten
+20142015,Boston College,2,vs.,Denver,5,,NCAA East Regional,3/28/2015,NC,Win,Loss,Yes,No,Yes,NCHC,Hockey East
+20142015,Providence,7,vs.,Miami,5,,NCAA East Regional,3/28/2015,NC,Loss,Win,Yes,No,Yes,NCHC,Hockey East
+20142015,St. Cloud State,1,vs.,North Dakota,4,,NCAA West Regional,3/28/2015,NC,Win,Loss,Yes,No,Yes,NCHC,NCHC
+20142015,RIT,2,vs.,Minnesota State,1,,NCAA Midwest Regional,3/28/2015,NC,Loss,Win,Yes,No,Yes,WCHA,Atlantic Hockey
+20142015,Harvard,1,vs.,Nebraska-Omaha,4,,NCAA Midwest Regional,3/28/2015,NC,Win,Loss,Yes,No,Yes,NCHC,ECAC
+20142015,Minnesota-Duluth,2,vs.,Boston University,3,,NCAA Northeast Regional,3/28/2015,NC,Win,Loss,Yes,No,Yes,Hockey East,NCHC
+20142015,Providence,4,vs.,Denver,1,,NCAA East Regional,3/29/2015,NC,Loss,Win,Yes,No,Yes,NCHC,Hockey East
+20142015,RIT,0,vs.,Nebraska-Omaha,4,,NCAA Midwest Regional,3/29/2015,NC,Win,Loss,Yes,No,Yes,NCHC,Atlantic Hockey
+20142015,Boston University,5,vs.,North Dakota,3,,NCAA Tournament,4/9/2015,NC,Loss,Win,Yes,No,Yes,NCHC,Hockey East
+20142015,Providence,4,vs.,Nebraska-Omaha,1,,NCAA Tournament,4/9/2015,NC,Loss,Win,Yes,No,Yes,NCHC,Hockey East
+20142015,Providence,4,vs.,Boston University,3,,NCAA Tournament,4/11/2015,NC,Loss,Win,Yes,No,Yes,Hockey East,Hockey East
