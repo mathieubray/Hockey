@@ -1,8 +1,11 @@
 library(dplyr)
 library(ggplot2)
 library(ggmap)
+library(ggiraph)
+library(ggimage)
+library(leaflet)
 
-# Load logo images
+# Load team logo images and colors
 
 logo.images <- read.csv("Logos/LogoInfo.csv",header=T,stringsAsFactors=F) %>%
   filter(League == "NCAA") %>%
@@ -11,25 +14,15 @@ logo.images <- read.csv("Logos/LogoInfo.csv",header=T,stringsAsFactors=F) %>%
          Color = ifelse(Team == "Miami","#EF0000",Color)) %>%
   select(Team,Image,Color)
 
-# Load player info
+all.teams <- unique(logo.images$Team)
 
-players <- read.csv("NCAA/Projects/Maps/PlayersHometown.csv",header=T,stringsAsFactors=F) %>%
-  left_join(logo.images,by="Team")
+player.colors <- logo.images$Color
+names(player.colors) <- all.teams
 
-# Extract colors
 
-team.colors <- logo.images$Color
+# Map options
 
-# Add some jitter to the locations (so that players in one city aren't stacked on top of one another)
-
-set.seed(90707)
-
-players$Jitter.Lon <- runif(nrow(players),min=-0.025,max=0.025)
-players$Jitter.Lat <- runif(nrow(players),min=-0.025,max=0.025)
-
-# Options
-
-teams <- unique(players$Team)
+teams <- all.teams
 area <- "USA"
 zoom <- 4
 
@@ -37,50 +30,66 @@ center <- geocode(area, output = "latlona", source = "google")
 center.lon <- as.numeric(center[1])
 center.lat <- as.numeric(center[2])
 
-player.data <- players %>% filter(Team %in% teams)
+
+# Load player info
+
+set.seed(90707)
+
+players <- read.csv("NCAA/Projects/Maps/PlayersHometown.csv",header=T,stringsAsFactors=F) %>%
+  left_join(logo.images,by="Team") %>%
+  rowwise() %>%
+  mutate(Lon = Lon + runif(1,min=-0.025,max=0.025), # Add some jitter to coordinates (so that players in one city aren't stacked on top of one another)
+         Lat = Lat + runif(1,min=-0.025,max=0.025)) %>%
+  filter(Team %in% teams)
 
 
-### Plot map using packages 'ggmap' and 'ggiraph'
 
-library(ggiraph)
-library(ggimage)
+
+### Plot map using packages 'ggmap' and 'ggiraph' ###
 
 # With logos
 
-plot <- ggmap(get_map(area, zoom = zoom)) +
-  geom_image(aes(x = Lon + Jitter.Lon, y = Lat + Jitter.Lat, image=Image), data = player.data, size=0.03, alpha=0.8) +
-  ggplot2::annotate("text",x=center.lon,y=center.lat,col="red",label="@mathieubray",alpha=0.2,cex=30,fontface="bold",angle=30) +
-  geom_point_interactive(aes(x=Lon + Jitter.Lon, y=Lat + Jitter.Lat, tooltip=Label),size=15,alpha=0.01,data=player.data) +
-  theme(axis.title.x=element_blank(),axis.text.x=element_blank(),axis.ticks.x=element_blank(),
-        axis.title.y=element_blank(),axis.text.y=element_blank(),axis.ticks.y=element_blank())
+plot <- ggmap(get_map(area, zoom=zoom)) + # Load map of area
+  geom_image(aes(x=Lon, y=Lat, image=Image), data=players, size=0.03, alpha=0.8) + # Add logos
+  ggplot2::annotate("text", x=center.lon, y=center.lat, col="red", label="@mathieubray", alpha=0.2, cex=30, fontface="bold", angle=30) + # Watermark
+  geom_point_interactive(aes(x=Lon, y=Lat, tooltip=Label),size=15, alpha=0.01, data=players) + # Add interactive points underneath logos
+  theme(axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(), # Remove axes
+        axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank())
 
-ggiraph(code={print(plot)},width=1,width_svg=16,height_svg=12)
+ggiraph(code={print(plot)}, width=1, width_svg=16, height_svg=12) # Interactive plot
 
 
 # Without logos
   
-plot <- ggmap(get_map(area, zoom = zoom)) +
-  #geom_image(aes(x = Lon + Jitter.Lon, y = Lat + Jitter.Lat, image=Image), data = player.data, size=0.03, alpha=0.8) +
-  ggplot2::annotate("text",x=center.lon,y=center.lat,col="red",label="@mathieubray",alpha=0.2,cex=30,fontface="bold",angle=30) +
-  geom_point_interactive(aes(x=Lon + Jitter.Lon, y=Lat + Jitter.Lat, tooltip=Label, color=Team),size=10,alpha=0.5,data=player.data) +
-  scale_color_manual(values=team.colors) +
-  theme(axis.title.x=element_blank(),axis.text.x=element_blank(),axis.ticks.x=element_blank(),
-        axis.title.y=element_blank(),axis.text.y=element_blank(),axis.ticks.y=element_blank(),
-        legend.position="bottom",legend.title = element_blank(),legend.text=element_text(size=20)) + 
-  guides(color = guide_legend(override.aes = list(alpha = 1)))
+plot <- ggmap(get_map(area, zoom=zoom)) + # Load map of area
+  ggplot2::annotate("text", x=center.lon, y=center.lat, col="red", label="@mathieubray", alpha=0.2, cex=30, fontface="bold", angle=30) + # Watermark
+  geom_point_interactive(aes(x=Lon, y=Lat, tooltip=Label, fill=Team), pch=21, color="black", size=10, alpha=0.5, data=players) + # Add interactive points
+  scale_fill_manual(values=player.colors) + # Change color of points
+  guides(fill=guide_legend(override.aes=list(alpha=1))) + # Format legend and remove axes
+  theme(axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(),
+        axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+        legend.position="bottom", legend.title = element_blank(), legend.text=element_text(size=20))
+  
 
-ggiraph(code={print(plot)},width=1,width_svg=16,height_svg=12)
+ggiraph(code={print(plot)}, width=1, width_svg=16, height_svg=12) # Interactive plot
 
 
-### Plot map using package 'leaflet'
 
-library(leaflet)
+### Plot map using package 'leaflet' ###
 
-get.file <- function(team){
-  return(filter(logo.images,Team==team)$Image[1])
+# With Logos
+
+get.file <- function(team){ # Extract image file
+  
+  image <- logo.images %>%
+    filter(Team == team) %>%
+    .$Image %>%
+    unique
+  
+  return(image)
 }
 
-teamIcons <- iconList( # Is there a better way to do this?
+logos <- iconList( # Is there a better way to do this?
   
   "Air Force" = makeIcon(get.file("Air Force")),
   "Alabama-Huntsville" = makeIcon(get.file("Alabama-Huntsville")),
@@ -144,70 +153,52 @@ teamIcons <- iconList( # Is there a better way to do this?
   "Yale" = makeIcon(get.file("Yale"))
 )
 
-getColor <- function(logos){
+leaflet(data = players, options=leafletOptions(worldCopyJump=T)) %>%
+  addTiles() %>% # Map
+  addControl("<b><p style='font-family:arial; font-size:36px; opacity:0.2; '><a href='https://twitter.com/mathieubray' style='color:red; text-decoration:none; '>@mathieubray</a></p>", 
+             position="bottomleft") %>% # Watermark
+  addMarkers(~Lon, ~Lat, 
+             label=~Label, 
+             icon=~logos[Team],
+             options = markerOptions(opacity=0.8),
+             labelOptions=labelOptions(offset=c(20,0)), # Offset arrow in label
+             clusterOptions=markerClusterOptions()) %>% # Group nearby points into clusters
+  setView(lng=center.lon, lat=center.lat, zoom=zoom) # Set default view
   
-  lapply(logos$Team, function(team) {
-   return((logos %>% filter(Team==team))$Color[1])
+
+# Without Logos
+
+logo.color <- function(logos){
+  
+  lapply(logos$Team, function(team) { # Extract color
+    
+    color <- logos %>%
+      filter(Team == team) %>%
+      .$Color %>%
+      unique
+    
+    return(color)
   })
   
 }
 
-icons <- awesomeIcons(
+icons <- awesomeIcons( # Assign color to each icon based on team
   
-  icon = 'map-marker',
-  iconColor = getColor(player.data),
-  library = 'glyphicon',
+  icon = 'record',
+  iconColor = logo.color(players),
+  library = 'ion',
   markerColor = 'white'
   
 )
 
-
-# With Logos
-
-leaflet(data = player.data, options=leafletOptions(worldCopyJump=T)) %>%
+leaflet(data=players, options=leafletOptions(worldCopyJump=T)) %>%
   addTiles() %>% # Map
-  addControl("<b><p style='color:red; font-family:arial; font-size:40px; opacity:0.2; '>@mathieubray</p>", position="bottomleft") %>% # Watermark
-  addMarkers(~Lon+Jitter.Lon, ~Lat+Jitter.Lat, label = ~Label, icon=~teamIcons[Team], labelOptions=labelOptions(offset=c(20,0)), options = markerOptions(opacity=0.8)) %>% # Point with Tooltip
-  setView(lng = center.lon, lat = center.lat, zoom = zoom)
-  
-# Without Logos
-
-leaflet(player.data) %>%
-  addTiles() %>% # Map
-  addAwesomeMarkers(~Lon, ~Lat, icon = icons, label = ~as.character(Label))# Point with Tooltip
+  addControl("<b><p style='font-family:arial; font-size:36px; opacity:0.2; '><a href='https://twitter.com/mathieubray' style='color:red; text-decoration:none; '>@mathieubray</a></p>", 
+             position="bottomleft") %>% # Watermark
+  addAwesomeMarkers(~Lon, ~Lat, 
+                    label = ~as.character(Label),
+                    icon = icons, 
+                    options = markerOptions(opacity=0.8),
+                    clusterOptions=markerClusterOptions()) %>%
+  setView(lng=center.lon, lat=center.lat, zoom=zoom)
  
-
-
-
-
-
-
-
-
-
-
-
-df.20 <- quakes[1:20,]
-
-player.20 <- player.data[1:30]
-
-getColor <- function(quakes) {
-  sapply(quakes$mag, function(mag) {
-    if(mag <= 4) {
-      "green"
-    } else if(mag <= 5) {
-      "orange"
-    } else {
-      "red"
-    } })
-}
-
-icons <- awesomeIcons(
-  icon = 'ios-close',
-  iconColor = 'black',
-  library = 'ion',
-  markerColor = getColor(df.20)
-)
-
-leaflet(df.20) %>% addTiles() %>%
-  addAwesomeMarkers(~long, ~lat, icon=icons, label=~as.character(mag))

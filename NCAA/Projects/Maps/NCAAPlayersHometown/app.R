@@ -5,40 +5,45 @@ library(ggiraph)
 library(ggmap)
 library(leaflet)
 
-logo.page <- "https://raw.githubusercontent.com/mathieubray/Hockey/master/Logos/LogoInfo.csv"
+# Load team logo images and colors
 
-logo.images <- read.csv(logo.page,header=T,stringsAsFactors=F) %>%
+logo.images <- read.csv("Logos/LogoInfo.csv",header=T,stringsAsFactors=F) %>%
   filter(League == "NCAA") %>%
   mutate(Team = ifelse(Team == "Lake Superior","Lake Superior State",Team),
-         Image = paste0("https://raw.githubusercontent.com/mathieubray/Hockey/master/Logos/NCAA/",FileName,".png"),
+         Image = paste0("Logos/NCAA/",FileName,".png"),
          Color = ifelse(Team == "Miami","#EF0000",Color)) %>%
   select(Team,Image,Color)
 
+all.teams <- unique(logo.images$Team)
 
-players <- read.csv("PlayersHometown.csv",header=T,stringsAsFactors=F) %>%
-  left_join(logo.images,by="Team")
+player.colors <- logo.images$Color
+names(player.colors) <- all.teams
 
-teams <- unique(players$Team)
 
-team.colors <- unique(players$Color)
-names(team.colors) <- unique(players$Team)
+# Load player info
 
 set.seed(90707)
 
-players$Jitter.Lon <- runif(nrow(players),min=-0.025,max=0.025)
-players$Jitter.Lat <- runif(nrow(players),min=-0.025,max=0.025)
+players <- read.csv("PlayersHometown.csv",header=T,stringsAsFactors=F) %>%
+  left_join(logo.images,by="Team") %>%
+  rowwise() %>%
+  mutate(Lon = Lon + runif(1,min=-0.025,max=0.025), # Add some jitter to coordinates (so that players in one city aren't stacked on top of one another)
+         Lat = Lat + runif(1,min=-0.025,max=0.025))
 
 
-get.file <- function(team){
-  return(filter(logo.images,Team==team)$Image[1])
+# Set logos as icons for leaflet
+
+get.file <- function(team){ # Extract image file
+  
+  image <- logo.images %>%
+    filter(Team == team) %>%
+    .$Image %>%
+    unique
+  
+  return(image)
 }
 
-center <- suppressWarnings(geocode("USA", output = "latlona", source = "google"))
-
-center.lon <- as.numeric(center[1])
-center.lat <- as.numeric(center[2])
-
-teamIcons <- iconList( # Is there a better way to do this?
+logos <- iconList( # Is there a better way to do this?
   
   "Air Force" = makeIcon(get.file("Air Force")),
   "Alabama-Huntsville" = makeIcon(get.file("Alabama-Huntsville")),
@@ -102,6 +107,30 @@ teamIcons <- iconList( # Is there a better way to do this?
   "Yale" = makeIcon(get.file("Yale"))
 )
 
+# Set unique color markers for leaflet
+
+logo.color <- function(logos){
+  
+  lapply(logos$Team, function(team) { # Extract color
+    
+    color <- logos %>%
+      filter(Team == team) %>%
+      .$Color %>%
+      unique
+    
+    return(color)
+  })
+  
+}
+
+icons <- awesomeIcons( # Assign color to each icon based on team
+  
+  icon = 'record',
+  iconColor = logo.color(players),
+  library = 'ion',
+  markerColor = 'white'
+  
+)
 
 ui <- shinyUI(fluidPage(
   
@@ -113,11 +142,12 @@ ui <- shinyUI(fluidPage(
       p("Hover over logos or points to get player information.",
         "Use the 'Area' and 'Zoom' buttons to focus on a specific area."
         ),
-      fluidRow(column(6,textInput("location", "Area",value="USA",placeholder="Enter a city name to center on (e.g. 'Ann Arbor, Michigan')")),
+      fluidRow(column(6,textInput("location", "Area",value="Ann Arbor, Michigan",placeholder="Enter a city name to center on (e.g. 'Ann Arbor, Michigan')")),
                column(6,selectizeInput("zoom","Zoom",choices=1:10,selected=1))),
-      selectizeInput("teams","Teams",choices=teams,selected=teams,multiple=T),
+      selectizeInput("teams","Teams",choices=all.teams,selected=all.teams,multiple=T),
       actionButton("allTeams","All Teams"),
       actionButton("clearTeams","Clear Teams"),
+      checkboxInput("cluster","Cluster Players (leaflet only)",value=T),
       p(),
       p("Player info from ", 
         a("collegehockeystats.net.",href="http://collegehockeystats.net/")),
@@ -156,56 +186,62 @@ ui <- shinyUI(fluidPage(
 server <- shinyServer(function(input, output, session) {
   
   observeEvent(input$allTeams, {
-    updateSelectizeInput(session, 'teams', choices = teams, selected = teams, server = TRUE)
+    updateSelectizeInput(session, 'teams', choices = all.teams, selected = all.teams, server = TRUE)
   })
   
   observeEvent(input$clearTeams, {
-    updateSelectizeInput(session, 'teams', choices = teams, selected = NULL, server = TRUE)
+    updateSelectizeInput(session, 'teams', choices = all.teams, selected = NULL, server = TRUE)
   })
   
   modifData <- reactive ({
-    return(filter(players,Team %in% input$teams))
+    
+    new.data <- players %>%
+      filter(Team %in% input$teams)
+    
+    return(new.data)
+    
   })
   
   output$playerggmap <- renderggiraph({
     
     area <- removePunctuation(tolower(input$location))
+    
+    if (is.null(area)){
+      area <- "ann arbor michigan"
+    }
+    
     zoom <- as.numeric(input$zoom) + 3
     
     center <- suppressWarnings(geocode(area, output = "latlona", source = "google"))
     
+    if (is.na(as.numeric(center[1])) | is.na(as.numeric(center[2]))){
+      center <- suppressWarnings(geocode("ann arbor michigan", output = "latlona", source = "google"))
+    }
+    
     center.lon <- as.numeric(center[1])
     center.lat <- as.numeric(center[2])
-    
-    if (is.na(center.lon) | is.na(center.lat)){
-      
-      center <- suppressWarnings(geocode("ann arbor michigan", output = "latlona", source = "google"))
-      center.lon <- as.numeric(center[1])
-      center.lat <- as.numeric(center[2])
-      
-    }
     
     player.data <- modifData()
     
     if (nrow(player.data) > 0){
       
-      plot <- ggmap(get_map(area, zoom = zoom)) +
-        #geom_image(aes(x = Lon + Jitter.Lon, y = Lat + Jitter.Lat, image=Image), data = player.data, size=0.03, alpha=0.8) +
-        ggplot2::annotate("text",x=center.lon,y=center.lat,col="red",label="@mathieubray",alpha=0.2,cex=30,fontface="bold",angle=30) +
-        geom_point_interactive(aes(x=Lon + Jitter.Lon, y=Lat + Jitter.Lat, tooltip=Label, color=Team),size=10,alpha=0.5,data=player.data) +
-        scale_color_manual(values=team.colors) +
-        theme(axis.title.x=element_blank(),
-              axis.text.x=element_blank(),
-              axis.ticks.x=element_blank(),
-              axis.title.y=element_blank(),
-              axis.text.y=element_blank(),
-              axis.ticks.y=element_blank(),
-              legend.position="bottom",
-              legend.title = element_blank(),
-              legend.text=element_text(size=20)) + 
-        guides(color = guide_legend(override.aes = list(alpha = 1)))
+      plot <- ggmap(get_map(area, zoom=zoom)) + # Load map of area
+        ggplot2::annotate("text", x=center.lon, y=center.lat, col="red", label="@mathieubray", alpha=0.2, cex=40, fontface="bold", angle=30) + # Watermark
+        geom_point_interactive(aes(x=Lon, y=Lat, tooltip=Label, fill=Team), pch=21, color="black", size=10, alpha=0.5, data=player.data) + # Add interactive points
+        scale_fill_manual(values=player.colors) + # Change color of points
+        guides(fill=guide_legend(override.aes=list(alpha=1))) + # Format legend and remove axes
+        theme(axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(),
+              axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+              legend.position="bottom", legend.title = element_blank(), legend.text=element_text(size=20))
       
-    } else { plot <- ggplot() }
+    } else { 
+      
+      plot <- ggmap(get_map(area, zoom=zoom)) + # Load map of area
+        ggplot2::annotate("text", x=center.lon, y=center.lat, col="red", label="@mathieubray", alpha=0.2, cex=40, fontface="bold", angle=30) + # Watermark
+        theme(axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(),
+              axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank())
+      
+    }
     
     ggiraph(code={print(plot)},width=1,width_svg=20,height_svg=20)
     
@@ -214,37 +250,63 @@ server <- shinyServer(function(input, output, session) {
   output$playerleafletmap <-renderLeaflet({
     
     area <- removePunctuation(tolower(input$location))
+    
+    if (is.null(area)){
+      area <- "ann arbor michigan"
+    }
+    
     zoom <- as.numeric(input$zoom) + 3
     
     center <- suppressWarnings(geocode(area, output = "latlona", source = "google"))
     
+    if (is.na(as.numeric(center[1])) | is.na(as.numeric(center[2]))){
+      center <- suppressWarnings(geocode("ann arbor michigan", output = "latlona", source = "google"))
+    }
+    
     center.lon <- as.numeric(center[1])
     center.lat <- as.numeric(center[2])
-    
-    if (is.na(center.lon) | is.na(center.lat)){
-      
-      center <- suppressWarnings(geocode("ann arbor michigan", output = "latlona", source = "google"))
-      center.lon <- as.numeric(center[1])
-      center.lat <- as.numeric(center[2])
-      
-    }
     
     player.data <- modifData()
     
     if (nrow(player.data) > 0){
+      
+      if(input$cluster){
     
-      leaflet(data = player.data,options=leafletOptions(worldCopyJump=T)) %>% 
-        addTiles() %>%
-        addControl("<b><p style='color:red; font-family:arial; font-size:40px; opacity:0.2; '>@mathieubray</p>", position="bottomleft") %>%
-        addMarkers(~Lon + Jitter.Lon, ~Lat + Jitter.Lat, label = ~Label, icon=~teamIcons[Team], labelOptions=labelOptions(offset=c(20,0)), options = markerOptions(opacity=0.8)) %>%
-        setView(lng = center.lon, lat = center.lat, zoom = zoom)
+      leaflet(data = player.data, options=leafletOptions(worldCopyJump=T)) %>%
+        addTiles() %>% # Map
+        addControl("<b><p style='font-family:arial; font-size:36px; opacity:0.2; '><a href='https://twitter.com/mathieubray' style='color:red; text-decoration:none; '>@mathieubray</a></p>", 
+                   position="bottomleft") %>% # Watermark
+        addMarkers(~Lon, ~Lat, 
+                   label=~Label, 
+                   icon=~logos[Team],
+                   options = markerOptions(opacity=0.8),
+                   labelOptions=labelOptions(offset=c(20,0)), # Offset arrow in label
+                   clusterOptions=markerClusterOptions()) %>% # Group nearby points into clusters
+        setView(lng=center.lon, lat=center.lat, zoom=zoom) # Set default view
+        
+      } else {
+        
+        leaflet(data = player.data, options=leafletOptions(worldCopyJump=T)) %>%
+          addTiles() %>% # Map
+          addControl("<b><p style='font-family:arial; font-size:36px; opacity:0.2; '><a href='https://twitter.com/mathieubray' style='color:red; text-decoration:none; '>@mathieubray</a></p>", 
+                     position="bottomleft") %>% # Watermark
+          addMarkers(~Lon, ~Lat, 
+                     label=~Label, 
+                     icon=~logos[Team],
+                     options = markerOptions(opacity=0.8),
+                     labelOptions=labelOptions(offset=c(20,0))) %>% # Group nearby points into clusters
+          setView(lng=center.lon, lat=center.lat, zoom=zoom) # Set default view
+        
+        
+      }
       
     } else {
       
-      leaflet(data = player.data,options=leafletOptions(worldCopyJump=T)) %>% 
-        addTiles() %>%
-        addControl("<b><p style='color:red; font-family:arial; font-size:40px; opacity:0.2; '>@mathieubray</p>", position="bottomleft") %>%
-        setView(lng = center.lon, lat = center.lat, zoom = zoom)
+      leaflet(data = player.data, options=leafletOptions(worldCopyJump=T)) %>%
+        addTiles() %>% # Map
+        addControl("<b><p style='font-family:arial; font-size:36px; opacity:0.2; '><a href='https://twitter.com/mathieubray' style='color:red; text-decoration:none; '>@mathieubray</a></p>", 
+                   position="bottomleft") %>% # Watermark
+        setView(lng=center.lon, lat=center.lat, zoom=zoom) # Set default view
       
     }
     
