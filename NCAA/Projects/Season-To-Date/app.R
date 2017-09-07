@@ -1,11 +1,15 @@
 library(shiny)
-library(plyr)
 library(dplyr)
-library(grid)
-library(png)
 library(ggplot2)
 library(ggthemes)
 library(ggrepel)
+library(lubridate)
+
+
+r.function <- function(x,y){
+  return(paste0("R^2: ",round(summary(lm(y ~ x))$r.squared,4)))
+}
+
 
 load.logos <- function(alpha){
   
@@ -37,8 +41,10 @@ load.logos <- function(alpha){
 logos <- load.logos(0.7)
 logo.list <- logos$Logos
 
-dates <- list.dirs("../../Projects/Season-To-Date",full.names=F)
-dates <- dates[dates != ""]
+#dates <- list.dirs(full.names=F)
+#dates <- dates[dates != ""]
+
+dates <- "2016-2017_PreNCAA"
 
 vars <- c("WinPct","AdjWinPct","SOS","RPI","QWBAdjRPI",
           "WinRank","AdjWinRank","SOSRank","RPIRank","QWBAdjRPIRank","PWRank")

@@ -140,7 +140,8 @@ ui <- shinyUI(fluidPage(
     
     sidebarPanel(
       p("Hover over logos or points to get player information.",
-        "Use the 'Area' and 'Zoom' buttons to focus on a specific area."
+        "Use the 'Area' and 'Zoom' buttons to focus on a specific area.",
+        "Add or remove teams from view using the 'Teams' box."
         ),
       fluidRow(column(6,textInput("location", "Area",value="Ann Arbor, Michigan",placeholder="Enter a city name to center on (e.g. 'Ann Arbor, Michigan')")),
                column(6,selectizeInput("zoom","Zoom",choices=1:10,selected=1))),
@@ -151,23 +152,22 @@ ui <- shinyUI(fluidPage(
       p(),
       p("Player info from ", 
         a("collegehockeystats.net.",href="http://collegehockeystats.net/")),
-      p("Packages used in this app include: ",
+      p("R packages for this app: ",
         a("leaflet",href="http://rstudio.github.io/leaflet/"),
-        "by Cheng, Karambelkar, Xie et al.",
-        a("ggmap",href="https://github.com/dkahle/ggmap"),
-        "by Kahle and Wickham.",
-        a("ggiraph",href="https://davidgohel.github.io/ggirap"),
-        "by Gohel et al."
+        "by Vladimir Agafonkin et al.",
+        a("ggmap",href="http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf"),
+        "by David Kahle and Hadley Wickham.",
+        a("ggiraph",href="https://www.rdocumentation.org/packages/ggiraph/versions/0.3.2/topics/ggiraph"),
+        "by David Gohel."
         ),
       p("2017 by ", 
           a("Mathieu Bray",href="https://mathieubray.github.io/"), 
-          "(",
+          "-",
           a("Twitter",href="https://twitter.com/mathieubray"),
-          ",",
+          "/",
           a("LinkedIn",href="https://www.linkedin.com/in/mathieubray"),
-          ",",
-          a("Github",href="https://github.com/mathieubray"),
-          ")"
+          "/",
+          a("Github",href="https://github.com/mathieubray")
       )
     ),
     

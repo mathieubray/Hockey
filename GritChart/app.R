@@ -7,21 +7,23 @@ library(dplyr)
 library(lubridate)
 library(ggiraph)
 
-
 rink <- readPNG("images/rink-cropped.png")
-hit.table <- read.csv("data/hits.csv",header=T,stringsAsFactors=F) 
-player.names <- sort(unique(hit.table$Player))
+
+hits <- read.csv("data/hits-corsica.csv",header=T,stringsAsFactors=F) 
+
+player.names <- read.csv("data/players.csv",header=T,stringsAsFactors=F) %>%
+  .$Player
 
 
 ui <- shinyUI(fluidPage(
   
-  titlePanel("Graphical Representation of Individual Toughness (G.R.I.T.) Chart"),
+  titlePanel("Hit Chart"),
   
   sidebarLayout(
     
     sidebarPanel(
-      p("Data courtesy of NHLScrapR, ", a("war-on-ice.com",href="http://war-on-ice.com/")),
-      p("Hover over points to get more info on the HITZ!!?#?!"),
+      p("Data courtesy of ", a("corsica.hockey",href="http://corsica.hockey")),
+      p("Hover over points to get more info"),
       selectizeInput("player", "Player", player.names),
       downloadButton("downloadPlot","Download Chart")
     ),
@@ -38,9 +40,15 @@ server <- shinyServer(function(input, output) {
   
   makeReactiveBinding("nhltable")
   
-  
   modifData <- reactive ({
-    return(filter(hit.table,Player==input$player))
+    
+    hit.subtable <- hits %>%
+      filter(Player == input$player,
+             !is.na(X),
+             !is.na(Y))
+    
+    return(hit.subtable)
+    
   })
   
   downloadHitPlot <- reactive ({
@@ -48,7 +56,7 @@ server <- shinyServer(function(input, output) {
     hit.subtable <- modifData()
     
     plot <- ggplot(data=hit.subtable,aes(x=X,y=Y,fill=Zone)) + 
-      annotation_custom(rasterGrob(rink, width=unit(1,"npc"), height=unit(1,"npc")),-Inf, Inf, -Inf, Inf) +
+      annotation_custom(rasterGrob(rink, width=unit(1,"npc"), height=unit(1,"npc")),-Inf,Inf,-Inf,Inf) +
       geom_point(size=6,alpha=0.8,pch=21,color="black") + 
       scale_x_continuous(expand=c(0,0)) +
       scale_y_continuous(expand=c(0,0)) +
@@ -63,16 +71,15 @@ server <- shinyServer(function(input, output) {
   
   
  output$hitplot <- renderggiraph({
-  #output$hitplot <- renderPlot({
     
     hit.subtable <- modifData() %>%
       rowwise() %>%
-      mutate(Tooltip = gsub(paste0("Victim: ",OpposingPlayer," (",OpposingTeam,")\n",
+      mutate(Tooltip = gsub(paste0("Victim: ",Victim," (",OpposingTeam,")\n",
                               "Date: ",Date,"\n",
                               "Period: ",Period),pattern="'",replacement=""))
     
     plot <- ggplot(data=hit.subtable,aes(x=X,y=Y,fill=Zone,tooltip=Tooltip)) + 
-      annotation_custom(rasterGrob(rink, width=unit(1,"npc"), height=unit(1,"npc")),-Inf, Inf, -Inf, Inf) +
+      annotation_custom(rasterGrob(rink, width=unit(1,"npc"), height=unit(1,"npc")),-Inf,Inf,-Inf,Inf) +
       scale_x_continuous(expand=c(0,0)) +
       scale_y_continuous(expand=c(0,0)) +
       theme_few() +

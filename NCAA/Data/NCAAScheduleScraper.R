@@ -1,10 +1,7 @@
-library(plyr)
 library(dplyr)
 library(tidyr)
 library(rvest)
 library(lubridate)
-
-source("NCAA/NCAAFunctions.R")
 
 # Scrape raw schedule from USCHO.com
 
@@ -41,6 +38,36 @@ scrape.raw.schedule <- function(season){
 # Apply standard cleaning procedures to raw schedule (requires NCAATeamStats.csv)
 
 clean.schedule <- function(season){
+  
+  # Helper function for determining winner
+  win <- function(home,homescore,awayscore){
+    
+    if (is.na(homescore) | is.na(awayscore)){
+      return(as.character(NA))
+    }
+    
+    result  <-  "Win"
+    
+    if(home){
+      if (homescore > awayscore){
+        result  <-  "Win"
+      } else if (homescore < awayscore){
+        result  <-  "Loss" 
+      } else {
+        result  <-  "Tie"
+      }
+    } else {
+      if (awayscore > homescore){
+        result  <-  "Win"
+      } else if (awayscore < homescore){
+        result  <-  "Loss"
+      } else {
+        result  <-  "Tie"
+      }
+    }
+    
+    return(result)
+  }
   
   # Helper function for cleaning strings
   clean.strings <- function(strings){

@@ -1,4 +1,3 @@
-library(plyr)
 library(dplyr)
 library(rvest)
 library(tm)

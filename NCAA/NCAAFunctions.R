@@ -1,16 +1,10 @@
-library(plyr)
 library(dplyr)
 library(tidyr)
 library(rvest)
 library(lubridate)
-library(ggplot2)
-library(ggthemes)
-library(doSNOW)
-library(itertools)
 
-r.function <- function(x,y){
-  return(paste0("R^2: ",round(summary(lm(y ~ x))$r.squared,4)))
-}
+
+### SCHEDULE COMPILERS
 
 # Team-level results from individual games
 compile.results <- function(schedule){
@@ -112,7 +106,7 @@ compile.rpi <- function(temp.record,temp.results){
 }
 
 
-##### STATISTIC CALCULATIONS #####
+### WIN FUNCTIONS
 
 # Determines whether a team has won, lost, or tied
 win <- function(home,homescore,awayscore){
@@ -170,6 +164,9 @@ weight <- function(win,status){
 }  
 
 
+
+### RPI CALCULATIONS
+
 # Calculated the Opponent's Winning Percentage (OWP) of a team
 OWP <- function(team,results){
   team_opponents <- (results %>% filter(Team==team))$Opponent
@@ -220,30 +217,41 @@ OOWP <- function(team,results,oppwinpcts){
 
 #### PAIRWISE CALCULATOR #####
 
-# Pairwise calculator
-PW <- function(team1,team2,record,results){
+pairwise.comparison <- function(team, compare.team, record, results){
   
-  team1Pts <- 0
-  team2Pts <- 0
+  team.points <- 0
+  compare.team.points <- 0
   
-  #H2H
-  r <- results %>% filter(Team==team1 & Opponent==team2)
-  if (nrow(r)>0){
-    for (j in 1:nrow(r)){
-      if (r$Win[j]=="Win"){
-        team1Pts <- team1Pts+1
-      } else if (r$Win[j]=="Loss"){
-        team2Pts <- team2Pts+1
-      } 
-    }
-  }
+  # Head to Head
+  head.to.head <- results %>% 
+    filter(Team==team, Opponent==compare.team)
   
-  #Common Opponents
-  team1opponents <- unique((results %>% filter(Team==team1))$Opponent)
-  team2opponents <- unique((results %>% filter(Team==team2))$Opponent)
-  commonopponents <- intersect(team1opponents,team2opponents)
+  head.to.head.games <- nrow(head.to.head)
+  head.to.head.wins <- head.to.head %>% 
+    filter(Win == "Win") %>%
+    nrow
+  head.to.head.losses <- head.to.head %>% 
+    filter(Win == "Loss") %>%
+    nrow
   
-  q <- results %>% filter(Team %in% c(team1,team2) & Opponent %in% commonopponents) %>%
+  team.points <- team.points + head.to.head.wins
+  compare.team.points <- compare.team.points + head.to.head.losses
+  
+  # Common Opponents
+  team.opponents <- results %>%
+    filter(Team == team) %>%
+    .$Opponent %>%
+    unique
+  
+  compare.team.opponents <- results %>%
+    filter(Team == compare.team) %>%
+    .$Opponent %>%
+    unique
+  
+  common.opponents <- intersect(team.opponents, compare.team.opponents)
+  
+  common.opponent.results <- results %>% 
+    filter(Team %in% c(team, compare.team), Opponent %in% common.opponents) %>%
     group_by(Team,Opponent) %>%
     summarize(Wins=sum(Win=="Win"),
               Losses=sum(Win=="Loss"),
@@ -252,50 +260,59 @@ PW <- function(team1,team2,record,results){
     group_by(Team) %>%
     summarize(AvgPct = mean(Pct))
   
-  if (nrow(q) > 0){
-    team1cop <- q$AvgPct[which(q$Team == team1)] 
-    team2cop <- q$AvgPct[which(q$Team == team2)]
+  if (nrow(common.opponent.results) > 0){
     
-    if (team1cop > team2cop){
-      team1Pts <- team1Pts+1
-    } else if (team1cop < team2cop){
-      team2Pts <- team2Pts+1
+    team.record <- common.opponent.results$AvgPct[which(common.opponent.results$Team == team)] 
+    
+    team.record <- common.opponent.results %>%
+      filter(Team == team) %>%
+      .$AvgPct
+    
+    compare.team.record <- common.opponent.results %>%
+      filter(Team == compare.team) %>%
+      .$AvgPct
+    
+    if (team.record > compare.team.record){
+      team.points <- team.points + 1
+    } else if (team.record < compare.team.record){
+      compare.team.points <- compare.team.points + 1
     }
   }
   
   #RPI
+  team.rpi <- record$RPI[which(record$Team == team)]
   
-  team1RPI <- record$RPI[which(record$Team == team1)]
-  team2RPI <- record$RPI[which(record$Team == team2)]
+  team.rpi <- record %>%
+    filter(Team == team) %>%
+    .$RPI
   
-  if(team1RPI > team2RPI){
-    team1Pts <- team1Pts+1
-  } else if (team1RPI < team2RPI){
-    team2Pts <- team2Pts+1
+  compare.team.rpi <- record %>%
+    filter(Team == compare.team) %>%
+    .$RPI
+  
+  if(team.rpi > compare.team.rpi){
+    team.points <- team.points + 1
+  } else if (team.rpi < compare.team.rpi){
+    compare.team.points <- compare.team.points + 1
   }
   
   # Total
   
-  if (team1Pts == team2Pts){
-    if(team1RPI > team2RPI){
+  if (team.points == compare.team.points){
+    if(team.rpi > compare.team.rpi){
       return(1)
-      #winner <- team1
     } else {
       return(0)
-      #winner <- team2
     }
   } else {
-    if (team1Pts > team2Pts){
+    if (team.points > compare.team.points){
       return(1)
-      #winner <- team1
     } else {
       return(0)
-      #winner <- team2
     }
   }
-  
-  return(winner)
 }
+
 
 
 

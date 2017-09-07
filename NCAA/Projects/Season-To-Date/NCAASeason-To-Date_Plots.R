@@ -1,4 +1,3 @@
-library(plyr)
 library(dplyr)
 library(ggplot2)
 library(ggthemes)
@@ -7,6 +6,12 @@ library(lubridate)
 
 source("Logos/Logos.R")
 source("NCAA/Projects/Season-To-Date/NCAASeason-To-Date.R")
+
+
+r.function <- function(x,y){
+  return(paste0("R^2: ",round(summary(lm(y ~ x))$r.squared,4)))
+}
+
 
 logos <- load.logos(0.7,"NCAA")
 logo.list <- logos$Logos
@@ -231,12 +236,3 @@ ncaa.plot <- function(x.var,y.var,plot.params = plot.parameters){
   return(p)
 }
 
-# PW Rank vs. Rank
-
-ncaa.plot("WinRank","AdjWinRank")
-ncaa.plot("SOSRank","RPIRank")
-
-ncaa.plot("QWBAdjRPI","RPI")
-ncaa.plot("SOS","WinPct")
-
-ncaa.plot("RPIRank","SOS")

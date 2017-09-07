@@ -1,4 +1,3 @@
-library(plyr)
 library(dplyr)
 library(ggplot2)
 library(ggthemes)
@@ -7,6 +6,7 @@ library(ggimage)
 library(lubridate)
 library(broom)
 library(jsonlite)
+library(purrr)
 
 source("NCAA/NCAAFunctions.R")
 source("Logos/Logos.R")
@@ -16,15 +16,20 @@ nhl.logo.list <- load.logos(0.75,"NHL")$Logos
 
 ######################################################################################################
 
-# Open stats file
+# Get Faceoff Data
 ncaa.faceoffs <- read.csv("NCAA/Data/Statistics/NCAATeamStats.csv",header=T,stringsAsFactors=F) %>%
   select(Team,Season,FO.) %>%
   rename(FOPct = FO.) %>%
   filter(!is.na(FOPct))
 
 
-# Convert season to string
-seasons <- as.numeric(substr(as.character(unique(ncaa.faceoffs$Season)),5,8))
+# Get Win Pcts
+seasons <- ncaa.faceoffs$Season %>%
+  unique %>%
+  as.character %>%
+  substr(5,8) %>%
+  as.numeric
+
 
 get.win.pct <- function(season){
   
@@ -42,7 +47,11 @@ get.win.pct <- function(season){
   
 }
 
-ncaa.win.pct <- rbind.fill(lapply(seasons,get.win.pct))
+ncaa.win.pct <- map(seasons,get.win.pct) %>%
+  bind_rows
+
+
+# Merge with Faceoff Data
 
 final.ncaa.faceoff.data <- full_join(ncaa.faceoffs,ncaa.win.pct,by=c("Team","Season"))
 

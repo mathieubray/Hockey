@@ -1,95 +1,9 @@
-library(plyr)
 library(dplyr)
 library(tidyr)
 library(rvest)
 library(lubridate)
 
-# Read in USCHO schedule
-url.schedule <- "http://www.uscho.com/scoreboard/division-i-men/2016-2017/composite-schedule/"
-
-raw.schedule <- url.schedule %>% 
-  read_html %>% 
-  html_nodes('.comp') %>%
-  html_table(header=F, fill=F) %>%
-  data.frame(stringsAsFactors=F)
-
-write.csv(raw.schedule,"RawSchedule.csv",row.names=F)
-
-# Add column names
-colnames(raw.schedule) <- c("Day","Blank","Date","Time","Away","AwayScore","at","Home","HomeScore","OT","Notes","GameType","Box","Recap","TV")
-
-head(raw.schedule) # Display preview of raw schedule
-
-# Function to strip out team rankings from team name in schedule
-clean.team.names <- function(team.name){
-  
-  new.strings <- unlist(strsplit(team.name,split=') ')) # Split strings with rankings in parantheses eg. (1) Michigan
-  new.strings <- new.strings[substring(new.strings,1,1)!="("] # Remove rankings in parantheses
-  
-  return(new.strings)
-}
-
-# Team names
-teams <- c("Air Force", "Alabama-Huntsville", "Alaska", "Alaska-Anchorage", 
-           "American International", "Arizona State", "Army West Point", "Bemidji State", 
-           "Bentley", "Boston College", "Boston University", "Bowling Green", 
-           "Brown", "Canisius", "Clarkson", "Colgate", "Colorado College", 
-           "Connecticut", "Cornell", "Dartmouth", "Denver", "Ferris State", 
-           "Harvard", "Holy Cross", "Lake Superior", "Maine", "Massachusetts", 
-           "Massachusetts-Lowell", "Mercyhurst", "Merrimack", "Miami", "Michigan", 
-           "Michigan State", "Michigan Tech", "Minnesota", "Minnesota-Duluth", 
-           "Minnesota State", "Omaha", "New Hampshire", "Niagara", 
-           "North Dakota", "Northeastern", "Northern Michigan", "Notre Dame", 
-           "Ohio State", "Penn State", "Princeton", "Providence", "Quinnipiac", 
-           "Rensselaer", "RIT", "Robert Morris", "Sacred Heart", "St. Cloud State", 
-           "St. Lawrence", "Union", "Vermont", "Western Michigan", "Wisconsin", "Yale")
-
-# Function to determine whether a team has won, lost, or tied
-win <- function(home,homescore,awayscore){
-  
-  if (is.na(homescore) | is.na(awayscore)){
-    return(as.character(NA))
-  }
-  
-  result  <-  "Win"
-  
-  if(home){
-    if (homescore > awayscore){
-      result  <-  "Win"
-    } else if (homescore < awayscore){
-      result  <-  "Loss" 
-    } else {
-      result  <-  "Tie"
-    }
-  } else {
-    if (awayscore > homescore){
-      result  <-  "Win"
-    } else if (awayscore < homescore){
-      result  <-  "Loss"
-    } else {
-      result  <-  "Tie"
-    }
-  }
-  
-  return(result)
-}
-
-
-# Clean schedule
-
-clean.schedule <- raw.schedule %>%
-  select(Away,AwayScore,at,Home,HomeScore,GameType) %>% # Keep relevant columns
-  rowwise() %>%
-  mutate(Home = clean.team.names(Home),                    # Strip rankings from home team name
-         Away = clean.team.names(Away)) %>%                # Strip rankings from away team name
-  filter(GameType != "EX", Home %in% teams, Away %in% teams) %>% # Ignore exhibition games, only consider games between D-1 teams each season
-  mutate(HomeWin = win(T,HomeScore,AwayScore)) %>% # Determine whether home team won, lost or tied
-  mutate(AwayWin = win(F,HomeScore,AwayScore)) %>% # Determine whether away team won, lost or tied
-  select(-GameType) # Drop irrelevant columns
-
-clean.schedule <- clean.schedule[1:(nrow(clean.schedule)-3),] # Remove last three games of NCAA tournament (USCHO calculations have not factored these games in)
-
-head(clean.schedule)
+clean.schedule <- read.csv("NCAA/Data/Schedules/2016-2017_Clean.csv",header=T,stringsAsFactors=F) %>% head(-3)
 
 
 # Split each game into two lines for each team, listing their outcome and whether they were playing at home, away, or neutral
@@ -146,21 +60,7 @@ record <- results %>%
 
 # Compare to the adjusted win percentage from USCHO
 
-url <- 'http://www.uscho.com/rankings/rpi/d-i-men'
-
-uscho <- url %>% # Scrape USCHO data
-  read_html%>% 
-  html_nodes('table') %>%
-  html_table(header=T, fill=F) %>%
-  data.frame(stringsAsFactors = F) %>%
-  rename(AdjPct = Win.., QWBAdjustedRPI = QWB.Adj.RPI, AdjustedRPI = Adj.RPI) %>%
-  rowwise() %>%
-  mutate(Team = ifelse(Team == "Army","Army West Point",Team)) %>%
-  ungroup() %>%
-  select(Team,AdjPct,SOS,RPI) %>%
-  arrange(Team)
-
-write.csv(uscho,"USCHOValues.csv",row.names=F)
+uscho <- read.csv("NCAA/Projects/SOS/USCHOValues_20162017.csv",header=T,stringsAsFactors=F)
 
 head(uscho)
 

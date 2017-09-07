@@ -1,6 +1,7 @@
 library(ggplot2)
 library(ggthemes)
 
+source("NCAA/NCAAFunctions.R")
 source("NCAA/Data/NCAAScheduleScraper.R")
 
 compile.current.season <- function(season.to.date=today(), tag=today(), scrape=T){

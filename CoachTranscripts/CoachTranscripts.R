@@ -89,39 +89,7 @@ write.csv(transcripts,"CoachTranscripts/2015-2016_SCFinal_Transcripts.csv",row.n
 
 ###########################################################################################################
 
-
-url <- "http://www.hockey-reference.com/leagues/NHL_2016_games.html"
-
-# Collect playoff game data
-game.page <- read_html(url) %>%
-  html_nodes("#games_playoffs") %>%
-  html_table()
-
-# Extract data frame
-playoffs <- game.page[[1]]
-
-# Rename columns
-names(playoffs) <- c("Date","Visitor","VScore","Home","HScore","OT","Attendance","Time","Notes")
-
-cup.final <- playoffs %>%
-  select(Date,Visitor,VScore,Home,HScore,OT) %>%
-  mutate(Date = ymd(Date),
-         OT = OT!="") %>%
-  filter(Date >= ymd("2016-05-30")) %>% # Focus on Stanley Cup Final
-  rowwise() %>%
-  mutate(PittScore = ifelse(Visitor=="Pittsburgh Penguins",VScore,HScore),
-         SJScore = ifelse(Visitor=="San Jose Sharks",VScore,HScore),
-         PittWin = PittScore > SJScore) %>%
-  select(Date,PittScore,SJScore,PittWin,OT)
-
-cup.final
-
-write.csv(cup.final,"CoachTranscripts/2015-2016_SCFinal_Scores.csv",row.names=F)
-
-########################################################################################################
-
 transcript <- read.csv("CoachTranscripts/2015-2016_SCFinal_Transcripts.csv",header=T,stringsAsFactors=F)
-cup.final <- read.csv("CoachTranscripts/2015-2016_SCFinal_Scores.csv",header=T,stringsAsFactors=F)
 
 # Focus on interviews with Mike Sullivan or Peter DeBoer, remove prompts from text
 

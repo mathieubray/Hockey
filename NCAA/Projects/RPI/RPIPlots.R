@@ -1,5 +1,6 @@
 library(ggplot2)
 library(ggthemes)
+library(purrr)
 
 source("Logos/Logos.R")
 
@@ -9,27 +10,25 @@ logo.list <- logos$Logos
 logo.color <- logos$LogoColors
 
 # Open historical RPI file, filter out empty fields and independent teams
-team.rpi <- read.csv("NCAA/Data/Statistics/NCAATeamStats.csv",header=T,stringsAsFactors=F) %>%
-  filter(!is.na(Conference),!is.na(RPI), Conference != "Independent")
-
-# Extract season year
-team.rpi$Season <- as.numeric(substring(as.character(team.rpi$Season),5))
-
+rpi <- read.csv("NCAA/Data/Statistics/NCAATeamStats.csv",header=T,stringsAsFactors=F) %>%
+  filter(!is.na(Conference),!is.na(RPI), Conference != "Independent") %>%
+  mutate(Season = as.numeric(substring(as.character(Season),5)))
 
 # Extract conferences
-conferences <- as.list(unique(team.rpi$Conference))
+conferences <- rpi$Conference %>% unique
 
 # This takes longer than a loop...
-plot.conference.rpi <- function(rpi.table, conference) {
+plot.conference.rpi <- function(conference) {
   
    # Focus on specific conference
-   conference.rpi <- rpi.table %>% filter(Conference == conference)
+   conference.rpi <- rpi %>% 
+     filter(Conference == conference)
     
    ggplot(data = conference.rpi, aes(x=Season,y=RPI,color=Team)) + 
      geom_line(aes(group=Team),size=1.2,alpha=0.5) +
      scale_color_manual(values=logo.color) +
      theme_bw(18) +
-     xlim(2007,2016) +
+     scale_x_continuous(breaks=2007:2017,limits=c(2007,2017)) +
      ylim(0.35,0.65) +
      ggtitle(conference) +
      mapply(
@@ -48,5 +47,5 @@ plot.conference.rpi <- function(rpi.table, conference) {
 }
 
 # Draw plots
-lapply(conferences, plot.conference.rpi, rpi.table = team.rpi)
+map(conferences,plot.conference.rpi)
 
