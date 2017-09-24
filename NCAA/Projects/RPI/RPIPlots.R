@@ -28,7 +28,7 @@ plot.conference.rpi <- function(conference) {
      geom_line(aes(group=Team),size=1.2,alpha=0.5) +
      scale_color_manual(values=logo.color) +
      theme_bw(18) +
-     scale_x_continuous(breaks=2007:2017,limits=c(2007,2017)) +
+     scale_x_continuous(breaks=2006:2017,limits=c(2006,2017)) +
      ylim(0.35,0.65) +
      ggtitle(conference) +
      mapply(

@@ -2,6 +2,7 @@ library(dplyr)
 library(rvest)
 library(tm)
 library(stringr)
+library(purrr)
 
 # Collect historical team statistics from College Hockey News
 
@@ -90,6 +91,7 @@ scrape.team.rpi <- function(season){
     
     rpi.data$Team[which(rpi.data$Team=="Mass.-Lowell")] <- "Massachusetts-Lowell"
     rpi.data$Team[which(rpi.data$Team=="American Int'l")] <- "American International"
+    rpi.data$Team[which(rpi.data$Team=="")] <- "Wayne State"
     
     rpi.data$Season <- paste0(season-1,season)
     
@@ -105,74 +107,101 @@ scrape.team.rpi <- function(season){
 
 scrape.team.conferences <- function(season){
   
-  keywords <- c("Atlantic","Big","independents","ECAC","East","National","Western","Central","America")
-  conferences <- c("Atlantic Hockey","Big Ten","Independent","ECAC","Hockey East","NCHC","WCHA","CCHA","College Hockey America")
+  tag <- paste0(substr(as.character(season-1),3,4),substr(as.character(season),3,4))
   
-  if (season >= 2007){
+  season.tag <- paste0(season-1,season)
+  
+  if (season >= 2015){
+    url <- paste0("http://collegehockeystats.net/",tag,"/textstats/d1m")
     
-    conference.table <- data.frame(Team=character(0),Conference=character(0),Season=character(0),stringsAsFactors=F)
-     
-    suffix <- paste0(season-2000)
-    if (nchar(suffix) < 2){
-       suffix<-paste0("0",suffix)
-    }
-    
-    # Search wikipedia pages for tables, matching keywords to conferences
-    url <- paste0("https://en.wikipedia.org/wiki/",season-1,"-",suffix,"_NCAA_Division_I_men's_ice_hockey_season")
-    
-    # Read table
     tables <- url %>% 
-      read_html %>% 
-      html_nodes('.wikitable')
+      read_html %>%
+      html_nodes("table") %>%
+      `[`(2) %>%
+      html_table(header=F,fill=T) %>%
+      `[[`(1)
     
-    # Inspect first several tables (later tables include keywords in header and screw things up)
-    for (i in 1:min(length(tables),9)){
-      
-      raw.table <- tables[[i]] %>%
-        html_table(header=F, fill=T) %>%
-        data.frame(stringsAsFactors = F)
-      
-      # Split table header into tokens, look for tokens in keyword list
-      string.tokens <- scan_tokenizer(raw.table[1,1])
-      token <- intersect(string.tokens,keywords)
-      
-      # If found...
-      if (length(token) == 1){
-        
-        # Find matching conference
-        conference <- conferences[match(token,keywords)]
-        
-        # Clean team names
-        n <- nrow(raw.table)
-        team.names <- raw.table[4:(n-1),1] %>%
-          gsub(pattern="\\*",replacement="") %>%
-          gsub(pattern="\\#",replacement="") %>%
-          gsub(pattern="\\^",replacement="") %>%
-          gsub(pattern="â€“",replacement="-") %>%
-          gsub(pattern="â€",replacement="") %>%
-          removeNumbers() %>%
-          str_trim()
-        
-        # Append to master table
-        conference.table <- rbind(conference.table,data.frame(Team=team.names,Conference=conference,Season=paste0(season-1,season),stringsAsFactors=F),stringsAsFactors=F)
-      }
-    }
+  } else {
+    url <- paste0("http://collegehockeystats.net/",tag,"/teamstats")
     
-    # Replace team names with standard team names
-    conference.table$Team[which(conference.table$Team=="UMass")] <- "Massachusetts"
-    conference.table$Team[which(conference.table$Team=="UMass Lowell")] <- "Massachusetts-Lowell"
-    conference.table$Team[which(conference.table$Team=="Miami (OH)")] <- "Miami"
-    conference.table$Team[which(conference.table$Team=="Omaha")] <- "Nebraska-Omaha"
-    conference.table$Team[which(conference.table$Team=="Alaska Anchorage")] <- "Alaska-Anchorage"
-    conference.table$Team[which(conference.table$Team=="Lake Superior State")] <- "Lake Superior"
-    
-    # Sort table
-    conference.table <- conference.table %>% arrange(Team)
-    
-    write.csv(conference.table,paste0("Data/Statistics/",season-1,"-",season,"_Conferences.csv"),row.names=F)
-    
+    tables <- url %>% 
+      read_html %>%
+      html_nodes("table") %>%
+      `[`(2) %>%
+      html_table(header=F,fill=T) %>%
+      `[[`(1)
   }
+  
+  if (season >= 2015){
+    subtables <- list(tables$X1[1:2],tables$X1[3:4],tables$X1[5:6],
+                      tables$X2[1:2],tables$X2[3:4],tables$X2[5:6],
+                      tables$X3[1:2],tables$X3[3:4],tables$X3[5:6])
+  } else if (season %in% 2007:2014){
+    subtables <- list(tables$X1[1:2],tables$X1[3:4],tables$X1[5:6],
+                      tables$X2[1:2],tables$X2[3:4],
+                      tables$X3[1:2],tables$X3[3:4])
+  } else  {
+    subtables <- list(tables$X1[1:2],tables$X1[3:4],tables$X1[5:6],
+                      tables$X2[1:2],tables$X2[3:4],tables$X2[5:6],
+                      tables$X3[1:2],tables$X3[3:4])
+  }
+  
+  clean.subtable <- function(subtable){
+    
+    subtable[1] -> conference
+    subtable[2] -> teams
+    
+    clean.conference <- conference %>%
+      gsub(pattern = " Men", replacement = "", fixed=T)
+    
+    clean.teams <- teams %>%
+      gsub(pattern = "-",replacement = "@") %>%
+      gsub(pattern = "RIT", replacement = "Rit",fixed=T) %>%
+      gsub(pattern = "UMass", replacement = "Umass", fixed=T) %>%
+      gsub(pattern = " ", replacement = "@") %>%
+      gsub(pattern = '([[:upper:]])', replacement=' \\1') %>%
+      gsub(pattern = "@ ",replacement="@",fixed=T) %>%
+      strsplit(split= " ")%>%
+      unlist %>%
+      gsub(pattern = "@", replacement = " ") %>% 
+      gsub(pattern = "Rit", replacement = "RIT",fixed=T) %>%
+      gsub(pattern = "Umass", replacement = "UMass", fixed=T)
+    
+    conference.table <- data.frame(Conference = clean.conference, Team = clean.teams, stringsAsFactors=F) %>%
+      filter(Team != "")
+    
+    return(conference.table)
+  }
+  
+  
+  conference.table <- map(subtables,clean.subtable) %>% 
+    bind_rows() %>%
+    filter(!is.na(Team), Conference != "Ivy League") %>%
+    mutate(Season = season.tag) %>%
+    select(Team, Conference, Season) %>%
+    mutate(Conference = case_when(Conference == "Men's Independent" ~ "Independent",
+                                  Conference == "Men's Division I Independent" ~ "Independent",
+                                  Conference == "Men's Division I Independents" ~ "Independent",
+                                  Conference == "ECAC Hockey" ~ "ECAC",
+                                  Conference == "ECAC Hockey League" ~ "ECAC",
+                                  Conference == "National Collegiate Hockey Conference" ~ "NCHC",
+                                  T ~ Conference),
+           Team = case_when(Team == "Alabama Huntsville" ~ "Alabama-Huntsville",
+                            Team == "Alaska Anchorage" ~ "Alaska-Anchorage",
+                            Team == "Alaska Fairbanks" ~ "Alaska",
+                            Team == "Army West Point" ~ "Army",
+                            Team == "Lake Superior State" ~ "Lake Superior",
+                            Team == "Minnesota Duluth" ~ "Minnesota-Duluth",
+                            Team == "Omaha" ~ "Nebraska-Omaha",
+                            Team == "Nebraska Omaha" ~ "Nebraska-Omaha",
+                            Team == "UMass Lowell" ~ "Massachusetts-Lowell",
+                            T ~ Team)) %>%
+    arrange(Team)
+  
+  
+  write.csv(conference.table,paste0("NCAA/Data/Statistics/",season-1,"-",season,"_Conferences.csv"),row.names=F)
 }
+
 
 
 # Merge all files into one table
@@ -189,16 +218,28 @@ merge.team.information <- function(){
     return(read.csv(paste0("NCAA/Data/Statistics/",file),header=T,stringsAsFactors=F))
   }
   
-  statistics.table <- rbind.fill(lapply(statistics.files,load.table))
-  rpi.table <- rbind.fill(lapply(rpi.files,load.table))
-  conference.table <- rbind.fill(lapply(conference.files,load.table))
+  statistics.table <- map(statistics.files, load.table) %>%
+    bind_rows
+  rpi.table <- map(rpi.files, load.table) %>%
+    bind_rows
+  conference.table <- map(conference.files, load.table) %>%
+    bind_rows
   
   master.team.table <- full_join(full_join(conference.table,rpi.table,by=c("Team","Season")),statistics.table,by=c("Team","Season")) %>%
+    filter(Team != "") %>%
     arrange(Season,Team)
   
   write.csv(master.team.table,"NCAA/Data/Statistics/NCAATeamStats.csv",row.names=F)
   
 }
   
-  
+
+
+
+
+
+
+j <- read.csv("NCAA/Data/Statistics/NCAATeamStats.csv",header=T,stringsAsFactors=F)
+
+k <- j %>% filter(is.na(Conference))
 
