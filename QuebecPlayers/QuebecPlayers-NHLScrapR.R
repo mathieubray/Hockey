@@ -5,7 +5,7 @@ library(lubridate)
 
 # Load data from NHLscrapr
 
-load("../Data/NHLScrapr/nhlscrapr20142015.RData")
+load("D://Mathieu's Files/Data/NHLScrapr/nhlscrapr20142015.RData")
 
 # Get player names and identifying codes 
 roster <- nhlscrapr.20142015.roster %>% 
@@ -33,7 +33,7 @@ head(goals)
 
 # Collect Relevant Quebec Players
 
-quebec.players <- read.csv("QuebecPlayers/QuebecPlayers.csv",header=T,stringsAsFactors=F)
+quebec.players <- read.csv("QuebecPlayers/data/QuebecPlayers.csv",header=T,stringsAsFactors=F)
 
 relevant.quebec.players <- quebec.players %>% 
   mutate(End.Date = as.numeric(End.Date)) %>%
@@ -51,24 +51,3 @@ quebec.against.mtl <- inner_join(goals,relevant.quebec.players,by="Player") %>%
   select(Team,Date,Player,InMTL,Birthplace)
 
 quebec.against.mtl
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

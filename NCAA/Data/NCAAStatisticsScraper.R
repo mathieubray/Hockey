@@ -102,7 +102,7 @@ scrape.team.rpi <- function(season){
 }
 
 
-# Collect historical conference information from Wikipedia (not working for 2017!)
+# Collect historical conference information from Wikipedia
 # Should probably find a better source for these...
 
 scrape.team.conferences <- function(season){
@@ -206,40 +206,33 @@ scrape.team.conferences <- function(season){
 
 # Merge all files into one table
 
-merge.team.information <- function(){
+#merge.team.information <- function(){
   
-  files <- list.files("NCAA/Data/Statistics")
+#  files <- list.files("NCAA/Data/Statistics")
   
-  statistics.files <- files[grepl("Statistics",files)]
-  rpi.files <- files[grepl("RPI",files)]
-  conference.files <- files[grepl("Conferences",files)]
+#  statistics.files <- files[grepl("Statistics",files)]
+# rpi.files <- files[grepl("RPI",files)]
+#  conference.files <- files[grepl("Conferences",files)]
   
-  load.table<-function(file){
-    return(read.csv(paste0("NCAA/Data/Statistics/",file),header=T,stringsAsFactors=F))
-  }
+#  load.table<-function(file){
+#    return(read.csv(paste0("NCAA/Data/Statistics/",file),header=T,stringsAsFactors=F))
+#  }
   
-  statistics.table <- map(statistics.files, load.table) %>%
-    bind_rows
-  rpi.table <- map(rpi.files, load.table) %>%
-    bind_rows
-  conference.table <- map(conference.files, load.table) %>%
-    bind_rows
+#  statistics.table <- map(statistics.files, load.table) %>%
+#    bind_rows
+#  rpi.table <- map(rpi.files, load.table) %>%
+#    bind_rows
+#  conference.table <- map(conference.files, load.table) %>%
+#    bind_rows
   
-  master.team.table <- full_join(full_join(conference.table,rpi.table,by=c("Team","Season")),statistics.table,by=c("Team","Season")) %>%
-    filter(Team != "") %>%
-    arrange(Season,Team)
+#  master.team.table <- full_join(full_join(conference.table,rpi.table,by=c("Team","Season")),statistics.table,by=c("Team","Season")) %>%
+#    filter(Team != "") %>%
+#    arrange(Season,Team)
   
-  write.csv(master.team.table,"NCAA/Data/Statistics/NCAATeamStats.csv",row.names=F)
+#  write.csv(master.team.table,"NCAA/Data/Statistics/NCAATeamStats.csv",row.names=F)
   
-}
+#}
   
 
 
-
-
-
-
-j <- read.csv("NCAA/Data/Statistics/NCAATeamStats.csv",header=T,stringsAsFactors=F)
-
-k <- j %>% filter(is.na(Conference))
 

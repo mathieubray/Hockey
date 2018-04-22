@@ -7,25 +7,72 @@ library(lubridate)
 ### SCHEDULE COMPILERS
 
 # Team-level results from individual games
-compile.results <- function(schedule){
+#compile.results <- function(schedule){
   
-  rows <- 2*nrow(schedule)
+#  rows <- 2*nrow(schedule)
 
-  results <- data.frame(Game=numeric(rows),
-                        Season=character(rows),
-                        Team=character(rows),
-                        Goals=numeric(rows),
-                        Conference=character(rows),
-                        Status=character(rows),
-                        Win=character(rows),
-                        Opponent=character(rows),
-                        OpponentGoals=numeric(rows),
-                        OpponentConference=character(rows),
-                        stringsAsFactors=F)
+#  results <- data.frame(Game=numeric(rows),
+#                        Season=character(rows),
+#                        Team=character(rows),
+ #                       Goals=numeric(rows),
+  #                      Conference=character(rows),
+   #                     Status=character(rows),
+    #                    Win=character(rows),
+     #                   Opponent=character(rows),
+      #                  OpponentGoals=numeric(rows),
+       #                 OpponentConference=character(rows),
+        #                stringsAsFactors=F)
 
   # There's probably a better way of doing this...
-  for (i in 1:nrow(schedule)){
-    if (schedule$at[i]=="@"){
+  #for (i in 1:nrow(schedule)){
+   # if (schedule$at[i]=="@"){
+    #  status1 <- "Home"
+     # status2 <- "Away"
+    #} else {
+     # status1 <- "Neutral"
+    #  status2 <- "Neutral"
+    #}
+    
+    #results[2*i-1,] <- list(Game=i,
+     #                       Season=schedule$Season[i],
+      #                      Team=schedule$Home[i],
+       #                     Goals=schedule$HomeScore[i],
+        #                    Conference=schedule$HomeConference[i],
+         #                   Status=status1,
+          #                  Win=schedule$HomeWin[i],
+           #                 Opponent=schedule$Away[i],
+            #                OpponentGoals=schedule$AwayScore[i],
+             #               OpponentConference=schedule$AwayConference[i])
+    #results[2*i,] <- list(Game=i,
+     #                     Season=schedule$Season[i],
+      #                    Team=schedule$Away[i],
+       #                   Goals=schedule$AwayScore[i],
+        #                  Conference=schedule$AwayConference[i],
+         #                 Status=status2,
+          #                Win=schedule$AwayWin[i],
+           #               Opponent=schedule$Home[i],
+            #              OpponentGoals=schedule$HomeScore[i],
+             #             OpponentConference=schedule$HomeConference[i])
+  #}
+  
+ # return(results)
+  
+#}
+
+# Function to calculate R-squared
+
+r.function <- function(x,y,round=4){
+  return(paste0("R^2: ",round(summary(lm(y ~ x))$r.squared,round)))
+}
+
+
+# Split each game into two lines for each team, listing their outcome and whether they were playing at home, away, or neutral
+
+compile.results <- function(clean.schedule){
+  
+  get.team.results <- function(schedule){
+    
+    if (schedule$at=="@"){ # The 'at' column has either an '@' symbol for a regular game or a 'vs.' for a neutral site game
       status1 <- "Home"
       status2 <- "Away"
     } else {
@@ -33,30 +80,32 @@ compile.results <- function(schedule){
       status2 <- "Neutral"
     }
     
-    results[2*i-1,] <- list(Game=i,
-                            Season=schedule$Season[i],
-                            Team=schedule$Home[i],
-                            Goals=schedule$HomeScore[i],
-                            Conference=schedule$HomeConference[i],
-                            Status=status1,
-                            Win=schedule$HomeWin[i],
-                            Opponent=schedule$Away[i],
-                            OpponentGoals=schedule$AwayScore[i],
-                            OpponentConference=schedule$AwayConference[i])
-    results[2*i,] <- list(Game=i,
-                          Season=schedule$Season[i],
-                          Team=schedule$Away[i],
-                          Goals=schedule$AwayScore[i],
-                          Conference=schedule$AwayConference[i],
+    home.result <- tibble(Season=schedule$Season,
+                          Team=schedule$Home,
+                          Win=schedule$HomeWin,
+                          Goals=schedule$HomeScore,
+                          Status=status1,
+                          Opponent=schedule$Away,
+                          OpponentGoals=schedule$AwayScore)
+    away.result <- tibble(Season=schedule$Season,
+                          Team=schedule$Away,
+                          Win=schedule$AwayWin,
+                          Goals=schedule$AwayScore,
                           Status=status2,
-                          Win=schedule$AwayWin[i],
-                          Opponent=schedule$Home[i],
-                          OpponentGoals=schedule$HomeScore[i],
-                          OpponentConference=schedule$HomeConference[i])
+                          Opponent=schedule$Home,
+                          OpponentGoals=schedule$HomeScore)
+    
+    results <- bind_rows(home.result,away.result)
+    
+    return(results)
+    
   }
   
-  return(results)
+  results <- clean.schedule %>%
+    split(1:nrow(.)) %>%
+    map_df(get.team.results, .id="Game")
   
+  return(results)
 }
 
 # Calculates team records based on team-level game data
@@ -79,6 +128,7 @@ compile.record <- function(results){
     mutate(Pct=(Wins+0.5*Ties)/(Wins+Losses+Ties),
            AdjPct=(1.2*AwayWins+NeutralWins+0.8*HomeWins+0.6*AwayTies+0.5*NeutralTies+0.4*HomeTies)/((1.2*AwayWins+0.8*HomeWins+NeutralWins+0.8*AwayLosses+NeutralLosses+1.2*HomeLosses+Ties))) %>%
     arrange(desc(AdjPct))
+ 
   
   return(record)
 }
@@ -164,15 +214,18 @@ weight <- function(win,status){
 }  
 
 
-
 ### RPI CALCULATIONS
 
 # Calculated the Opponent's Winning Percentage (OWP) of a team
 OWP <- function(team,results){
-  team_opponents <- (results %>% filter(Team==team))$Opponent
+  
+  team_opponents <- results %>% 
+    filter(Team==team) %>%
+    .$Opponent %>%
+    unique
   
   opponents_record <- results %>% 
-    filter(Team %in% unique(team_opponents) & Opponent != team) %>%
+    filter(Team %in% team_opponents & Opponent != team) %>%
     group_by(Team) %>%
     summarize(Wins=sum(Win=="Win"),
               Losses=sum(Win=="Loss"),
@@ -189,7 +242,8 @@ OWP <- function(team,results){
     mutate(AdjPct=(AwayWins+NeutralWins+HomeWins+0.5*AwayTies+0.5*NeutralTies+0.5*HomeTies)/((AwayWins+HomeWins+NeutralWins+AwayLosses+NeutralLosses+HomeLosses+Ties))) %>%
     select(Team,AdjPct)
   
-  opponent_winpct <- results %>% filter(Team == team & Opponent %in% unique(team_opponents)) %>%
+  opponent_winpct <- results %>% 
+    filter(Team == team & Opponent %in% team_opponents) %>%
     inner_join(opponents_record,by=c("Opponent"="Team")) %>%
     rowwise() %>%
     mutate(Weight = weight(Win,Status))
@@ -199,17 +253,41 @@ OWP <- function(team,results){
   return(opponent_winpct)
 }
 
+
+
 # Calculate the Opponent's Opponents Winning Percentage (OOWP) of a team
 OOWP <- function(team,results,oppwinpcts){
   
-  team_opponents <- (results %>% filter(Team==team))$Opponent
+  team_opponents <- results %>% 
+    filter(Team==team) %>% 
+    .$Opponent %>%
+    unique
   
-  opp_opp_winpct <- results %>% filter(Team == team & Opponent %in% unique(team_opponents)) %>%
+  opp_opp_winpct <- results %>% 
+    filter(Team == team & Opponent %in% team_opponents) %>%
     inner_join(oppwinpcts,by=c("Opponent"="Team"))%>%
     rowwise() %>%
     mutate(Weight = weight(Win,Status))
   
   opp_opp_winpct <- weighted.mean(opp_opp_winpct$OppWinPct,opp_opp_winpct$Weight)
+  
+  return(opp_opp_winpct)
+}
+
+# Function to calculate the Opponent's Opponents Winning Percentage (OOWP) for a team
+OOWP <- function(team,results,oppwinpcts){
+  
+  # Gather all opponents of our team in question, 'team'
+  team_opponents <- unique((results %>% filter(Team==team))$Opponent)
+  
+  # For each game, assigne the correct weight and take the weighted average of the OWP as the OOWP 
+  opp_opp_winpct <- results %>% 
+    filter(Team == team) %>% # Only consider games involving 'team'
+    inner_join(oppwinpcts,by=c("Opponent"="Team")) %>% # Merge in the OWP values for each opponent
+    rowwise() %>%
+    mutate(Weight = weight(Win,Status)) # Assign weight to each game
+  
+  opp_opp_winpct <- weighted.mean(opp_opp_winpct$OppWinPct,opp_opp_winpct$Weight) # Take the weighted average as the OOWP
   
   return(opp_opp_winpct)
 }

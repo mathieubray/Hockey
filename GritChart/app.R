@@ -22,7 +22,7 @@ ui <- shinyUI(fluidPage(
   sidebarLayout(
     
     sidebarPanel(
-      p("Data courtesy of ", a("corsica.hockey",href="http://corsica.hockey")),
+      p("Data courtesy of ", a("corsica.hockey",href="http://www.corsica.hockey/")),
       p("Hover over points to get more info"),
       selectizeInput("player", "Player", player.names),
       downloadButton("downloadPlot","Download Chart")
@@ -63,7 +63,7 @@ server <- shinyServer(function(input, output) {
       theme_few() +
       scale_fill_manual(name="Zone",values=c("blue","green","purple")) +
       theme(axis.ticks.x=element_blank(),axis.ticks.y=element_blank(),axis.text.x=element_blank(),axis.text.y=element_blank(),axis.title.x=element_blank(),axis.title.y=element_blank())+
-      ggplot2::annotate("text",x=0,y=0,col="red",label=paste0("MATHIEU BRAY ",year(today())),alpha=0.15,cex=20,fontface="bold",angle=30)
+      ggplot2::annotate("text",x=0,y=0,col="red",label=paste0("@mathieubray ",year(today())),alpha=0.15,cex=20,fontface="bold",angle=30)
     
     return(plot)
     
@@ -85,7 +85,7 @@ server <- shinyServer(function(input, output) {
       theme_few() +
       scale_fill_manual(name="Zone",values=c("blue","green","purple")) +
       theme(axis.ticks.x=element_blank(),axis.ticks.y=element_blank(),axis.text.x=element_blank(),axis.text.y=element_blank(),axis.title.x=element_blank(),axis.title.y=element_blank())+
-      ggplot2::annotate("text",x=0,y=0,col="red",label=paste0("MATHIEU BRAY ",year(today())),alpha=0.15,cex=20,fontface="bold",angle=30) +
+      ggplot2::annotate("text",x=0,y=0,col="red",label=paste0("@mathieubray ",year(today())),alpha=0.15,cex=20,fontface="bold",angle=30) +
       geom_point_interactive(size=6,alpha=0.8,pch=21,color="black")
     
     ggiraph(code={print(plot)},width =0.8,width_svg=12,height_svg=6)

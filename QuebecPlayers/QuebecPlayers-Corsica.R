@@ -5,7 +5,7 @@ library(lubridate)
 
 # Using Corsica data
 
-load("../Data/Corsica/pbp20142015.RDa")
+load("D://Mathieu's Files/Data/Corsica/pbp20142015.RDa")
 
 
 # Retrieve all goals scored against Montreal
@@ -26,7 +26,7 @@ head(goals)
 
 # Collect Relevant Quebec Players
 
-quebec.players <- read.csv("QuebecPlayers/QuebecPlayers.csv",header=T,stringsAsFactors=F)
+quebec.players <- read.csv("QuebecPlayers/data/QuebecPlayers.csv",header=T,stringsAsFactors=F)
 
 relevant.quebec.players <- quebec.players %>% 
   mutate(End.Date = as.numeric(End.Date)) %>%

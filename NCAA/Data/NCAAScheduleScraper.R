@@ -2,23 +2,47 @@ library(dplyr)
 library(tidyr)
 library(rvest)
 library(lubridate)
+library(magrittr)
 
 # Scrape raw schedule from USCHO.com
 
 scrape.raw.schedule <- function(season){
   
-  # Set URL
-  url <- paste0("http://www.uscho.com/scoreboard/division-i-men/",season-1,"-",season,"/composite-schedule/")
+  command <- paste0("NCAA/Data/Scrapers/phantomjs NCAA/Data/Scrapers/scrape_schedule.js")
   
-  raw.data <- url %>% 
-    read_html %>% 
-    html_nodes('.comp') %>%
-    html_table(header=F, fill=F) %>%
-    data.frame(stringsAsFactors = F)
+  system(command)
   
-  # Add column names
-  colnames(raw.data) <- c("Day","Blank","Date","Time","Away","AwayScore","at","Home","HomeScore","OT","Notes","GameType","Box","Recap","TV")
+  raw.data <- read_html("NCAA/Data/Scrapers/schedule.html")
   
+  cells <- raw.data %>%
+    html_nodes("td") %>%
+    html_text %>%
+    tail(-26) %>%
+    head(-118)
+  
+  rows <- raw.data %>%
+    html_nodes("tr") %>%
+    html_text %>% 
+    tail(-2) %>%
+    head(-59) 
+  
+  extract.data <- function(row.number, cells){
+    
+    seq <- ((row.number-1)*13 + 1):((row.number-1)*13 + 13)
+    
+    row <- cells[seq]
+    
+    schedule.data <- row %>%
+      t() %>%
+      as.data.frame(stringsAsFactors = FALSE) %>%
+      set_colnames(c("Day","Date","Time","Away","AwayScore","at","Home","HomeScore","OT","Notes","GameType","Recap","TV"))
+    
+    return(schedule.data)
+    
+  }
+  
+  raw.data <- map_df(1:length(rows), extract.data, cells=cells)
+    
   # Add season identifier and remove redundant columns
   raw.schedule <- raw.data %>%
     mutate(Season = paste0(season-1,season)) %>%
@@ -77,6 +101,12 @@ clean.schedule <- function(season){
     
     new.strings[new.strings == "Army West Point"] <- "Army"
     new.strings[new.strings == "Omaha"] <- "Nebraska-Omaha"
+    new.strings[new.strings == "UMass Lowell"] <- "Massachusetts-Lowell"
+    new.strings[new.strings == "Alabama Huntsville"] <- "Alabama-Huntsville"
+    new.strings[new.strings == "Alaska Anchorage"] <- "Alaska-Anchorage"
+    new.strings[new.strings == "Minnesota Duluth"] <- "Minnesota-Duluth"
+    
+    
     
     return(new.strings)
   }

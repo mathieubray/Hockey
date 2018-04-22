@@ -1,10 +1,11 @@
 library(dplyr)
 library(ggplot2)
 library(ggthemes)
-library(ggjoy)
+library(ggridges)
 library(gganimate)
 library(lubridate)
 library(purrr)
+library(viridis)
 
 # Load data
 
@@ -12,35 +13,26 @@ load.bios <- function(season, playerType){
   
   seasonID <- paste0(season-1,season)
   
-  bios <- read.csv(paste0("HeightWeight/NHL",playerType,"Bios_",seasonID,".csv"),header=T,stringsAsFactors=F)
+  bios <- read.csv(paste0("HeightWeight/data/NHL",playerType,"HeightWeight_",seasonID,".csv"),header=T,stringsAsFactors=F)
   
   return(bios)
   
 }
 
-player.bios <- map(2010:2017,load.bios,playerType="Player") %>%
-  bind_rows %>%
-  select(Name,Season,Height,Weight,Position) %>%
-  rowwise %>%
-  mutate(NewPosition = ifelse(Position == "D", "D", "F")) %>%
-  ungroup
+player.bios <- map_df(2010:2017,load.bios,playerType="Player") %>%
+  mutate(Position = if_else(Position == "D", "D", "F"))
 
-goalie.bios <- map(2010:2017,load.bios,playerType="Goalie") %>%
-  bind_rows %>%
-  select(Name,Season,Height,Weight,Position) %>%
-  mutate(NewPosition="G")
+goalie.bios <- map_df(2010:2017,load.bios,playerType="Goalie") %>%
+  mutate(Position="G")
 
-bios <- rbind(player.bios,goalie.bios) %>%
+bios <- bind_rows(player.bios,goalie.bios) %>%
   filter(!is.na(Height),!is.na(Weight)) %>%
-  arrange(Season,Name) %>%
-  mutate(Year = as.integer(substring(as.character(Season),5,8)))
+  arrange(Season,Name)
 
 
+### GIFs
 
-
-# GIFs
-
-p <- ggplot(bios, aes(x=Height,y=Weight,color=NewPosition,shape=NewPosition,frame=Year)) +
+p <- ggplot(bios, aes(x=Height,y=Weight,color=Position,shape=Position,frame=Season)) +
   geom_jitter(size=5,alpha=0.7) +
   scale_color_manual(name="Position",values=c("blue","orange","purple")) +
   scale_shape_manual(name="Position",values=c(16,15,17)) +
@@ -54,8 +46,8 @@ p <- ggplot(bios, aes(x=Height,y=Weight,color=NewPosition,shape=NewPosition,fram
 gg_animate(p,"HeightWeight/HeightWeight.gif")
 
 
-p2 <- ggplot(bios, aes(x=Height,y=Weight,frame=Year)) +
-  facet_wrap(~NewPosition)+
+p2 <- ggplot(bios, aes(x=Height,y=Weight,frame=Season)) +
+  facet_wrap(~Position)+
   geom_jitter(size=5,alpha=0.7,color="blue",shape=16)+
   xlim(60,85) +
   xlab("Height (in.)")+
@@ -64,63 +56,29 @@ p2 <- ggplot(bios, aes(x=Height,y=Weight,frame=Year)) +
   ggtitle("NHL Players Height and Weight: ") +
   theme_bw(16)
 
-gg_animate(p2,"HeightWeight/HeightWeightFacet.gif")
+gg_animate(p2,"HeightWeight/HeightWeightByPosition.gif")
 
 
-reduced.bios <- bios %>%
-  group_by(Year,NewPosition) %>%
-  summarize(Players=n(),AvgHeight=mean(Height),AvgWeight=mean(Weight))
+# Ridge Plots
 
-q <- ggplot(reduced.bios, aes(x=AvgHeight,y=AvgWeight,color=NewPosition,shape=NewPosition,size=Players,frame=Year)) +
-  geom_jitter(alpha=0.7) +
-  scale_size_continuous(name="Cohort Size",range=c(5,15)) +
-  scale_color_manual(name="Position",values=c("blue","orange","purple")) +
-  scale_shape_manual(name="Position",values=c(16,15,17)) +
-  xlim(65,80) +
-  xlab("Height (in.)")+
-  ylim(150,250) +
-  ylab("Weight (lb.)") +
-  guides(colour = guide_legend(override.aes = list(size=5))) +
-  ggtitle("NHL Players Height and Weight: ") +
-  theme_bw(16)
-
-gg_animate(q,"HeightWeight/HeightWeightAverage.gif")
-
-
-
-# Joy Plots
-
-p <- ggplot(goalie.bios, aes(x=Height,y=as.factor(Season),group=as.factor(Season))) +
-  geom_joy(fill="blue",scale=2,alpha=0.5) +
+ggplot(goalie.bios, aes(x=Height,y=as.factor(Season))) +
+  geom_density_ridges(fill="blue",scale=2,alpha=0.5,rel_min_height=0.01) +
   xlab("Height (in.)") +
   ylab("Season") +
   ggtitle("NHL Goaltender Height Distribution by Season",
           subtitle="All goaltenders who appeared in at least 1 game (not weighted by number of games played)\nData from NHL.com") +
   ggplot2::annotate("text",x=72,y=4,col="red",label=paste("@mathieubray",year(today())),alpha=0.1,cex=15,fontface="bold",angle=15) +
   theme_bw(16)
-  
-p
 
-ggsave("HeightWeight/GoalieHeight.png",p)
+ggplot(bios, aes(x=Height,y=as.factor(Season),fill=Position)) +
+  geom_density_ridges(scale=2,alpha=0.5,rel_min_height=0.01) +
+  xlab("Height (in.)") +
+  ylab("Season") +
+  scale_fill_viridis(discrete=T) +
+  ggtitle("NHLHeight Distribution by Season by Position",
+          subtitle="All players who appeared in at least 1 game (not weighted by number of games played)\nData from NHL.com") +
+  ggplot2::annotate("text",x=72,y=4,col="red",label=paste("@mathieubray",year(today())),alpha=0.1,cex=15,fontface="bold",angle=15) +
+  theme_bw(16)
 
-
-g.bios <- bios %>% filter(NewPosition=="G")
-d.bios <- bios %>% filter(NewPosition=="D")
-f.bios <- bios %>% filter(NewPosition=="F")
-
-p2 <- ggplot() +
-  geom_joy(aes(y=as.factor(g.bios$Year),
-               group=as.factor(g.bios$Year),
-               x= g.bios$Height),
-           fill="blue",scale=3,alpha=0.3) +
-  geom_joy(aes(y=as.factor(d.bios$Year),
-               group=as.factor(d.bios$Year),
-               x= d.bios$Height),
-           fill="red",scale=3,alpha=0.3) +
-  geom_joy(aes(y=as.factor(f.bios$Year),
-               group=as.factor(f.bios$Year),
-               x= f.bios$Height),
-           fill="yellow",scale=3,alpha=0.3) +
-  theme_bw()
 
 
