@@ -1,6 +1,7 @@
 library(dplyr)
 library(tidyr)
 library(rvest)
+library(purrr)
 library(lubridate)
 
 
@@ -391,8 +392,38 @@ pairwise.comparison <- function(team, compare.team, record, results){
   }
 }
 
-
-
-
+compile.pw <- function(rpi,results){
+  
+  pw.results <- crossing(Team=rpi$Team, Opponent=rpi$Team) %>%
+    filter(Team != Opponent, Team < Opponent) %>%
+    arrange(Team, Opponent) %>%
+    rowwise %>%
+    mutate(PW = pairwise.comparison(Team, Opponent, record=rpi, results=results)) %>%
+    ungroup 
+  
+  obtain.pairwise <- function(team, pw){
+    
+    focus.on.team <- pw %>%
+      filter(Team == team | Opponent == team) %>%
+      mutate(Value = if_else(Team == team, PW, 1-PW)) %>%
+      .$Value %>%
+      sum
+    
+    return(focus.on.team)
+  }
+  
+  pairwise <- data.frame(Team=rpi$Team, stringsAsFactors=F) %>%
+    rowwise() %>%
+    mutate(Pairwise = obtain.pairwise(Team, pw.results)) %>%
+    arrange(desc(Pairwise))
+  
+  rpi.pw <- rpi %>%
+    left_join(pairwise, by="Team") %>%
+    arrange(desc(Pairwise), desc(RPI)) %>%
+    mutate(PWRank = row_number())
+  
+  return(rpi.pw)
+  
+}
 
 
