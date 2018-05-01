@@ -1,0 +1,2265 @@
+Game,Season,Team,Win,Goals,Status,Opponent,OpponentGoals
+1,20172018,Boston University,Win,4,Home,Union,1
+1,20172018,Union,Loss,1,Away,Boston University,4
+2,20172018,Colgate,Win,5,Home,Niagara,1
+2,20172018,Niagara,Loss,1,Away,Colgate,5
+3,20172018,Wisconsin,Win,3,Home,Michigan Tech,2
+3,20172018,Michigan Tech,Loss,2,Away,Wisconsin,3
+4,20172018,American International,Loss,1,Home,Army,5
+4,20172018,Army,Win,5,Away,American International,1
+5,20172018,Niagara,Win,4,Home,Robert Morris,3
+5,20172018,Robert Morris,Loss,3,Away,Niagara,4
+6,20172018,Wisconsin,Loss,2,Home,Ohio State,3
+6,20172018,Ohio State,Win,3,Away,Wisconsin,2
+7,20172018,Maine,Win,4,Home,Connecticut,3
+7,20172018,Connecticut,Loss,3,Away,Maine,4
+8,20172018,Massachusetts-Lowell,Loss,3,Home,New Hampshire,4
+8,20172018,New Hampshire,Win,4,Away,Massachusetts-Lowell,3
+9,20172018,Arizona State,Win,5,Home,Massachusetts,3
+9,20172018,Massachusetts,Loss,3,Away,Arizona State,5
+10,20172018,Boston College,Tie,1,Home,Quinnipiac,1
+10,20172018,Quinnipiac,Tie,1,Away,Boston College,1
+11,20172018,Clarkson,Win,2,Home,Penn State,1
+11,20172018,Penn State,Loss,1,Away,Clarkson,2
+12,20172018,Colgate,Win,2,Home,Merrimack,1
+12,20172018,Merrimack,Loss,1,Away,Colgate,2
+13,20172018,Lake Superior,Win,5,Home,Northern Michigan,3
+13,20172018,Northern Michigan,Loss,3,Away,Lake Superior,5
+14,20172018,Miami,Loss,1,Home,Providence,3
+14,20172018,Providence,Win,3,Away,Miami,1
+15,20172018,Notre Dame,Win,5,Home,Alabama-Huntsville,3
+15,20172018,Alabama-Huntsville,Loss,3,Away,Notre Dame,5
+16,20172018,Northeastern,Win,7,Home,Sacred Heart,3
+16,20172018,Sacred Heart,Loss,3,Away,Northeastern,7
+17,20172018,St. Lawrence,Loss,1,Home,Michigan,3
+17,20172018,Michigan,Win,3,Away,St. Lawrence,1
+18,20172018,Alaska-Anchorage,Tie,1,Home,North Dakota,1
+18,20172018,North Dakota,Tie,1,Away,Alaska-Anchorage,1
+19,20172018,Alaska,Loss,2,Home,Air Force,3
+19,20172018,Air Force,Win,3,Away,Alaska,2
+20,20172018,Vermont,Win,3,Home,Colorado College,0
+20,20172018,Colorado College,Loss,0,Away,Vermont,3
+21,20172018,Western Michigan,Win,6,Home,Ferris State,1
+21,20172018,Ferris State,Loss,1,Away,Western Michigan,6
+22,20172018,Michigan Tech,Win,6,Neutral,Union,3
+22,20172018,Union,Loss,3,Neutral,Michigan Tech,6
+23,20172018,Minnesota-Duluth,Win,4,Home,Minnesota,3
+23,20172018,Minnesota,Loss,3,Away,Minnesota-Duluth,4
+24,20172018,American International,Loss,1,Home,Army,2
+24,20172018,Army,Win,2,Away,American International,1
+25,20172018,Wisconsin,Win,3,Home,Ohio State,2
+25,20172018,Ohio State,Loss,2,Away,Wisconsin,3
+26,20172018,Maine,Loss,1,Home,Connecticut,5
+26,20172018,Connecticut,Win,5,Away,Maine,1
+27,20172018,New Hampshire,Win,3,Home,Massachusetts-Lowell,1
+27,20172018,Massachusetts-Lowell,Loss,1,Away,New Hampshire,3
+28,20172018,Arizona State,Loss,2,Home,Massachusetts,4
+28,20172018,Massachusetts,Win,4,Away,Arizona State,2
+29,20172018,Clarkson,Win,3,Home,Michigan,0
+29,20172018,Michigan,Loss,0,Away,Clarkson,3
+30,20172018,Colgate,Tie,2,Home,Merrimack,2
+30,20172018,Merrimack,Tie,2,Away,Colgate,2
+31,20172018,Ferris State,Win,3,Home,Western Michigan,2
+31,20172018,Western Michigan,Loss,2,Away,Ferris State,3
+32,20172018,Minnesota State,Loss,0,Home,St. Cloud State,4
+32,20172018,St. Cloud State,Win,4,Away,Minnesota State,0
+33,20172018,Miami,Loss,2,Home,Providence,3
+33,20172018,Providence,Win,3,Away,Miami,2
+34,20172018,Notre Dame,Win,4,Home,Alabama-Huntsville,0
+34,20172018,Alabama-Huntsville,Loss,0,Away,Notre Dame,4
+35,20172018,Northern Michigan,Win,4,Home,Lake Superior,1
+35,20172018,Lake Superior,Loss,1,Away,Northern Michigan,4
+36,20172018,Northeastern,Win,7,Home,Sacred Heart,0
+36,20172018,Sacred Heart,Loss,0,Away,Northeastern,7
+37,20172018,St. Lawrence,Loss,1,Home,Penn State,4
+37,20172018,Penn State,Win,4,Away,St. Lawrence,1
+38,20172018,Alaska-Anchorage,Loss,2,Home,North Dakota,3
+38,20172018,North Dakota,Win,3,Away,Alaska-Anchorage,2
+39,20172018,Alaska,Tie,1,Home,Air Force,1
+39,20172018,Air Force,Tie,1,Away,Alaska,1
+40,20172018,Vermont,Loss,3,Home,Colorado College,4
+40,20172018,Colorado College,Win,4,Away,Vermont,3
+41,20172018,Minnesota-Duluth,Loss,3,Home,Michigan Tech,4
+41,20172018,Michigan Tech,Win,4,Away,Minnesota-Duluth,3
+42,20172018,Minnesota,Win,2,Neutral,Union,0
+42,20172018,Union,Loss,0,Neutral,Minnesota,2
+43,20172018,Quinnipiac,Loss,2,Home,Boston University,3
+43,20172018,Boston University,Win,3,Away,Quinnipiac,2
+44,20172018,Bentley,Tie,3,Home,American International,3
+44,20172018,American International,Tie,3,Away,Bentley,3
+45,20172018,Western Michigan,Win,3,Home,Bowling Green,1
+45,20172018,Bowling Green,Loss,1,Away,Western Michigan,3
+46,20172018,Canisius,Loss,3,Home,Robert Morris,4
+46,20172018,Robert Morris,Win,4,Away,Canisius,3
+47,20172018,Holy Cross,Tie,1,Home,Mercyhurst,1
+47,20172018,Mercyhurst,Tie,1,Away,Holy Cross,1
+48,20172018,Minnesota,Loss,1,Home,Penn State,3
+48,20172018,Penn State,Win,3,Away,Minnesota,1
+49,20172018,Ferris State,Loss,2,Home,Northern Michigan,3
+49,20172018,Northern Michigan,Win,3,Away,Ferris State,2
+50,20172018,Lake Superior,Loss,3,Home,Michigan Tech,4
+50,20172018,Michigan Tech,Win,4,Away,Lake Superior,3
+51,20172018,Air Force,Win,4,Home,Arizona State,3
+51,20172018,Arizona State,Loss,3,Away,Air Force,4
+52,20172018,American International,Loss,4,Home,Connecticut,6
+52,20172018,Connecticut,Win,6,Away,American International,4
+53,20172018,Boston College,Loss,2,Home,Wisconsin,5
+53,20172018,Wisconsin,Win,5,Away,Boston College,2
+54,20172018,Bowling Green,Win,4,Home,Michigan State,1
+54,20172018,Michigan State,Loss,1,Away,Bowling Green,4
+55,20172018,Bemidji State,Win,5,Home,Minnesota-Duluth,2
+55,20172018,Minnesota-Duluth,Loss,2,Away,Bemidji State,5
+56,20172018,Boston University,Loss,3,Home,Minnesota State,6
+56,20172018,Minnesota State,Win,6,Away,Boston University,3
+57,20172018,Colorado College,Win,6,Home,Alaska-Anchorage,1
+57,20172018,Alaska-Anchorage,Loss,1,Away,Colorado College,6
+58,20172018,Notre Dame,Tie,2,Home,Denver,2
+58,20172018,Denver,Tie,2,Away,Notre Dame,2
+59,20172018,Ohio State,Tie,1,Home,Rensselaer,1
+59,20172018,Rensselaer,Tie,1,Away,Ohio State,1
+60,20172018,St. Cloud State,Win,6,Home,Alaska,3
+60,20172018,Alaska,Loss,3,Away,St. Cloud State,6
+61,20172018,Union,Loss,4,Home,Massachusetts,5
+61,20172018,Massachusetts,Win,5,Away,Union,4
+62,20172018,Massachusetts-Lowell,Loss,2,Home,Nebraska-Omaha,4
+62,20172018,Nebraska-Omaha,Win,4,Away,Massachusetts-Lowell,2
+63,20172018,North Dakota,Win,2,Home,St. Lawrence,1
+63,20172018,St. Lawrence,Loss,1,Away,North Dakota,2
+64,20172018,New Hampshire,Win,5,Home,Colgate,0
+64,20172018,Colgate,Loss,0,Away,New Hampshire,5
+65,20172018,Western Michigan,Tie,2,Home,Clarkson,2
+65,20172018,Clarkson,Tie,2,Away,Western Michigan,2
+66,20172018,Canisius,Win,4,Home,Robert Morris,1
+66,20172018,Robert Morris,Loss,1,Away,Canisius,4
+67,20172018,Holy Cross,Tie,4,Home,Mercyhurst,4
+67,20172018,Mercyhurst,Tie,4,Away,Holy Cross,4
+68,20172018,Ferris State,Loss,0,Home,Northern Michigan,1
+68,20172018,Northern Michigan,Win,1,Away,Ferris State,0
+69,20172018,Lake Superior,Tie,2,Home,Michigan Tech,2
+69,20172018,Michigan Tech,Tie,2,Away,Lake Superior,2
+70,20172018,Air Force,Win,3,Home,Arizona State,2
+70,20172018,Arizona State,Loss,2,Away,Air Force,3
+71,20172018,Boston University,Loss,0,Home,Minnesota State,3
+71,20172018,Minnesota State,Win,3,Away,Boston University,0
+72,20172018,Colorado College,Win,3,Home,Alaska-Anchorage,2
+72,20172018,Alaska-Anchorage,Loss,2,Away,Colorado College,3
+73,20172018,Merrimack,Loss,1,Home,Wisconsin,4
+73,20172018,Wisconsin,Win,4,Away,Merrimack,1
+74,20172018,Michigan State,Win,3,Home,Bowling Green,2
+74,20172018,Bowling Green,Loss,2,Away,Michigan State,3
+75,20172018,Notre Dame,Loss,2,Home,Denver,4
+75,20172018,Denver,Win,4,Away,Notre Dame,2
+76,20172018,Ohio State,Tie,1,Home,Rensselaer,1
+76,20172018,Rensselaer,Tie,1,Away,Ohio State,1
+77,20172018,Quinnipiac,Win,3,Home,Vermont,2
+77,20172018,Vermont,Loss,2,Away,Quinnipiac,3
+78,20172018,RIT,Tie,3,Home,Northeastern,3
+78,20172018,Northeastern,Tie,3,Away,RIT,3
+79,20172018,St. Cloud State,Win,5,Home,Alaska,4
+79,20172018,Alaska,Loss,4,Away,St. Cloud State,5
+80,20172018,Sacred Heart,Win,3,Home,Connecticut,1
+80,20172018,Connecticut,Loss,1,Away,Sacred Heart,3
+81,20172018,Massachusetts,Win,3,Home,American International,1
+81,20172018,American International,Loss,1,Away,Massachusetts,3
+82,20172018,Minnesota-Duluth,Tie,0,Home,Bemidji State,0
+82,20172018,Bemidji State,Tie,0,Away,Minnesota-Duluth,0
+83,20172018,Massachusetts-Lowell,Win,5,Home,Nebraska-Omaha,2
+83,20172018,Nebraska-Omaha,Loss,2,Away,Massachusetts-Lowell,5
+84,20172018,North Dakota,Win,6,Home,St. Lawrence,1
+84,20172018,St. Lawrence,Loss,1,Away,North Dakota,6
+85,20172018,New Hampshire,Win,5,Home,Colgate,3
+85,20172018,Colgate,Loss,3,Away,New Hampshire,5
+86,20172018,Western Michigan,Loss,2,Home,Clarkson,4
+86,20172018,Clarkson,Win,4,Away,Western Michigan,2
+87,20172018,Minnesota,Win,6,Home,Penn State,3
+87,20172018,Penn State,Loss,3,Away,Minnesota,6
+88,20172018,Providence,Loss,3,Home,Boston College,4
+88,20172018,Boston College,Win,4,Away,Providence,3
+89,20172018,Union,Loss,2,Home,Vermont,3
+89,20172018,Vermont,Win,3,Away,Union,2
+90,20172018,Notre Dame,Loss,4,Home,Sacred Heart,6
+90,20172018,Sacred Heart,Win,6,Away,Notre Dame,4
+91,20172018,Penn State,Win,7,Home,American International,5
+91,20172018,American International,Loss,5,Away,Penn State,7
+92,20172018,Holy Cross,Win,4,Home,Bentley,3
+92,20172018,Bentley,Loss,3,Away,Holy Cross,4
+93,20172018,Robert Morris,Win,4,Home,Army,2
+93,20172018,Army,Loss,2,Away,Robert Morris,4
+94,20172018,Boston University,Tie,2,Home,Connecticut,2
+94,20172018,Connecticut,Tie,2,Away,Boston University,2
+95,20172018,Bowling Green,Loss,1,Home,Minnesota State,4
+95,20172018,Minnesota State,Win,4,Away,Bowling Green,1
+96,20172018,Michigan Tech,Win,5,Home,Alabama-Huntsville,4
+96,20172018,Alabama-Huntsville,Loss,4,Away,Michigan Tech,5
+97,20172018,Bemidji State,Win,4,Home,Air Force,1
+97,20172018,Air Force,Loss,1,Away,Bemidji State,4
+98,20172018,Clarkson,Loss,1,Home,Massachusetts-Lowell,3
+98,20172018,Massachusetts-Lowell,Win,3,Away,Clarkson,1
+99,20172018,Denver,Tie,3,Home,Lake Superior,3
+99,20172018,Lake Superior,Tie,3,Away,Denver,3
+100,20172018,Maine,Loss,5,Home,Miami,7
+100,20172018,Miami,Win,7,Away,Maine,5
+101,20172018,Mercyhurst,Loss,2,Home,Ferris State,3
+101,20172018,Ferris State,Win,3,Away,Mercyhurst,2
+102,20172018,Michigan State,Win,6,Home,Western Michigan,4
+102,20172018,Western Michigan,Loss,4,Away,Michigan State,6
+103,20172018,Notre Dame,Win,3,Home,Sacred Heart,1
+103,20172018,Sacred Heart,Loss,1,Away,Notre Dame,3
+104,20172018,Niagara,Win,4,Home,Rensselaer,3
+104,20172018,Rensselaer,Loss,3,Away,Niagara,4
+105,20172018,Northern Michigan,Win,5,Neutral,Wisconsin,4
+105,20172018,Wisconsin,Loss,4,Neutral,Northern Michigan,5
+106,20172018,Northeastern,Loss,4,Home,Quinnipiac,6
+106,20172018,Quinnipiac,Win,6,Away,Northeastern,4
+107,20172018,Penn State,Loss,2,Home,American International,3
+107,20172018,American International,Win,3,Away,Penn State,2
+108,20172018,RIT,Loss,1,Home,Union,6
+108,20172018,Union,Win,6,Away,RIT,1
+109,20172018,St. Cloud State,Win,5,Home,Boston College,2
+109,20172018,Boston College,Loss,2,Away,St. Cloud State,5
+110,20172018,St. Lawrence,Loss,5,Home,Providence,6
+110,20172018,Providence,Win,6,Away,St. Lawrence,5
+111,20172018,Michigan,Win,4,Home,Vermont,1
+111,20172018,Vermont,Loss,1,Away,Michigan,4
+112,20172018,Massachusetts,Loss,1,Home,Ohio State,3
+112,20172018,Ohio State,Win,3,Away,Massachusetts,1
+113,20172018,Minnesota-Duluth,Tie,5,Home,Merrimack,5
+113,20172018,Merrimack,Tie,5,Away,Minnesota-Duluth,5
+114,20172018,North Dakota,Loss,1,Home,Minnesota,2
+114,20172018,Minnesota,Win,2,Away,North Dakota,1
+115,20172018,New Hampshire,Win,6,Home,Colorado College,3
+115,20172018,Colorado College,Loss,3,Away,New Hampshire,6
+116,20172018,Nebraska-Omaha,Win,5,Home,Arizona State,1
+116,20172018,Arizona State,Loss,1,Away,Nebraska-Omaha,5
+117,20172018,Alaska-Anchorage,Loss,2,Home,Alaska,6
+117,20172018,Alaska,Win,6,Away,Alaska-Anchorage,2
+118,20172018,Holy Cross,Win,5,Home,Bentley,0
+118,20172018,Bentley,Loss,0,Away,Holy Cross,5
+119,20172018,Robert Morris,Loss,1,Home,Army,3
+119,20172018,Army,Win,3,Away,Robert Morris,1
+120,20172018,Connecticut,Loss,3,Home,Boston University,6
+120,20172018,Boston University,Win,6,Away,Connecticut,3
+121,20172018,Bowling Green,Win,5,Home,Minnesota State,2
+121,20172018,Minnesota State,Loss,2,Away,Bowling Green,5
+122,20172018,Michigan Tech,Loss,2,Home,Alabama-Huntsville,4
+122,20172018,Alabama-Huntsville,Win,4,Away,Michigan Tech,2
+123,20172018,Bemidji State,Loss,1,Home,Air Force,5
+123,20172018,Air Force,Win,5,Away,Bemidji State,1
+124,20172018,Canisius,Tie,3,Home,Colgate,3
+124,20172018,Colgate,Tie,3,Away,Canisius,3
+125,20172018,Clarkson,Win,4,Home,Providence,0
+125,20172018,Providence,Loss,0,Away,Clarkson,4
+126,20172018,Denver,Win,5,Home,Lake Superior,1
+126,20172018,Lake Superior,Loss,1,Away,Denver,5
+127,20172018,Maine,Win,6,Home,Miami,3
+127,20172018,Miami,Loss,3,Away,Maine,6
+128,20172018,Mercyhurst,Win,4,Home,Ferris State,1
+128,20172018,Ferris State,Loss,1,Away,Mercyhurst,4
+129,20172018,Niagara,Loss,1,Home,Union,5
+129,20172018,Union,Win,5,Away,Niagara,1
+130,20172018,Northern Michigan,Loss,0,Neutral,Wisconsin,4
+130,20172018,Wisconsin,Win,4,Neutral,Northern Michigan,0
+131,20172018,Northeastern,Loss,2,Home,Quinnipiac,3
+131,20172018,Quinnipiac,Win,3,Away,Northeastern,2
+132,20172018,RIT,Loss,3,Home,Rensselaer,8
+132,20172018,Rensselaer,Win,8,Away,RIT,3
+133,20172018,St. Cloud State,Win,3,Home,Boston College,1
+133,20172018,Boston College,Loss,1,Away,St. Cloud State,3
+134,20172018,St. Lawrence,Loss,0,Home,Massachusetts-Lowell,5
+134,20172018,Massachusetts-Lowell,Win,5,Away,St. Lawrence,0
+135,20172018,Michigan,Win,3,Home,Vermont,2
+135,20172018,Vermont,Loss,2,Away,Michigan,3
+136,20172018,Massachusetts,Loss,0,Home,Ohio State,3
+136,20172018,Ohio State,Win,3,Away,Massachusetts,0
+137,20172018,Minnesota-Duluth,Win,7,Home,Merrimack,2
+137,20172018,Merrimack,Loss,2,Away,Minnesota-Duluth,7
+138,20172018,North Dakota,Win,4,Home,Minnesota,0
+138,20172018,Minnesota,Loss,0,Away,North Dakota,4
+139,20172018,New Hampshire,Loss,1,Home,Colorado College,2
+139,20172018,Colorado College,Win,2,Away,New Hampshire,1
+140,20172018,Nebraska-Omaha,Tie,4,Home,Arizona State,4
+140,20172018,Arizona State,Tie,4,Away,Nebraska-Omaha,4
+141,20172018,Western Michigan,Win,3,Home,Michigan State,1
+141,20172018,Michigan State,Loss,1,Away,Western Michigan,3
+142,20172018,Alaska,Win,3,Home,Alaska-Anchorage,2
+142,20172018,Alaska-Anchorage,Loss,2,Away,Alaska,3
+143,20172018,American International,Tie,2,Home,Bentley,2
+143,20172018,Bentley,Tie,2,Away,American International,2
+144,20172018,Notre Dame,Loss,4,Home,Nebraska-Omaha,6
+144,20172018,Nebraska-Omaha,Win,6,Away,Notre Dame,4
+145,20172018,Army,Loss,4,Home,RIT,5
+145,20172018,RIT,Win,5,Away,Army,4
+146,20172018,Bentley,Win,4,Home,Mercyhurst,3
+146,20172018,Mercyhurst,Loss,3,Away,Bentley,4
+147,20172018,Canisius,Loss,1,Home,Air Force,3
+147,20172018,Air Force,Win,3,Away,Canisius,1
+148,20172018,Sacred Heart,Loss,2,Home,Niagara,3
+148,20172018,Niagara,Win,3,Away,Sacred Heart,2
+149,20172018,Penn State,Win,5,Home,Michigan,4
+149,20172018,Michigan,Loss,4,Away,Penn State,5
+150,20172018,Union,Win,4,Home,Rensselaer,3
+150,20172018,Rensselaer,Loss,3,Away,Union,4
+151,20172018,Yale,Loss,1,Home,Brown,4
+151,20172018,Brown,Win,4,Away,Yale,1
+152,20172018,Providence,Win,2,Home,Boston College,1
+152,20172018,Boston College,Loss,1,Away,Providence,2
+153,20172018,Massachusetts,Win,4,Home,Merrimack,0
+153,20172018,Merrimack,Loss,0,Away,Massachusetts,4
+154,20172018,Massachusetts-Lowell,Loss,1,Home,Northeastern,3
+154,20172018,Northeastern,Win,3,Away,Massachusetts-Lowell,1
+155,20172018,Colorado College,Win,2,Home,North Dakota,1
+155,20172018,North Dakota,Loss,1,Away,Colorado College,2
+156,20172018,Bowling Green,Win,2,Home,Alaska,1
+156,20172018,Alaska,Loss,1,Away,Bowling Green,2
+157,20172018,Bemidji State,Tie,2,Home,Ferris State,2
+157,20172018,Ferris State,Tie,2,Away,Bemidji State,2
+158,20172018,Minnesota State,Win,3,Home,Michigan Tech,1
+158,20172018,Michigan Tech,Loss,1,Away,Minnesota State,3
+159,20172018,Boston University,Loss,3,Home,Denver,4
+159,20172018,Denver,Win,4,Away,Boston University,3
+160,20172018,Colgate,Win,3,Home,Arizona State,0
+160,20172018,Arizona State,Loss,0,Away,Colgate,3
+161,20172018,Cornell,Win,5,Home,Alabama-Huntsville,1
+161,20172018,Alabama-Huntsville,Loss,1,Away,Cornell,5
+162,20172018,Holy Cross,Win,5,Home,Dartmouth,3
+162,20172018,Dartmouth,Loss,3,Away,Holy Cross,5
+163,20172018,Maine,Loss,1,Home,Minnesota-Duluth,2
+163,20172018,Minnesota-Duluth,Win,2,Away,Maine,1
+164,20172018,Michigan State,Win,4,Home,Lake Superior,3
+164,20172018,Lake Superior,Loss,3,Away,Michigan State,4
+165,20172018,Miami,Win,3,Home,Connecticut,0
+165,20172018,Connecticut,Loss,0,Away,Miami,3
+166,20172018,Notre Dame,Win,5,Home,Nebraska-Omaha,4
+166,20172018,Nebraska-Omaha,Loss,4,Away,Notre Dame,5
+167,20172018,Ohio State,Win,5,Home,Robert Morris,3
+167,20172018,Robert Morris,Loss,3,Away,Ohio State,5
+168,20172018,Minnesota,Win,3,Home,Clarkson,1
+168,20172018,Clarkson,Loss,1,Away,Minnesota,3
+169,20172018,Wisconsin,Win,4,Home,St. Lawrence,2
+169,20172018,St. Lawrence,Loss,2,Away,Wisconsin,4
+170,20172018,Army,Loss,1,Home,RIT,3
+170,20172018,RIT,Win,3,Away,Army,1
+171,20172018,Bentley,Loss,0,Home,Mercyhurst,2
+171,20172018,Mercyhurst,Win,2,Away,Bentley,0
+172,20172018,Canisius,Win,3,Home,Air Force,2
+172,20172018,Air Force,Loss,2,Away,Canisius,3
+173,20172018,Sacred Heart,Loss,2,Home,Niagara,6
+173,20172018,Niagara,Win,6,Away,Sacred Heart,2
+174,20172018,Penn State,Loss,2,Home,Michigan,5
+174,20172018,Michigan,Win,5,Away,Penn State,2
+175,20172018,Brown,Loss,2,Home,Yale,5
+175,20172018,Yale,Win,5,Away,Brown,2
+176,20172018,Rensselaer,Loss,2,Home,Union,4
+176,20172018,Union,Win,4,Away,Rensselaer,2
+177,20172018,Merrimack,Win,5,Home,Massachusetts,3
+177,20172018,Massachusetts,Loss,3,Away,Merrimack,5
+178,20172018,Northeastern,Win,5,Home,Massachusetts-Lowell,4
+178,20172018,Massachusetts-Lowell,Loss,4,Away,Northeastern,5
+179,20172018,Providence,Win,3,Home,Boston University,0
+179,20172018,Boston University,Loss,0,Away,Providence,3
+180,20172018,Vermont,Tie,4,Home,New Hampshire,4
+180,20172018,New Hampshire,Tie,4,Away,Vermont,4
+181,20172018,Colorado College,Loss,4,Home,North Dakota,6
+181,20172018,North Dakota,Win,6,Away,Colorado College,4
+182,20172018,Bowling Green,Tie,2,Home,Alaska,2
+182,20172018,Alaska,Tie,2,Away,Bowling Green,2
+183,20172018,Bemidji State,Win,3,Home,Ferris State,0
+183,20172018,Ferris State,Loss,0,Away,Bemidji State,3
+184,20172018,Minnesota State,Win,5,Home,Michigan Tech,3
+184,20172018,Michigan Tech,Loss,3,Away,Minnesota State,5
+185,20172018,Boston College,Loss,1,Home,Denver,6
+185,20172018,Denver,Win,6,Away,Boston College,1
+186,20172018,Colgate,Tie,1,Home,Arizona State,1
+186,20172018,Arizona State,Tie,1,Away,Colgate,1
+187,20172018,Cornell,Win,3,Home,Alabama-Huntsville,0
+187,20172018,Alabama-Huntsville,Loss,0,Away,Cornell,3
+188,20172018,Maine,Loss,0,Home,Minnesota-Duluth,2
+188,20172018,Minnesota-Duluth,Win,2,Away,Maine,0
+189,20172018,Michigan State,Win,6,Home,Lake Superior,0
+189,20172018,Lake Superior,Loss,0,Away,Michigan State,6
+190,20172018,Miami,Win,7,Home,Connecticut,1
+190,20172018,Connecticut,Loss,1,Away,Miami,7
+191,20172018,Robert Morris,Loss,1,Home,Ohio State,3
+191,20172018,Ohio State,Win,3,Away,Robert Morris,1
+192,20172018,Minnesota,Win,2,Home,Clarkson,1
+192,20172018,Clarkson,Loss,1,Away,Minnesota,2
+193,20172018,Wisconsin,Loss,3,Home,St. Lawrence,6
+193,20172018,St. Lawrence,Win,6,Away,Wisconsin,3
+194,20172018,Harvard,Win,5,Home,Dartmouth,0
+194,20172018,Dartmouth,Loss,0,Away,Harvard,5
+195,20172018,Princeton,Win,4,Home,Holy Cross,2
+195,20172018,Holy Cross,Loss,2,Away,Princeton,4
+196,20172018,Michigan,Win,7,Home,Ferris State,2
+196,20172018,Ferris State,Loss,2,Away,Michigan,7
+197,20172018,Air Force,Loss,2,Home,Army,3
+197,20172018,Army,Win,3,Away,Air Force,2
+198,20172018,Niagara,Tie,3,Home,Bentley,3
+198,20172018,Bentley,Tie,3,Away,Niagara,3
+199,20172018,RIT,Win,5,Home,American International,3
+199,20172018,American International,Loss,3,Away,RIT,5
+200,20172018,Robert Morris,Tie,5,Home,Holy Cross,5
+200,20172018,Holy Cross,Tie,5,Away,Robert Morris,5
+201,20172018,Ohio State,Loss,1,Home,Notre Dame,4
+201,20172018,Notre Dame,Win,4,Away,Ohio State,1
+202,20172018,Minnesota,Win,3,Home,Michigan State,1
+202,20172018,Michigan State,Loss,1,Away,Minnesota,3
+203,20172018,Clarkson,Win,6,Home,Rensselaer,0
+203,20172018,Rensselaer,Loss,0,Away,Clarkson,6
+204,20172018,Dartmouth,Win,4,Home,Brown,3
+204,20172018,Brown,Loss,3,Away,Dartmouth,4
+205,20172018,Harvard,Loss,2,Home,Yale,5
+205,20172018,Yale,Win,5,Away,Harvard,2
+206,20172018,Princeton,Tie,0,Home,Colgate,0
+206,20172018,Colgate,Tie,0,Away,Princeton,0
+207,20172018,Quinnipiac,Loss,1,Home,Cornell,2
+207,20172018,Cornell,Win,2,Away,Quinnipiac,1
+208,20172018,St. Lawrence,Loss,1,Home,Union,3
+208,20172018,Union,Win,3,Away,St. Lawrence,1
+209,20172018,Boston College,Win,3,Home,Merrimack,1
+209,20172018,Merrimack,Loss,1,Away,Boston College,3
+210,20172018,Boston University,Win,2,Home,Providence,0
+210,20172018,Providence,Loss,0,Away,Boston University,2
+211,20172018,Connecticut,Win,5,Home,Vermont,1
+211,20172018,Vermont,Loss,1,Away,Connecticut,5
+212,20172018,Massachusetts-Lowell,Win,3,Home,Maine,2
+212,20172018,Maine,Loss,2,Away,Massachusetts-Lowell,3
+213,20172018,Miami,Win,3,Home,Colorado College,2
+213,20172018,Colorado College,Loss,2,Away,Miami,3
+214,20172018,St. Cloud State,Win,5,Home,Minnesota-Duluth,3
+214,20172018,Minnesota-Duluth,Loss,3,Away,St. Cloud State,5
+215,20172018,Western Michigan,Win,6,Home,Denver,5
+215,20172018,Denver,Loss,5,Away,Western Michigan,6
+216,20172018,Lake Superior,Win,3,Home,Alaska-Anchorage,2
+216,20172018,Alaska-Anchorage,Loss,2,Away,Lake Superior,3
+217,20172018,Michigan Tech,Loss,1,Home,Bowling Green,2
+217,20172018,Bowling Green,Win,2,Away,Michigan Tech,1
+218,20172018,Northern Michigan,Loss,0,Home,Minnesota State,3
+218,20172018,Minnesota State,Win,3,Away,Northern Michigan,0
+219,20172018,Alaska,Win,4,Home,Bemidji State,3
+219,20172018,Bemidji State,Loss,3,Away,Alaska,4
+220,20172018,Arizona State,Win,3,Home,Alabama-Huntsville,2
+220,20172018,Alabama-Huntsville,Loss,2,Away,Arizona State,3
+221,20172018,Penn State,Loss,4,Home,Mercyhurst,7
+221,20172018,Mercyhurst,Win,7,Away,Penn State,4
+222,20172018,Michigan,Loss,2,Home,Ferris State,3
+222,20172018,Ferris State,Win,3,Away,Michigan,2
+223,20172018,Wisconsin,Loss,2,Home,North Dakota,3
+223,20172018,North Dakota,Win,3,Away,Wisconsin,2
+224,20172018,Air Force,Loss,0,Home,Army,2
+224,20172018,Army,Win,2,Away,Air Force,0
+225,20172018,Niagara,Win,4,Home,Bentley,3
+225,20172018,Bentley,Loss,3,Away,Niagara,4
+226,20172018,RIT,Loss,2,Home,American International,3
+226,20172018,American International,Win,3,Away,RIT,2
+227,20172018,Robert Morris,Win,3,Home,Holy Cross,0
+227,20172018,Holy Cross,Loss,0,Away,Robert Morris,3
+228,20172018,Sacred Heart,Win,6,Home,Canisius,2
+228,20172018,Canisius,Loss,2,Away,Sacred Heart,6
+229,20172018,Ohio State,Loss,2,Home,Notre Dame,3
+229,20172018,Notre Dame,Win,3,Away,Ohio State,2
+230,20172018,Minnesota,Win,4,Home,Michigan State,0
+230,20172018,Michigan State,Loss,0,Away,Minnesota,4
+231,20172018,Clarkson,Win,3,Home,Union,2
+231,20172018,Union,Loss,2,Away,Clarkson,3
+232,20172018,Dartmouth,Win,3,Home,Yale,1
+232,20172018,Yale,Loss,1,Away,Dartmouth,3
+233,20172018,Harvard,Win,3,Home,Brown,0
+233,20172018,Brown,Loss,0,Away,Harvard,3
+234,20172018,Princeton,Loss,4,Home,Cornell,5
+234,20172018,Cornell,Win,5,Away,Princeton,4
+235,20172018,Quinnipiac,Loss,1,Home,Colgate,4
+235,20172018,Colgate,Win,4,Away,Quinnipiac,1
+236,20172018,St. Lawrence,Tie,4,Home,Rensselaer,4
+236,20172018,Rensselaer,Tie,4,Away,St. Lawrence,4
+237,20172018,Boston University,Loss,1,Home,Northeastern,4
+237,20172018,Northeastern,Win,4,Away,Boston University,1
+238,20172018,Merrimack,Loss,1,Home,Boston College,2
+238,20172018,Boston College,Win,2,Away,Merrimack,1
+239,20172018,Connecticut,Loss,2,Home,Vermont,4
+239,20172018,Vermont,Win,4,Away,Connecticut,2
+240,20172018,Massachusetts,Loss,0,Home,New Hampshire,3
+240,20172018,New Hampshire,Win,3,Away,Massachusetts,0
+241,20172018,Massachusetts-Lowell,Loss,2,Home,Maine,6
+241,20172018,Maine,Win,6,Away,Massachusetts-Lowell,2
+242,20172018,Miami,Loss,1,Home,Colorado College,2
+242,20172018,Colorado College,Win,2,Away,Miami,1
+243,20172018,St. Cloud State,Win,5,Home,Minnesota-Duluth,0
+243,20172018,Minnesota-Duluth,Loss,0,Away,St. Cloud State,5
+244,20172018,Western Michigan,Win,7,Home,Denver,4
+244,20172018,Denver,Loss,4,Away,Western Michigan,7
+245,20172018,Lake Superior,Loss,1,Home,Alaska-Anchorage,4
+245,20172018,Alaska-Anchorage,Win,4,Away,Lake Superior,1
+246,20172018,Michigan Tech,Tie,2,Home,Bowling Green,2
+246,20172018,Bowling Green,Tie,2,Away,Michigan Tech,2
+247,20172018,Northern Michigan,Win,4,Home,Minnesota State,1
+247,20172018,Minnesota State,Loss,1,Away,Northern Michigan,4
+248,20172018,Alaska,Loss,2,Home,Bemidji State,3
+248,20172018,Bemidji State,Win,3,Away,Alaska,2
+249,20172018,Arizona State,Loss,1,Home,Alabama-Huntsville,3
+249,20172018,Alabama-Huntsville,Win,3,Away,Arizona State,1
+250,20172018,Penn State,Win,7,Home,Mercyhurst,5
+250,20172018,Mercyhurst,Loss,5,Away,Penn State,7
+251,20172018,Wisconsin,Tie,2,Home,North Dakota,2
+251,20172018,North Dakota,Tie,2,Away,Wisconsin,2
+252,20172018,Sacred Heart,Loss,2,Home,Canisius,3
+252,20172018,Canisius,Win,3,Away,Sacred Heart,2
+253,20172018,Boston College,Win,2,Home,Connecticut,1
+253,20172018,Connecticut,Loss,1,Away,Boston College,2
+254,20172018,Massachusetts,Win,5,Home,Providence,2
+254,20172018,Providence,Loss,2,Away,Massachusetts,5
+255,20172018,American International,Win,6,Home,Sacred Heart,2
+255,20172018,Sacred Heart,Loss,2,Away,American International,6
+256,20172018,Holy Cross,Win,3,Home,Air Force,0
+256,20172018,Air Force,Loss,0,Away,Holy Cross,3
+257,20172018,Mercyhurst,Win,4,Home,Canisius,3
+257,20172018,Canisius,Loss,3,Away,Mercyhurst,4
+258,20172018,Niagara,Loss,1,Home,Army,3
+258,20172018,Army,Win,3,Away,Niagara,1
+259,20172018,RIT,Win,5,Home,Robert Morris,3
+259,20172018,Robert Morris,Loss,3,Away,RIT,5
+260,20172018,Michigan State,Loss,3,Home,Wisconsin,6
+260,20172018,Wisconsin,Win,6,Away,Michigan State,3
+261,20172018,Notre Dame,Win,5,Home,Penn State,3
+261,20172018,Penn State,Loss,3,Away,Notre Dame,5
+262,20172018,Michigan,Win,5,Home,Minnesota,4
+262,20172018,Minnesota,Loss,4,Away,Michigan,5
+263,20172018,Brown,Loss,3,Home,Clarkson,5
+263,20172018,Clarkson,Win,5,Away,Brown,3
+264,20172018,Colgate,Win,2,Home,Harvard,1
+264,20172018,Harvard,Loss,1,Away,Colgate,2
+265,20172018,Cornell,Win,3,Home,Dartmouth,0
+265,20172018,Dartmouth,Loss,0,Away,Cornell,3
+266,20172018,Rensselaer,Win,5,Home,Quinnipiac,3
+266,20172018,Quinnipiac,Loss,3,Away,Rensselaer,5
+267,20172018,Union,Win,4,Home,Princeton,3
+267,20172018,Princeton,Loss,3,Away,Union,4
+268,20172018,Yale,Win,6,Home,St. Lawrence,1
+268,20172018,St. Lawrence,Loss,1,Away,Yale,6
+269,20172018,Northeastern,Win,6,Home,Boston University,1
+269,20172018,Boston University,Loss,1,Away,Northeastern,6
+270,20172018,New Hampshire,Loss,1,Home,Massachusetts-Lowell,2
+270,20172018,Massachusetts-Lowell,Win,2,Away,New Hampshire,1
+271,20172018,Vermont,Loss,3,Home,Boston College,4
+271,20172018,Boston College,Win,4,Away,Vermont,3
+272,20172018,Colorado College,Loss,3,Home,Nebraska-Omaha,5
+272,20172018,Nebraska-Omaha,Win,5,Away,Colorado College,3
+273,20172018,Denver,Win,4,Home,St. Cloud State,2
+273,20172018,St. Cloud State,Loss,2,Away,Denver,4
+274,20172018,Minnesota-Duluth,Win,3,Home,Western Michigan,0
+274,20172018,Western Michigan,Loss,0,Away,Minnesota-Duluth,3
+275,20172018,North Dakota,Win,4,Home,Miami,1
+275,20172018,Miami,Loss,1,Away,North Dakota,4
+276,20172018,Bowling Green,Tie,2,Home,Lake Superior,2
+276,20172018,Lake Superior,Tie,2,Away,Bowling Green,2
+277,20172018,Bemidji State,Loss,2,Home,Minnesota State,5
+277,20172018,Minnesota State,Win,5,Away,Bemidji State,2
+278,20172018,Ferris State,Win,3,Home,Alaska,1
+278,20172018,Alaska,Loss,1,Away,Ferris State,3
+279,20172018,Michigan Tech,Win,4,Home,Northern Michigan,1
+279,20172018,Northern Michigan,Loss,1,Away,Michigan Tech,4
+280,20172018,Alabama-Huntsville,Win,5,Home,Alaska-Anchorage,1
+280,20172018,Alaska-Anchorage,Loss,1,Away,Alabama-Huntsville,5
+281,20172018,Merrimack,Win,5,Home,Bentley,2
+281,20172018,Bentley,Loss,2,Away,Merrimack,5
+282,20172018,Connecticut,Loss,4,Home,Ohio State,5
+282,20172018,Ohio State,Win,5,Away,Connecticut,4
+283,20172018,American International,Win,4,Home,Sacred Heart,1
+283,20172018,Sacred Heart,Loss,1,Away,American International,4
+284,20172018,Holy Cross,Tie,3,Home,Air Force,3
+284,20172018,Air Force,Tie,3,Away,Holy Cross,3
+285,20172018,Mercyhurst,Loss,3,Home,Canisius,7
+285,20172018,Canisius,Win,7,Away,Mercyhurst,3
+286,20172018,Niagara,Win,3,Home,Army,2
+286,20172018,Army,Loss,2,Away,Niagara,3
+287,20172018,RIT,Win,5,Home,Robert Morris,2
+287,20172018,Robert Morris,Loss,2,Away,RIT,5
+288,20172018,Michigan State,Win,2,Home,Wisconsin,0
+288,20172018,Wisconsin,Loss,0,Away,Michigan State,2
+289,20172018,Notre Dame,Win,1,Home,Penn State,0
+289,20172018,Penn State,Loss,0,Away,Notre Dame,1
+290,20172018,Michigan,Tie,6,Home,Minnesota,6
+290,20172018,Minnesota,Tie,6,Away,Michigan,6
+291,20172018,Brown,Win,3,Home,St. Lawrence,1
+291,20172018,St. Lawrence,Loss,1,Away,Brown,3
+292,20172018,Colgate,Win,3,Home,Dartmouth,2
+292,20172018,Dartmouth,Loss,2,Away,Colgate,3
+293,20172018,Cornell,Win,3,Home,Harvard,2
+293,20172018,Harvard,Loss,2,Away,Cornell,3
+294,20172018,Rensselaer,Loss,2,Home,Princeton,6
+294,20172018,Princeton,Win,6,Away,Rensselaer,2
+295,20172018,Union,Win,4,Home,Quinnipiac,1
+295,20172018,Quinnipiac,Loss,1,Away,Union,4
+296,20172018,Yale,Loss,1,Home,Clarkson,4
+296,20172018,Clarkson,Win,4,Away,Yale,1
+297,20172018,Boston University,Win,4,Home,New Hampshire,0
+297,20172018,New Hampshire,Loss,0,Away,Boston University,4
+298,20172018,Providence,Win,7,Home,Massachusetts,2
+298,20172018,Massachusetts,Loss,2,Away,Providence,7
+299,20172018,Massachusetts-Lowell,Win,4,Home,Northeastern,2
+299,20172018,Northeastern,Loss,2,Away,Massachusetts-Lowell,4
+300,20172018,Vermont,Loss,1,Home,Boston College,5
+300,20172018,Boston College,Win,5,Away,Vermont,1
+301,20172018,Colorado College,Win,4,Home,Nebraska-Omaha,0
+301,20172018,Nebraska-Omaha,Loss,0,Away,Colorado College,4
+302,20172018,Denver,Win,5,Home,St. Cloud State,1
+302,20172018,St. Cloud State,Loss,1,Away,Denver,5
+303,20172018,Minnesota-Duluth,Loss,0,Home,Western Michigan,5
+303,20172018,Western Michigan,Win,5,Away,Minnesota-Duluth,0
+304,20172018,North Dakota,Tie,3,Home,Miami,3
+304,20172018,Miami,Tie,3,Away,North Dakota,3
+305,20172018,Bowling Green,Win,5,Home,Lake Superior,2
+305,20172018,Lake Superior,Loss,2,Away,Bowling Green,5
+306,20172018,Bemidji State,Loss,6,Home,Minnesota State,8
+306,20172018,Minnesota State,Win,8,Away,Bemidji State,6
+307,20172018,Ferris State,Win,5,Home,Alaska,3
+307,20172018,Alaska,Loss,3,Away,Ferris State,5
+308,20172018,Northern Michigan,Win,4,Home,Michigan Tech,0
+308,20172018,Michigan Tech,Loss,0,Away,Northern Michigan,4
+309,20172018,Alabama-Huntsville,Tie,3,Home,Alaska-Anchorage,3
+309,20172018,Alaska-Anchorage,Tie,3,Away,Alabama-Huntsville,3
+310,20172018,Connecticut,Tie,1,Home,Ohio State,1
+310,20172018,Ohio State,Tie,1,Away,Connecticut,1
+311,20172018,Air Force,Win,4,Home,RIT,3
+311,20172018,RIT,Loss,3,Away,Air Force,4
+312,20172018,Army,Tie,2,Home,Holy Cross,2
+312,20172018,Holy Cross,Tie,2,Away,Army,2
+313,20172018,Canisius,Win,5,Home,Bentley,1
+313,20172018,Bentley,Loss,1,Away,Canisius,5
+314,20172018,Robert Morris,Win,3,Home,American International,1
+314,20172018,American International,Loss,1,Away,Robert Morris,3
+315,20172018,Wisconsin,Win,7,Home,Michigan,3
+315,20172018,Michigan,Loss,3,Away,Wisconsin,7
+316,20172018,Colgate,Loss,2,Home,Clarkson,5
+316,20172018,Clarkson,Win,5,Away,Colgate,2
+317,20172018,Cornell,Win,6,Home,St. Lawrence,1
+317,20172018,St. Lawrence,Loss,1,Away,Cornell,6
+318,20172018,Princeton,Win,5,Home,Yale,4
+318,20172018,Yale,Loss,4,Away,Princeton,5
+319,20172018,Quinnipiac,Win,5,Home,Brown,0
+319,20172018,Brown,Loss,0,Away,Quinnipiac,5
+320,20172018,Maine,Win,5,Home,Boston University,2
+320,20172018,Boston University,Loss,2,Away,Maine,5
+321,20172018,Northeastern,Win,2,Home,Vermont,1
+321,20172018,Vermont,Loss,1,Away,Northeastern,2
+322,20172018,Providence,Win,2,Home,Merrimack,1
+322,20172018,Merrimack,Loss,1,Away,Providence,2
+323,20172018,Massachusetts-Lowell,Win,5,Home,Connecticut,2
+323,20172018,Connecticut,Loss,2,Away,Massachusetts-Lowell,5
+324,20172018,New Hampshire,Loss,2,Home,Boston College,3
+324,20172018,Boston College,Win,3,Away,New Hampshire,2
+325,20172018,Denver,Loss,4,Home,North Dakota,5
+325,20172018,North Dakota,Win,5,Away,Denver,4
+326,20172018,Miami,Loss,1,Home,Minnesota-Duluth,3
+326,20172018,Minnesota-Duluth,Win,3,Away,Miami,1
+327,20172018,St. Cloud State,Win,6,Home,Colorado College,1
+327,20172018,Colorado College,Loss,1,Away,St. Cloud State,6
+328,20172018,Western Michigan,Win,4,Home,Nebraska-Omaha,1
+328,20172018,Nebraska-Omaha,Loss,1,Away,Western Michigan,4
+329,20172018,Minnesota State,Win,6,Home,Bowling Green,1
+329,20172018,Bowling Green,Loss,1,Away,Minnesota State,6
+330,20172018,Alaska-Anchorage,Tie,1,Home,Michigan Tech,1
+330,20172018,Michigan Tech,Tie,1,Away,Alaska-Anchorage,1
+331,20172018,Alaska,Loss,3,Home,Northern Michigan,5
+331,20172018,Northern Michigan,Win,5,Away,Alaska,3
+332,20172018,Alabama-Huntsville,Loss,1,Home,Lake Superior,3
+332,20172018,Lake Superior,Win,3,Away,Alabama-Huntsville,1
+333,20172018,Arizona State,Loss,0,Home,Penn State,7
+333,20172018,Penn State,Win,7,Away,Arizona State,0
+334,20172018,Michigan State,Win,3,Home,Ferris State,2
+334,20172018,Ferris State,Loss,2,Away,Michigan State,3
+335,20172018,Rensselaer,Loss,1,Home,Notre Dame,4
+335,20172018,Notre Dame,Win,4,Away,Rensselaer,1
+336,20172018,Minnesota,Win,4,Home,Harvard,2
+336,20172018,Harvard,Loss,2,Away,Minnesota,4
+337,20172018,Air Force,Loss,2,Home,RIT,3
+337,20172018,RIT,Win,3,Away,Air Force,2
+338,20172018,Army,Loss,0,Home,Holy Cross,4
+338,20172018,Holy Cross,Win,4,Away,Army,0
+339,20172018,Canisius,Win,5,Home,Bentley,2
+339,20172018,Bentley,Loss,2,Away,Canisius,5
+340,20172018,Robert Morris,Win,4,Home,American International,0
+340,20172018,American International,Loss,0,Away,Robert Morris,4
+341,20172018,Wisconsin,Tie,4,Home,Michigan,4
+341,20172018,Michigan,Tie,4,Away,Wisconsin,4
+342,20172018,Colgate,Win,3,Home,St. Lawrence,1
+342,20172018,St. Lawrence,Loss,1,Away,Colgate,3
+343,20172018,Cornell,Loss,0,Home,Clarkson,4
+343,20172018,Clarkson,Win,4,Away,Cornell,0
+344,20172018,Princeton,Loss,0,Home,Brown,3
+344,20172018,Brown,Win,3,Away,Princeton,0
+345,20172018,Quinnipiac,Win,3,Home,Yale,0
+345,20172018,Yale,Loss,0,Away,Quinnipiac,3
+346,20172018,Merrimack,Tie,6,Home,Providence,6
+346,20172018,Providence,Tie,6,Away,Merrimack,6
+347,20172018,Maine,Loss,0,Home,Boston University,7
+347,20172018,Boston University,Win,7,Away,Maine,0
+348,20172018,Northeastern,Loss,1,Home,Boston College,4
+348,20172018,Boston College,Win,4,Away,Northeastern,1
+349,20172018,Connecticut,Loss,0,Home,Massachusetts-Lowell,1
+349,20172018,Massachusetts-Lowell,Win,1,Away,Connecticut,0
+350,20172018,Denver,Win,4,Home,North Dakota,1
+350,20172018,North Dakota,Loss,1,Away,Denver,4
+351,20172018,Miami,Win,3,Home,Minnesota-Duluth,2
+351,20172018,Minnesota-Duluth,Loss,2,Away,Miami,3
+352,20172018,St. Cloud State,Win,5,Home,Colorado College,1
+352,20172018,Colorado College,Loss,1,Away,St. Cloud State,5
+353,20172018,Western Michigan,Win,5,Home,Nebraska-Omaha,2
+353,20172018,Nebraska-Omaha,Loss,2,Away,Western Michigan,5
+354,20172018,Minnesota State,Loss,1,Home,Bowling Green,4
+354,20172018,Bowling Green,Win,4,Away,Minnesota State,1
+355,20172018,Alaska-Anchorage,Tie,3,Home,Michigan Tech,3
+355,20172018,Michigan Tech,Tie,3,Away,Alaska-Anchorage,3
+356,20172018,Alaska,Win,4,Home,Northern Michigan,1
+356,20172018,Northern Michigan,Loss,1,Away,Alaska,4
+357,20172018,Alabama-Huntsville,Win,5,Home,Lake Superior,3
+357,20172018,Lake Superior,Loss,3,Away,Alabama-Huntsville,5
+358,20172018,Arizona State,Loss,2,Home,Penn State,4
+358,20172018,Penn State,Win,4,Away,Arizona State,2
+359,20172018,Ferris State,Loss,1,Home,Michigan State,3
+359,20172018,Michigan State,Win,3,Away,Ferris State,1
+360,20172018,Rensselaer,Loss,0,Home,Notre Dame,1
+360,20172018,Notre Dame,Win,1,Away,Rensselaer,0
+361,20172018,Minnesota,Win,2,Home,Harvard,1
+361,20172018,Harvard,Loss,1,Away,Minnesota,2
+362,20172018,Sacred Heart,Tie,5,Home,Army,5
+362,20172018,Army,Tie,5,Away,Sacred Heart,5
+363,20172018,Vermont,Loss,1,Home,Connecticut,4
+363,20172018,Connecticut,Win,4,Away,Vermont,1
+364,20172018,Brown,Win,4,Home,Holy Cross,2
+364,20172018,Holy Cross,Loss,2,Away,Brown,4
+365,20172018,Cornell,Win,5,Home,Niagara,4
+365,20172018,Niagara,Loss,4,Away,Cornell,5
+366,20172018,Princeton,Loss,3,Home,Bemidji State,5
+366,20172018,Bemidji State,Win,5,Away,Princeton,3
+367,20172018,American International,Loss,1,Home,Niagara,3
+367,20172018,Niagara,Win,3,Away,American International,1
+368,20172018,Army,Loss,3,Home,Canisius,4
+368,20172018,Canisius,Win,4,Away,Army,3
+369,20172018,Bentley,Win,3,Home,Robert Morris,1
+369,20172018,Robert Morris,Loss,1,Away,Bentley,3
+370,20172018,Notre Dame,Win,1,Home,Minnesota,0
+370,20172018,Minnesota,Loss,0,Away,Notre Dame,1
+371,20172018,Penn State,Win,7,Home,Michigan State,2
+371,20172018,Michigan State,Loss,2,Away,Penn State,7
+372,20172018,Michigan,Loss,2,Home,Ohio State,3
+372,20172018,Ohio State,Win,3,Away,Michigan,2
+373,20172018,Providence,Win,3,Neutral,Maine,0
+373,20172018,Maine,Loss,0,Neutral,Providence,3
+374,20172018,Alaska,Loss,4,Home,Michigan Tech,5
+374,20172018,Michigan Tech,Win,5,Away,Alaska,4
+375,20172018,Alabama-Huntsville,Loss,2,Home,Ferris State,6
+375,20172018,Ferris State,Win,6,Away,Alabama-Huntsville,2
+376,20172018,Boston College,Tie,4,Home,Harvard,4
+376,20172018,Harvard,Tie,4,Away,Boston College,4
+377,20172018,Bowling Green,Loss,3,Home,Miami,6
+377,20172018,Miami,Win,6,Away,Bowling Green,3
+378,20172018,Holy Cross,Loss,1,Home,Arizona State,3
+378,20172018,Arizona State,Win,3,Away,Holy Cross,1
+379,20172018,Princeton,Win,4,Home,Bemidji State,1
+379,20172018,Bemidji State,Loss,1,Away,Princeton,4
+380,20172018,Quinnipiac,Loss,1,Home,Massachusetts,2
+380,20172018,Massachusetts,Win,2,Away,Quinnipiac,1
+381,20172018,North Dakota,Loss,1,Home,Union,4
+381,20172018,Union,Win,4,Away,North Dakota,1
+382,20172018,Nebraska-Omaha,Win,4,Home,Northern Michigan,3
+382,20172018,Northern Michigan,Loss,3,Away,Nebraska-Omaha,4
+383,20172018,Western Michigan,Win,5,Home,Colgate,3
+383,20172018,Colgate,Loss,3,Away,Western Michigan,5
+384,20172018,Clarkson,Win,2,Neutral,Rensselaer,0
+384,20172018,Rensselaer,Loss,0,Neutral,Clarkson,2
+385,20172018,American International,Win,4,Home,Niagara,1
+385,20172018,Niagara,Loss,1,Away,American International,4
+386,20172018,Army,Loss,2,Home,Canisius,3
+386,20172018,Canisius,Win,3,Away,Army,2
+387,20172018,Bentley,Win,6,Home,Robert Morris,3
+387,20172018,Robert Morris,Loss,3,Away,Bentley,6
+388,20172018,Sacred Heart,Tie,3,Home,Air Force,3
+388,20172018,Air Force,Tie,3,Away,Sacred Heart,3
+389,20172018,Notre Dame,Win,5,Home,Minnesota,2
+389,20172018,Minnesota,Loss,2,Away,Notre Dame,5
+390,20172018,Penn State,Tie,2,Home,Michigan State,2
+390,20172018,Michigan State,Tie,2,Away,Penn State,2
+391,20172018,Michigan,Loss,1,Home,Ohio State,5
+391,20172018,Ohio State,Win,5,Away,Michigan,1
+392,20172018,Alaska,Loss,1,Home,Michigan Tech,5
+392,20172018,Michigan Tech,Win,5,Away,Alaska,1
+393,20172018,Alabama-Huntsville,Win,5,Home,Ferris State,3
+393,20172018,Ferris State,Loss,3,Away,Alabama-Huntsville,5
+394,20172018,Bowling Green,Tie,2,Home,Miami,2
+394,20172018,Miami,Tie,2,Away,Bowling Green,2
+395,20172018,Cornell,Win,4,Neutral,Boston University,3
+395,20172018,Boston University,Loss,3,Neutral,Cornell,4
+396,20172018,Dartmouth,Loss,1,Home,Vermont,2
+396,20172018,Vermont,Win,2,Away,Dartmouth,1
+397,20172018,Holy Cross,Tie,3,Home,Arizona State,3
+397,20172018,Arizona State,Tie,3,Away,Holy Cross,3
+398,20172018,Connecticut,Win,2,Home,RIT,1
+398,20172018,RIT,Loss,1,Away,Connecticut,2
+399,20172018,Massachusetts,Win,6,Home,Quinnipiac,3
+399,20172018,Quinnipiac,Loss,3,Away,Massachusetts,6
+400,20172018,Minnesota-Duluth,Win,3,Home,Minnesota State,1
+400,20172018,Minnesota State,Loss,1,Away,Minnesota-Duluth,3
+401,20172018,North Dakota,Tie,2,Home,Union,2
+401,20172018,Union,Tie,2,Away,North Dakota,2
+402,20172018,Nebraska-Omaha,Win,4,Home,Northern Michigan,1
+402,20172018,Northern Michigan,Loss,1,Away,Nebraska-Omaha,4
+403,20172018,Wisconsin,Loss,2,Home,Mercyhurst,3
+403,20172018,Mercyhurst,Win,3,Away,Wisconsin,2
+404,20172018,Western Michigan,Loss,1,Home,Colgate,5
+404,20172018,Colgate,Win,5,Away,Western Michigan,1
+405,20172018,Yale,Loss,0,Home,New Hampshire,4
+405,20172018,New Hampshire,Win,4,Away,Yale,0
+406,20172018,Maine,Win,4,Neutral,Rensselaer,2
+406,20172018,Rensselaer,Loss,2,Neutral,Maine,4
+407,20172018,Providence,Loss,2,Neutral,Clarkson,4
+407,20172018,Clarkson,Win,4,Neutral,Providence,2
+408,20172018,Sacred Heart,Loss,3,Home,Air Force,5
+408,20172018,Air Force,Win,5,Away,Sacred Heart,3
+409,20172018,Wisconsin,Win,4,Home,Mercyhurst,2
+409,20172018,Mercyhurst,Loss,2,Away,Wisconsin,4
+410,20172018,Princeton,Loss,2,Home,Quinnipiac,6
+410,20172018,Quinnipiac,Win,6,Away,Princeton,2
+411,20172018,Connecticut,Win,4,Home,Northeastern,1
+411,20172018,Northeastern,Loss,1,Away,Connecticut,4
+412,20172018,Massachusetts-Lowell,Loss,2,Home,Bentley,3
+412,20172018,Bentley,Win,3,Away,Massachusetts-Lowell,2
+413,20172018,Air Force,Loss,3,Home,Niagara,6
+413,20172018,Niagara,Win,6,Away,Air Force,3
+414,20172018,American International,Loss,2,Home,Bentley,6
+414,20172018,Bentley,Win,6,Away,American International,2
+415,20172018,Mercyhurst,Win,3,Home,Sacred Heart,2
+415,20172018,Sacred Heart,Loss,2,Away,Mercyhurst,3
+416,20172018,RIT,Loss,2,Home,Holy Cross,4
+416,20172018,Holy Cross,Win,4,Away,RIT,2
+417,20172018,Michigan State,Loss,1,Home,Notre Dame,3
+417,20172018,Notre Dame,Win,3,Away,Michigan State,1
+418,20172018,Ohio State,Tie,5,Home,Penn State,5
+418,20172018,Penn State,Tie,5,Away,Ohio State,5
+419,20172018,Minnesota,Win,5,Home,Wisconsin,4
+419,20172018,Wisconsin,Loss,4,Away,Minnesota,5
+420,20172018,Princeton,Win,9,Home,Dartmouth,2
+420,20172018,Dartmouth,Loss,2,Away,Princeton,9
+421,20172018,Quinnipiac,Loss,2,Home,Harvard,6
+421,20172018,Harvard,Win,6,Away,Quinnipiac,2
+422,20172018,Rensselaer,Win,2,Home,Yale,1
+422,20172018,Yale,Loss,1,Away,Rensselaer,2
+423,20172018,Union,Win,3,Home,Brown,1
+423,20172018,Brown,Loss,1,Away,Union,3
+424,20172018,Boston College,Loss,4,Home,Boston University,7
+424,20172018,Boston University,Win,7,Away,Boston College,4
+425,20172018,Maine,Tie,2,Home,Vermont,2
+425,20172018,Vermont,Tie,2,Away,Maine,2
+426,20172018,Northeastern,Win,3,Home,Merrimack,1
+426,20172018,Merrimack,Loss,1,Away,Northeastern,3
+427,20172018,Providence,Win,5,Home,New Hampshire,2
+427,20172018,New Hampshire,Loss,2,Away,Providence,5
+428,20172018,Massachusetts,Win,4,Home,Connecticut,2
+428,20172018,Connecticut,Loss,2,Away,Massachusetts,4
+429,20172018,Minnesota-Duluth,Loss,0,Home,Denver,1
+429,20172018,Denver,Win,1,Away,Minnesota-Duluth,0
+430,20172018,North Dakota,Win,4,Home,Western Michigan,3
+430,20172018,Western Michigan,Loss,3,Away,North Dakota,4
+431,20172018,Nebraska-Omaha,Loss,4,Home,St. Cloud State,7
+431,20172018,St. Cloud State,Win,7,Away,Nebraska-Omaha,4
+432,20172018,Bowling Green,Win,3,Home,Bemidji State,1
+432,20172018,Bemidji State,Loss,1,Away,Bowling Green,3
+433,20172018,Ferris State,Win,2,Home,Alaska-Anchorage,0
+433,20172018,Alaska-Anchorage,Loss,0,Away,Ferris State,2
+434,20172018,Lake Superior,Loss,3,Home,Alaska,5
+434,20172018,Alaska,Win,5,Away,Lake Superior,3
+435,20172018,Northern Michigan,Win,3,Home,Alabama-Huntsville,1
+435,20172018,Alabama-Huntsville,Loss,1,Away,Northern Michigan,3
+436,20172018,Miami,Win,2,Home,Cornell,1
+436,20172018,Cornell,Loss,1,Away,Miami,2
+437,20172018,Air Force,Loss,2,Home,Niagara,5
+437,20172018,Niagara,Win,5,Away,Air Force,2
+438,20172018,Mercyhurst,Loss,3,Home,Sacred Heart,5
+438,20172018,Sacred Heart,Win,5,Away,Mercyhurst,3
+439,20172018,RIT,Win,5,Home,Holy Cross,3
+439,20172018,Holy Cross,Loss,3,Away,RIT,5
+440,20172018,Michigan State,Loss,0,Home,Notre Dame,2
+440,20172018,Notre Dame,Win,2,Away,Michigan State,0
+441,20172018,Ohio State,Loss,0,Home,Penn State,4
+441,20172018,Penn State,Win,4,Away,Ohio State,0
+442,20172018,Minnesota,Loss,2,Home,Wisconsin,3
+442,20172018,Wisconsin,Win,3,Away,Minnesota,2
+443,20172018,Princeton,Loss,2,Home,Harvard,5
+443,20172018,Harvard,Win,5,Away,Princeton,2
+444,20172018,Quinnipiac,Tie,0,Home,Dartmouth,0
+444,20172018,Dartmouth,Tie,0,Away,Quinnipiac,0
+445,20172018,Rensselaer,Loss,4,Home,Brown,5
+445,20172018,Brown,Win,5,Away,Rensselaer,4
+446,20172018,Union,Loss,3,Home,Yale,5
+446,20172018,Yale,Win,5,Away,Union,3
+447,20172018,Boston University,Loss,1,Home,Boston College,4
+447,20172018,Boston College,Win,4,Away,Boston University,1
+448,20172018,Merrimack,Loss,1,Home,Northeastern,3
+448,20172018,Northeastern,Win,3,Away,Merrimack,1
+449,20172018,Maine,Win,6,Home,Vermont,2
+449,20172018,Vermont,Loss,2,Away,Maine,6
+450,20172018,New Hampshire,Win,1,Home,Providence,0
+450,20172018,Providence,Loss,0,Away,New Hampshire,1
+451,20172018,Minnesota-Duluth,Loss,1,Home,Denver,2
+451,20172018,Denver,Win,2,Away,Minnesota-Duluth,1
+452,20172018,North Dakota,Win,4,Home,Western Michigan,1
+452,20172018,Western Michigan,Loss,1,Away,North Dakota,4
+453,20172018,Nebraska-Omaha,Loss,0,Home,St. Cloud State,5
+453,20172018,St. Cloud State,Win,5,Away,Nebraska-Omaha,0
+454,20172018,Bowling Green,Tie,3,Home,Bemidji State,3
+454,20172018,Bemidji State,Tie,3,Away,Bowling Green,3
+455,20172018,Ferris State,Win,5,Home,Alaska-Anchorage,2
+455,20172018,Alaska-Anchorage,Loss,2,Away,Ferris State,5
+456,20172018,Lake Superior,Win,4,Home,Alaska,1
+456,20172018,Alaska,Loss,1,Away,Lake Superior,4
+457,20172018,Northern Michigan,Loss,2,Home,Alabama-Huntsville,3
+457,20172018,Alabama-Huntsville,Win,3,Away,Northern Michigan,2
+458,20172018,Army,Win,3,Home,Colgate,1
+458,20172018,Colgate,Loss,1,Away,Army,3
+459,20172018,Canisius,Loss,1,Home,Clarkson,5
+459,20172018,Clarkson,Win,5,Away,Canisius,1
+460,20172018,Miami,Loss,0,Home,Cornell,4
+460,20172018,Cornell,Win,4,Away,Miami,0
+461,20172018,Connecticut,Win,8,Home,Massachusetts,2
+461,20172018,Massachusetts,Loss,2,Away,Connecticut,8
+462,20172018,Brown,Loss,1,Home,Bentley,3
+462,20172018,Bentley,Win,3,Away,Brown,1
+463,20172018,Rensselaer,Loss,3,Home,New Hampshire,6
+463,20172018,New Hampshire,Win,6,Away,Rensselaer,3
+464,20172018,Michigan,Win,4,Home,Michigan State,0
+464,20172018,Michigan State,Loss,0,Away,Michigan,4
+465,20172018,American International,Win,3,Home,Mercyhurst,1
+465,20172018,Mercyhurst,Loss,1,Away,American International,3
+466,20172018,Niagara,Loss,2,Home,Canisius,4
+466,20172018,Canisius,Win,4,Away,Niagara,2
+467,20172018,Michigan State,Win,5,Home,Michigan,0
+467,20172018,Michigan,Loss,0,Away,Michigan State,5
+468,20172018,Ohio State,Win,2,Home,Minnesota,1
+468,20172018,Minnesota,Loss,1,Away,Ohio State,2
+469,20172018,Wisconsin,Loss,2,Home,Notre Dame,3
+469,20172018,Notre Dame,Win,3,Away,Wisconsin,2
+470,20172018,Clarkson,Win,3,Home,St. Lawrence,1
+470,20172018,St. Lawrence,Loss,1,Away,Clarkson,3
+471,20172018,Massachusetts-Lowell,Win,3,Home,Boston University,2
+471,20172018,Boston University,Loss,2,Away,Massachusetts-Lowell,3
+472,20172018,Denver,Tie,4,Home,Colorado College,4
+472,20172018,Colorado College,Tie,4,Away,Denver,4
+473,20172018,St. Cloud State,Tie,2,Home,North Dakota,2
+473,20172018,North Dakota,Tie,2,Away,St. Cloud State,2
+474,20172018,Nebraska-Omaha,Win,7,Home,Minnesota-Duluth,5
+474,20172018,Minnesota-Duluth,Loss,5,Away,Nebraska-Omaha,7
+475,20172018,Western Michigan,Loss,2,Home,Miami,5
+475,20172018,Miami,Win,5,Away,Western Michigan,2
+476,20172018,Bowling Green,Tie,3,Home,Alabama-Huntsville,3
+476,20172018,Alabama-Huntsville,Tie,3,Away,Bowling Green,3
+477,20172018,Bemidji State,Tie,1,Home,Northern Michigan,1
+477,20172018,Northern Michigan,Tie,1,Away,Bemidji State,1
+478,20172018,Lake Superior,Loss,1,Home,Minnesota State,5
+478,20172018,Minnesota State,Win,5,Away,Lake Superior,1
+479,20172018,Michigan Tech,Loss,3,Home,Ferris State,4
+479,20172018,Ferris State,Win,4,Away,Michigan Tech,3
+480,20172018,Alaska-Anchorage,Loss,2,Home,Alaska,7
+480,20172018,Alaska,Win,7,Away,Alaska-Anchorage,2
+481,20172018,Arizona State,Loss,0,Home,Princeton,4
+481,20172018,Princeton,Win,4,Away,Arizona State,0
+482,20172018,Merrimack,Win,4,Home,Army,1
+482,20172018,Army,Loss,1,Away,Merrimack,4
+483,20172018,Providence,Win,8,Home,RIT,3
+483,20172018,RIT,Loss,3,Away,Providence,8
+484,20172018,Quinnipiac,Loss,4,Home,Maine,7
+484,20172018,Maine,Win,7,Away,Quinnipiac,4
+485,20172018,Robert Morris,Loss,2,Home,Penn State,5
+485,20172018,Penn State,Win,5,Away,Robert Morris,2
+486,20172018,Connecticut,Win,4,Home,Colgate,2
+486,20172018,Colgate,Loss,2,Away,Connecticut,4
+487,20172018,American International,Loss,2,Home,Mercyhurst,4
+487,20172018,Mercyhurst,Win,4,Away,American International,2
+488,20172018,Canisius,Win,8,Home,Niagara,2
+488,20172018,Niagara,Loss,2,Away,Canisius,8
+489,20172018,Ohio State,Win,4,Home,Minnesota,1
+489,20172018,Minnesota,Loss,1,Away,Ohio State,4
+490,20172018,Wisconsin,Loss,2,Home,Notre Dame,6
+490,20172018,Notre Dame,Win,6,Away,Wisconsin,2
+491,20172018,St. Lawrence,Loss,2,Home,Clarkson,4
+491,20172018,Clarkson,Win,4,Away,St. Lawrence,2
+492,20172018,Boston College,Loss,2,Home,Northeastern,5
+492,20172018,Northeastern,Win,5,Away,Boston College,2
+493,20172018,Boston University,Win,9,Home,Massachusetts-Lowell,3
+493,20172018,Massachusetts-Lowell,Loss,3,Away,Boston University,9
+494,20172018,Colorado College,Tie,1,Home,Denver,1
+494,20172018,Denver,Tie,1,Away,Colorado College,1
+495,20172018,St. Cloud State,Win,3,Home,North Dakota,1
+495,20172018,North Dakota,Loss,1,Away,St. Cloud State,3
+496,20172018,Nebraska-Omaha,Loss,2,Home,Minnesota-Duluth,6
+496,20172018,Minnesota-Duluth,Win,6,Away,Nebraska-Omaha,2
+497,20172018,Western Michigan,Win,4,Home,Miami,3
+497,20172018,Miami,Loss,3,Away,Western Michigan,4
+498,20172018,Bowling Green,Win,3,Home,Alabama-Huntsville,1
+498,20172018,Alabama-Huntsville,Loss,1,Away,Bowling Green,3
+499,20172018,Bemidji State,Tie,4,Home,Northern Michigan,4
+499,20172018,Northern Michigan,Tie,4,Away,Bemidji State,4
+500,20172018,Lake Superior,Loss,0,Home,Minnesota State,7
+500,20172018,Minnesota State,Win,7,Away,Lake Superior,0
+501,20172018,Michigan Tech,Win,5,Home,Ferris State,1
+501,20172018,Ferris State,Loss,1,Away,Michigan Tech,5
+502,20172018,Alaska-Anchorage,Loss,2,Home,Alaska,3
+502,20172018,Alaska,Win,3,Away,Alaska-Anchorage,2
+503,20172018,Arizona State,Win,4,Home,Princeton,3
+503,20172018,Princeton,Loss,3,Away,Arizona State,4
+504,20172018,Dartmouth,Loss,1,Home,Bentley,5
+504,20172018,Bentley,Win,5,Away,Dartmouth,1
+505,20172018,Providence,Loss,0,Home,RIT,4
+505,20172018,RIT,Win,4,Away,Providence,0
+506,20172018,Penn State,Win,7,Home,Robert Morris,4
+506,20172018,Robert Morris,Loss,4,Away,Penn State,7
+507,20172018,Quinnipiac,Loss,3,Home,Maine,5
+507,20172018,Maine,Win,5,Away,Quinnipiac,3
+508,20172018,Sacred Heart,Loss,1,Home,Yale,2
+508,20172018,Yale,Win,2,Away,Sacred Heart,1
+509,20172018,Union,Win,4,Home,Holy Cross,2
+509,20172018,Holy Cross,Loss,2,Away,Union,4
+510,20172018,New Hampshire,Loss,3,Home,Army,4
+510,20172018,Army,Win,4,Away,New Hampshire,3
+511,20172018,Vermont,Tie,2,Home,Brown,2
+511,20172018,Brown,Tie,2,Away,Vermont,2
+512,20172018,New Hampshire,Loss,3,Home,Merrimack,4
+512,20172018,Merrimack,Win,4,Away,New Hampshire,3
+513,20172018,Union,Loss,1,Home,Massachusetts,2
+513,20172018,Massachusetts,Win,2,Away,Union,1
+514,20172018,Bemidji State,Win,5,Home,Alaska-Anchorage,1
+514,20172018,Alaska-Anchorage,Loss,1,Away,Bemidji State,5
+515,20172018,Minnesota State,Win,5,Home,Alabama-Huntsville,1
+515,20172018,Alabama-Huntsville,Loss,1,Away,Minnesota State,5
+516,20172018,Michigan Tech,Win,3,Home,Lake Superior,0
+516,20172018,Lake Superior,Loss,0,Away,Michigan Tech,3
+517,20172018,Northern Michigan,Win,6,Home,Ferris State,1
+517,20172018,Ferris State,Loss,1,Away,Northern Michigan,6
+518,20172018,Denver,Win,1,Home,Dartmouth,0
+518,20172018,Dartmouth,Loss,0,Away,Denver,1
+519,20172018,Robert Morris,Win,5,Home,Mercyhurst,2
+519,20172018,Mercyhurst,Loss,2,Away,Robert Morris,5
+520,20172018,Merrimack,Tie,1,Home,Northeastern,1
+520,20172018,Northeastern,Tie,1,Away,Merrimack,1
+521,20172018,Bemidji State,Win,4,Home,Alaska-Anchorage,0
+521,20172018,Alaska-Anchorage,Loss,0,Away,Bemidji State,4
+522,20172018,Minnesota State,Win,3,Home,Alabama-Huntsville,0
+522,20172018,Alabama-Huntsville,Loss,0,Away,Minnesota State,3
+523,20172018,Michigan Tech,Tie,3,Home,Lake Superior,3
+523,20172018,Lake Superior,Tie,3,Away,Michigan Tech,3
+524,20172018,Northern Michigan,Win,4,Home,Ferris State,2
+524,20172018,Ferris State,Loss,2,Away,Northern Michigan,4
+525,20172018,Colorado College,Win,4,Home,Arizona State,0
+525,20172018,Arizona State,Loss,0,Away,Colorado College,4
+526,20172018,Denver,Loss,4,Home,Dartmouth,5
+526,20172018,Dartmouth,Win,5,Away,Denver,4
+527,20172018,Mercyhurst,Loss,3,Home,Robert Morris,5
+527,20172018,Robert Morris,Win,5,Away,Mercyhurst,3
+528,20172018,Colorado College,Tie,4,Home,Arizona State,4
+528,20172018,Arizona State,Tie,4,Away,Colorado College,4
+529,20172018,Bowling Green,Loss,2,Home,Western Michigan,5
+529,20172018,Western Michigan,Win,5,Away,Bowling Green,2
+530,20172018,Sacred Heart,Loss,1,Home,Holy Cross,4
+530,20172018,Holy Cross,Win,4,Away,Sacred Heart,1
+531,20172018,Bemidji State,Win,3,Home,Alabama-Huntsville,1
+531,20172018,Alabama-Huntsville,Loss,1,Away,Bemidji State,3
+532,20172018,Minnesota State,Loss,3,Home,Northern Michigan,4
+532,20172018,Northern Michigan,Win,4,Away,Minnesota State,3
+533,20172018,Air Force,Win,6,Home,Colorado College,3
+533,20172018,Colorado College,Loss,3,Away,Air Force,6
+534,20172018,Denver,Loss,2,Home,Merrimack,3
+534,20172018,Merrimack,Win,3,Away,Denver,2
+535,20172018,Ohio State,Win,3,Home,Niagara,2
+535,20172018,Niagara,Loss,2,Away,Ohio State,3
+536,20172018,Princeton,Tie,3,Home,St. Cloud State,3
+536,20172018,St. Cloud State,Tie,3,Away,Princeton,3
+537,20172018,Rensselaer,Loss,2,Home,Maine,3
+537,20172018,Maine,Win,3,Away,Rensselaer,2
+538,20172018,Minnesota,Win,3,Home,Army,0
+538,20172018,Army,Loss,0,Away,Minnesota,3
+539,20172018,Nebraska-Omaha,Win,5,Home,Union,1
+539,20172018,Union,Loss,1,Away,Nebraska-Omaha,5
+540,20172018,Dartmouth,Win,3,Home,New Hampshire,1
+540,20172018,New Hampshire,Loss,1,Away,Dartmouth,3
+541,20172018,Yale,Loss,0,Neutral,Minnesota-Duluth,5
+541,20172018,Minnesota-Duluth,Win,5,Neutral,Yale,0
+542,20172018,Massachusetts-Lowell,Win,5,Neutral,Harvard,2
+542,20172018,Harvard,Loss,2,Neutral,Massachusetts-Lowell,5
+543,20172018,Vermont,Loss,2,Home,St. Lawrence,3
+543,20172018,St. Lawrence,Win,3,Away,Vermont,2
+544,20172018,Providence,Win,6,Neutral,Arizona State,0
+544,20172018,Arizona State,Loss,0,Neutral,Providence,6
+545,20172018,Robert Morris,Win,5,Neutral,Lake Superior,0
+545,20172018,Lake Superior,Loss,0,Neutral,Robert Morris,5
+546,20172018,Holy Cross,Tie,5,Home,Sacred Heart,5
+546,20172018,Sacred Heart,Tie,5,Away,Holy Cross,5
+547,20172018,Boston College,Win,2,Home,Connecticut,0
+547,20172018,Connecticut,Loss,0,Away,Boston College,2
+548,20172018,Bemidji State,Win,4,Home,Alabama-Huntsville,1
+548,20172018,Alabama-Huntsville,Loss,1,Away,Bemidji State,4
+549,20172018,Minnesota State,Win,6,Home,Northern Michigan,3
+549,20172018,Northern Michigan,Loss,3,Away,Minnesota State,6
+550,20172018,Colorado College,Win,2,Home,Merrimack,1
+550,20172018,Merrimack,Loss,1,Away,Colorado College,2
+551,20172018,Cornell,Win,6,Home,Canisius,2
+551,20172018,Canisius,Loss,2,Away,Cornell,6
+552,20172018,Denver,Win,6,Home,Air Force,0
+552,20172018,Air Force,Loss,0,Away,Denver,6
+553,20172018,Northeastern,Win,3,Home,American International,1
+553,20172018,American International,Loss,1,Away,Northeastern,3
+554,20172018,Ohio State,Win,4,Home,Niagara,1
+554,20172018,Niagara,Loss,1,Away,Ohio State,4
+555,20172018,Princeton,Tie,2,Home,St. Cloud State,2
+555,20172018,St. Cloud State,Tie,2,Away,Princeton,2
+556,20172018,Rensselaer,Loss,2,Home,Maine,5
+556,20172018,Maine,Win,5,Away,Rensselaer,2
+557,20172018,Minnesota,Win,4,Home,Army,1
+557,20172018,Army,Loss,1,Away,Minnesota,4
+558,20172018,Nebraska-Omaha,Win,5,Home,Union,3
+558,20172018,Union,Loss,3,Away,Nebraska-Omaha,5
+559,20172018,Dartmouth,Tie,2,Home,Minnesota-Duluth,2
+559,20172018,Minnesota-Duluth,Tie,2,Away,Dartmouth,2
+560,20172018,New Hampshire,Loss,2,Neutral,Yale,4
+560,20172018,Yale,Win,4,Neutral,New Hampshire,2
+561,20172018,Massachusetts-Lowell,Loss,0,Neutral,St. Lawrence,3
+561,20172018,St. Lawrence,Win,3,Neutral,Massachusetts-Lowell,0
+562,20172018,Vermont,Loss,1,Home,Harvard,4
+562,20172018,Harvard,Win,4,Away,Vermont,1
+563,20172018,Arizona State,Loss,1,Neutral,Lake Superior,4
+563,20172018,Lake Superior,Win,4,Neutral,Arizona State,1
+564,20172018,Robert Morris,Loss,1,Neutral,Providence,2
+564,20172018,Providence,Win,2,Neutral,Robert Morris,1
+565,20172018,Michigan Tech,Win,5,Neutral,Michigan State,2
+565,20172018,Michigan State,Loss,2,Neutral,Michigan Tech,5
+566,20172018,Michigan,Loss,4,Neutral,Bowling Green,6
+566,20172018,Bowling Green,Win,6,Neutral,Michigan,4
+567,20172018,Clarkson,Win,4,Home,Canisius,0
+567,20172018,Canisius,Loss,0,Away,Clarkson,4
+568,20172018,Connecticut,Loss,0,Home,Quinnipiac,3
+568,20172018,Quinnipiac,Win,3,Away,Connecticut,0
+569,20172018,Michigan Tech,Loss,1,Neutral,Bowling Green,4
+569,20172018,Bowling Green,Win,4,Neutral,Michigan Tech,1
+570,20172018,Michigan,Win,6,Neutral,Michigan State,4
+570,20172018,Michigan State,Loss,4,Neutral,Michigan,6
+571,20172018,Providence,Win,5,Home,Brown,0
+571,20172018,Brown,Loss,0,Away,Providence,5
+572,20172018,Air Force,Loss,0,Home,Mercyhurst,1
+572,20172018,Mercyhurst,Win,1,Away,Air Force,0
+573,20172018,American International,Win,2,Home,Holy Cross,1
+573,20172018,Holy Cross,Loss,1,Away,American International,2
+574,20172018,Niagara,Win,4,Home,RIT,3
+574,20172018,RIT,Loss,3,Away,Niagara,4
+575,20172018,Michigan State,Loss,1,Home,Ohio State,4
+575,20172018,Ohio State,Win,4,Away,Michigan State,1
+576,20172018,Penn State,Win,5,Home,Wisconsin,1
+576,20172018,Wisconsin,Loss,1,Away,Penn State,5
+577,20172018,Michigan,Loss,1,Home,Notre Dame,2
+577,20172018,Notre Dame,Win,2,Away,Michigan,1
+578,20172018,Colgate,Loss,3,Home,Quinnipiac,4
+578,20172018,Quinnipiac,Win,4,Away,Colgate,3
+579,20172018,Cornell,Win,7,Home,Princeton,1
+579,20172018,Princeton,Loss,1,Away,Cornell,7
+580,20172018,Dartmouth,Loss,1,Home,Union,4
+580,20172018,Union,Win,4,Away,Dartmouth,1
+581,20172018,Harvard,Win,3,Home,Rensselaer,0
+581,20172018,Rensselaer,Loss,0,Away,Harvard,3
+582,20172018,Connecticut,Loss,2,Home,Merrimack,3
+582,20172018,Merrimack,Win,3,Away,Connecticut,2
+583,20172018,Massachusetts-Lowell,Win,6,Home,Vermont,0
+583,20172018,Vermont,Loss,0,Away,Massachusetts-Lowell,6
+584,20172018,Miami,Win,4,Home,Denver,3
+584,20172018,Denver,Loss,3,Away,Miami,4
+585,20172018,North Dakota,Loss,1,Home,Nebraska-Omaha,4
+585,20172018,Nebraska-Omaha,Win,4,Away,North Dakota,1
+586,20172018,Lake Superior,Loss,0,Home,Bemidji State,3
+586,20172018,Bemidji State,Win,3,Away,Lake Superior,0
+587,20172018,Alaska-Anchorage,Loss,2,Home,Minnesota State,5
+587,20172018,Minnesota State,Win,5,Away,Alaska-Anchorage,2
+588,20172018,Alaska,Win,3,Home,Alabama-Huntsville,2
+588,20172018,Alabama-Huntsville,Loss,2,Away,Alaska,3
+589,20172018,Bentley,Tie,3,Home,Northeastern,3
+589,20172018,Northeastern,Tie,3,Away,Bentley,3
+590,20172018,St. Lawrence,Tie,4,Home,Canisius,4
+590,20172018,Canisius,Tie,4,Away,St. Lawrence,4
+591,20172018,Yale,Win,5,Home,Massachusetts,3
+591,20172018,Massachusetts,Loss,3,Away,Yale,5
+592,20172018,Arizona State,Win,7,Neutral,Northern Michigan,3
+592,20172018,Northern Michigan,Loss,3,Neutral,Arizona State,7
+593,20172018,Michigan Tech,Win,4,Neutral,Boston College,3
+593,20172018,Boston College,Loss,3,Neutral,Michigan Tech,4
+594,20172018,Air Force,Win,5,Home,Mercyhurst,1
+594,20172018,Mercyhurst,Loss,1,Away,Air Force,5
+595,20172018,Holy Cross,Loss,2,Home,American International,4
+595,20172018,American International,Win,4,Away,Holy Cross,2
+596,20172018,Niagara,Tie,2,Home,RIT,2
+596,20172018,RIT,Tie,2,Away,Niagara,2
+597,20172018,Sacred Heart,Tie,3,Home,Army,3
+597,20172018,Army,Tie,3,Away,Sacred Heart,3
+598,20172018,Michigan State,Loss,3,Home,Ohio State,5
+598,20172018,Ohio State,Win,5,Away,Michigan State,3
+599,20172018,Penn State,Tie,3,Home,Wisconsin,3
+599,20172018,Wisconsin,Tie,3,Away,Penn State,3
+600,20172018,Colgate,Win,4,Home,Princeton,0
+600,20172018,Princeton,Loss,0,Away,Colgate,4
+601,20172018,Cornell,Win,1,Home,Quinnipiac,0
+601,20172018,Quinnipiac,Loss,0,Away,Cornell,1
+602,20172018,Dartmouth,Win,6,Home,Rensselaer,5
+602,20172018,Rensselaer,Loss,5,Away,Dartmouth,6
+603,20172018,Harvard,Win,4,Home,Union,3
+603,20172018,Union,Loss,3,Away,Harvard,4
+604,20172018,Boston University,Loss,0,Home,Maine,3
+604,20172018,Maine,Win,3,Away,Boston University,0
+605,20172018,Providence,Win,5,Home,Merrimack,2
+605,20172018,Merrimack,Loss,2,Away,Providence,5
+606,20172018,Massachusetts-Lowell,Win,8,Home,Massachusetts,3
+606,20172018,Massachusetts,Loss,3,Away,Massachusetts-Lowell,8
+607,20172018,Miami,Loss,1,Home,Denver,4
+607,20172018,Denver,Win,4,Away,Miami,1
+608,20172018,North Dakota,Win,7,Home,Nebraska-Omaha,0
+608,20172018,Nebraska-Omaha,Loss,0,Away,North Dakota,7
+609,20172018,Ferris State,Loss,3,Home,Bowling Green,6
+609,20172018,Bowling Green,Win,6,Away,Ferris State,3
+610,20172018,Lake Superior,Loss,3,Home,Bemidji State,6
+610,20172018,Bemidji State,Win,6,Away,Lake Superior,3
+611,20172018,Alaska-Anchorage,Loss,1,Home,Minnesota State,4
+611,20172018,Minnesota State,Win,4,Away,Alaska-Anchorage,1
+612,20172018,Alaska,Loss,1,Home,Alabama-Huntsville,3
+612,20172018,Alabama-Huntsville,Win,3,Away,Alaska,1
+613,20172018,Northeastern,Win,6,Home,Bentley,1
+613,20172018,Bentley,Loss,1,Away,Northeastern,6
+614,20172018,St. Cloud State,Win,5,Home,Minnesota,2
+614,20172018,Minnesota,Loss,2,Away,St. Cloud State,5
+615,20172018,St. Lawrence,Win,4,Home,Canisius,1
+615,20172018,Canisius,Loss,1,Away,St. Lawrence,4
+616,20172018,New Hampshire,Tie,4,Home,Brown,4
+616,20172018,Brown,Tie,4,Away,New Hampshire,4
+617,20172018,Arizona State,Win,3,Neutral,Michigan Tech,2
+617,20172018,Michigan Tech,Loss,2,Neutral,Arizona State,3
+618,20172018,Boston College,Tie,3,Neutral,Northern Michigan,3
+618,20172018,Northern Michigan,Tie,3,Neutral,Boston College,3
+619,20172018,Notre Dame,Win,2,Home,Michigan,1
+619,20172018,Michigan,Loss,1,Away,Notre Dame,2
+620,20172018,Ferris State,Loss,0,Home,Bowling Green,3
+620,20172018,Bowling Green,Win,3,Away,Ferris State,0
+621,20172018,Minnesota,Win,2,Home,St. Cloud State,0
+621,20172018,St. Cloud State,Loss,0,Away,Minnesota,2
+622,20172018,Brown,Tie,4,Home,Maine,4
+622,20172018,Maine,Tie,4,Away,Brown,4
+623,20172018,Bentley,Loss,1,Home,Sacred Heart,4
+623,20172018,Sacred Heart,Win,4,Away,Bentley,1
+624,20172018,Niagara,Loss,1,Home,Robert Morris,3
+624,20172018,Robert Morris,Win,3,Away,Niagara,1
+625,20172018,Rensselaer,Tie,2,Home,Harvard,2
+625,20172018,Harvard,Tie,2,Away,Rensselaer,2
+626,20172018,Army,Tie,3,Home,Bentley,3
+626,20172018,Bentley,Tie,3,Away,Army,3
+627,20172018,Canisius,Loss,0,Home,American International,3
+627,20172018,American International,Win,3,Away,Canisius,0
+628,20172018,Mercyhurst,Win,3,Home,Niagara,2
+628,20172018,Niagara,Loss,2,Away,Mercyhurst,3
+629,20172018,RIT,Loss,1,Home,Air Force,2
+629,20172018,Air Force,Win,2,Away,RIT,1
+630,20172018,Sacred Heart,Loss,1,Home,Holy Cross,3
+630,20172018,Holy Cross,Win,3,Away,Sacred Heart,1
+631,20172018,Penn State,Win,5,Home,Ohio State,2
+631,20172018,Ohio State,Loss,2,Away,Penn State,5
+632,20172018,Minnesota,Loss,3,Home,Michigan,5
+632,20172018,Michigan,Win,5,Away,Minnesota,3
+633,20172018,Wisconsin,Loss,0,Home,Michigan State,2
+633,20172018,Michigan State,Win,2,Away,Wisconsin,0
+634,20172018,Brown,Loss,1,Home,Colgate,2
+634,20172018,Colgate,Win,2,Away,Brown,1
+635,20172018,Dartmouth,Win,4,Home,Quinnipiac,3
+635,20172018,Quinnipiac,Loss,3,Away,Dartmouth,4
+636,20172018,Harvard,Win,3,Home,Princeton,1
+636,20172018,Princeton,Loss,1,Away,Harvard,3
+637,20172018,Rensselaer,Win,2,Home,St. Lawrence,1
+637,20172018,St. Lawrence,Loss,1,Away,Rensselaer,2
+638,20172018,Union,Loss,1,Home,Clarkson,4
+638,20172018,Clarkson,Win,4,Away,Union,1
+639,20172018,Yale,Tie,3,Home,Cornell,3
+639,20172018,Cornell,Tie,3,Away,Yale,3
+640,20172018,Boston College,Loss,1,Home,Providence,4
+640,20172018,Providence,Win,4,Away,Boston College,1
+641,20172018,Merrimack,Win,3,Home,Connecticut,0
+641,20172018,Connecticut,Loss,0,Away,Merrimack,3
+642,20172018,Northeastern,Win,5,Home,Maine,3
+642,20172018,Maine,Loss,3,Away,Northeastern,5
+643,20172018,New Hampshire,Loss,2,Home,Boston University,3
+643,20172018,Boston University,Win,3,Away,New Hampshire,2
+644,20172018,Vermont,Tie,2,Home,Massachusetts,2
+644,20172018,Massachusetts,Tie,2,Away,Vermont,2
+645,20172018,Colorado College,Loss,5,Home,Minnesota-Duluth,6
+645,20172018,Minnesota-Duluth,Win,6,Away,Colorado College,5
+646,20172018,St. Cloud State,Loss,5,Home,Western Michigan,7
+646,20172018,Western Michigan,Win,7,Away,St. Cloud State,5
+647,20172018,Nebraska-Omaha,Win,11,Home,Miami,7
+647,20172018,Miami,Loss,7,Away,Nebraska-Omaha,11
+648,20172018,Lake Superior,Loss,0,Home,Ferris State,4
+648,20172018,Ferris State,Win,4,Away,Lake Superior,0
+649,20172018,Northern Michigan,Win,5,Home,Bowling Green,2
+649,20172018,Bowling Green,Loss,2,Away,Northern Michigan,5
+650,20172018,Alaska-Anchorage,Loss,2,Home,Alabama-Huntsville,4
+650,20172018,Alabama-Huntsville,Win,4,Away,Alaska-Anchorage,2
+651,20172018,Alaska,Win,5,Home,Minnesota State,0
+651,20172018,Minnesota State,Loss,0,Away,Alaska,5
+652,20172018,Arizona State,Loss,0,Home,Massachusetts-Lowell,4
+652,20172018,Massachusetts-Lowell,Win,4,Away,Arizona State,0
+653,20172018,Bemidji State,Loss,1,Home,North Dakota,5
+653,20172018,North Dakota,Win,5,Away,Bemidji State,1
+654,20172018,Army,Win,4,Home,Bentley,0
+654,20172018,Bentley,Loss,0,Away,Army,4
+655,20172018,Canisius,Win,6,Home,American International,1
+655,20172018,American International,Loss,1,Away,Canisius,6
+656,20172018,Holy Cross,Win,4,Home,Sacred Heart,2
+656,20172018,Sacred Heart,Loss,2,Away,Holy Cross,4
+657,20172018,Mercyhurst,Win,3,Home,Niagara,2
+657,20172018,Niagara,Loss,2,Away,Mercyhurst,3
+658,20172018,RIT,Loss,0,Home,Air Force,4
+658,20172018,Air Force,Win,4,Away,RIT,0
+659,20172018,Penn State,Loss,1,Home,Ohio State,5
+659,20172018,Ohio State,Win,5,Away,Penn State,1
+660,20172018,Minnesota,Loss,1,Home,Michigan,3
+660,20172018,Michigan,Win,3,Away,Minnesota,1
+661,20172018,Wisconsin,Win,5,Home,Michigan State,2
+661,20172018,Michigan State,Loss,2,Away,Wisconsin,5
+662,20172018,Brown,Loss,1,Home,Cornell,3
+662,20172018,Cornell,Win,3,Away,Brown,1
+663,20172018,Dartmouth,Loss,3,Home,Princeton,6
+663,20172018,Princeton,Win,6,Away,Dartmouth,3
+664,20172018,Harvard,Tie,2,Home,Quinnipiac,2
+664,20172018,Quinnipiac,Tie,2,Away,Harvard,2
+665,20172018,Rensselaer,Loss,0,Home,Clarkson,3
+665,20172018,Clarkson,Win,3,Away,Rensselaer,0
+666,20172018,Union,Win,5,Home,St. Lawrence,4
+666,20172018,St. Lawrence,Loss,4,Away,Union,5
+667,20172018,Yale,Win,5,Home,Colgate,1
+667,20172018,Colgate,Loss,1,Away,Yale,5
+668,20172018,Boston University,Tie,2,Home,Providence,2
+668,20172018,Providence,Tie,2,Away,Boston University,2
+669,20172018,Northeastern,Win,5,Home,Maine,3
+669,20172018,Maine,Loss,3,Away,Northeastern,5
+670,20172018,Vermont,Loss,3,Home,Massachusetts,6
+670,20172018,Massachusetts,Win,6,Away,Vermont,3
+671,20172018,Colorado College,Loss,1,Home,Minnesota-Duluth,5
+671,20172018,Minnesota-Duluth,Win,5,Away,Colorado College,1
+672,20172018,St. Cloud State,Win,4,Home,Western Michigan,3
+672,20172018,Western Michigan,Loss,3,Away,St. Cloud State,4
+673,20172018,Nebraska-Omaha,Win,4,Home,Miami,3
+673,20172018,Miami,Loss,3,Away,Nebraska-Omaha,4
+674,20172018,Lake Superior,Win,5,Home,Ferris State,3
+674,20172018,Ferris State,Loss,3,Away,Lake Superior,5
+675,20172018,Northern Michigan,Win,3,Home,Bowling Green,2
+675,20172018,Bowling Green,Loss,2,Away,Northern Michigan,3
+676,20172018,Alaska-Anchorage,Win,2,Home,Alabama-Huntsville,1
+676,20172018,Alabama-Huntsville,Loss,1,Away,Alaska-Anchorage,2
+677,20172018,Alaska,Loss,1,Home,Minnesota State,5
+677,20172018,Minnesota State,Win,5,Away,Alaska,1
+678,20172018,Arizona State,Win,4,Home,Massachusetts-Lowell,0
+678,20172018,Massachusetts-Lowell,Loss,0,Away,Arizona State,4
+679,20172018,North Dakota,Tie,2,Home,Bemidji State,2
+679,20172018,Bemidji State,Tie,2,Away,North Dakota,2
+680,20172018,Boston College,Win,5,Home,New Hampshire,2
+680,20172018,New Hampshire,Loss,2,Away,Boston College,5
+681,20172018,Bentley,Loss,2,Home,Sacred Heart,4
+681,20172018,Sacred Heart,Win,4,Away,Bentley,2
+682,20172018,Mercyhurst,Win,6,Home,RIT,3
+682,20172018,RIT,Loss,3,Away,Mercyhurst,6
+683,20172018,Maine,Win,3,Home,Massachusetts,1
+683,20172018,Massachusetts,Loss,1,Away,Maine,3
+684,20172018,Michigan State,Loss,4,Home,Minnesota,5
+684,20172018,Minnesota,Win,5,Away,Michigan State,4
+685,20172018,Connecticut,Loss,1,Home,Providence,3
+685,20172018,Providence,Win,3,Away,Connecticut,1
+686,20172018,Air Force,Loss,1,Home,Sacred Heart,2
+686,20172018,Sacred Heart,Win,2,Away,Air Force,1
+687,20172018,Holy Cross,Win,3,Home,Niagara,1
+687,20172018,Niagara,Loss,1,Away,Holy Cross,3
+688,20172018,Mercyhurst,Win,3,Home,American International,1
+688,20172018,American International,Loss,1,Away,Mercyhurst,3
+689,20172018,RIT,Loss,4,Home,Canisius,5
+689,20172018,Canisius,Win,5,Away,RIT,4
+690,20172018,Robert Morris,Win,3,Home,Bentley,2
+690,20172018,Bentley,Loss,2,Away,Robert Morris,3
+691,20172018,Notre Dame,Win,4,Home,Wisconsin,2
+691,20172018,Wisconsin,Loss,2,Away,Notre Dame,4
+692,20172018,Michigan,Win,4,Home,Penn State,0
+692,20172018,Penn State,Loss,0,Away,Michigan,4
+693,20172018,Brown,Win,2,Home,Rensselaer,1
+693,20172018,Rensselaer,Loss,1,Away,Brown,2
+694,20172018,Clarkson,Tie,6,Home,Harvard,6
+694,20172018,Harvard,Tie,6,Away,Clarkson,6
+695,20172018,Cornell,Win,2,Home,Colgate,0
+695,20172018,Colgate,Loss,0,Away,Cornell,2
+696,20172018,St. Lawrence,Loss,2,Home,Dartmouth,3
+696,20172018,Dartmouth,Win,3,Away,St. Lawrence,2
+697,20172018,Yale,Loss,2,Home,Union,3
+697,20172018,Union,Win,3,Away,Yale,2
+698,20172018,Merrimack,Loss,3,Home,Boston University,4
+698,20172018,Boston University,Win,4,Away,Merrimack,3
+699,20172018,Maine,Tie,2,Home,New Hampshire,2
+699,20172018,New Hampshire,Tie,2,Away,Maine,2
+700,20172018,Massachusetts,Win,3,Home,Northeastern,0
+700,20172018,Northeastern,Loss,0,Away,Massachusetts,3
+701,20172018,Vermont,Loss,2,Home,Massachusetts-Lowell,3
+701,20172018,Massachusetts-Lowell,Win,3,Away,Vermont,2
+702,20172018,Denver,Win,5,Home,Nebraska-Omaha,0
+702,20172018,Nebraska-Omaha,Loss,0,Away,Denver,5
+703,20172018,Minnesota-Duluth,Win,5,Home,North Dakota,3
+703,20172018,North Dakota,Loss,3,Away,Minnesota-Duluth,5
+704,20172018,Western Michigan,Win,3,Home,Colorado College,2
+704,20172018,Colorado College,Loss,2,Away,Western Michigan,3
+705,20172018,Bowling Green,Win,6,Home,Alaska-Anchorage,2
+705,20172018,Alaska-Anchorage,Loss,2,Away,Bowling Green,6
+706,20172018,Ferris State,Loss,0,Home,Bemidji State,2
+706,20172018,Bemidji State,Win,2,Away,Ferris State,0
+707,20172018,Michigan Tech,Win,5,Home,Alaska,2
+707,20172018,Alaska,Loss,2,Away,Michigan Tech,5
+708,20172018,Northern Michigan,Win,3,Home,Lake Superior,2
+708,20172018,Lake Superior,Loss,2,Away,Northern Michigan,3
+709,20172018,Arizona State,Tie,2,Home,Quinnipiac,2
+709,20172018,Quinnipiac,Tie,2,Away,Arizona State,2
+710,20172018,Holy Cross,Loss,0,Home,Niagara,6
+710,20172018,Niagara,Win,6,Away,Holy Cross,0
+711,20172018,Mercyhurst,Tie,4,Home,American International,4
+711,20172018,American International,Tie,4,Away,Mercyhurst,4
+712,20172018,RIT,Win,2,Home,Canisius,0
+712,20172018,Canisius,Loss,0,Away,RIT,2
+713,20172018,Robert Morris,Tie,3,Home,Bentley,3
+713,20172018,Bentley,Tie,3,Away,Robert Morris,3
+714,20172018,Michigan State,Loss,1,Neutral,Minnesota,2
+714,20172018,Minnesota,Win,2,Neutral,Michigan State,1
+715,20172018,Michigan,Win,3,Home,Penn State,2
+715,20172018,Penn State,Loss,2,Away,Michigan,3
+716,20172018,Brown,Loss,0,Home,Union,2
+716,20172018,Union,Win,2,Away,Brown,0
+717,20172018,Clarkson,Loss,2,Home,Dartmouth,3
+717,20172018,Dartmouth,Win,3,Away,Clarkson,2
+718,20172018,Colgate,Loss,0,Home,Cornell,2
+718,20172018,Cornell,Win,2,Away,Colgate,0
+719,20172018,St. Lawrence,Loss,3,Home,Harvard,4
+719,20172018,Harvard,Win,4,Away,St. Lawrence,3
+720,20172018,Yale,Win,5,Home,Rensselaer,1
+720,20172018,Rensselaer,Loss,1,Away,Yale,5
+721,20172018,Boston University,Win,3,Home,Merrimack,1
+721,20172018,Merrimack,Loss,1,Away,Boston University,3
+722,20172018,Maine,Tie,3,Home,New Hampshire,3
+722,20172018,New Hampshire,Tie,3,Away,Maine,3
+723,20172018,Northeastern,Win,5,Home,Massachusetts,0
+723,20172018,Massachusetts,Loss,0,Away,Northeastern,5
+724,20172018,Providence,Loss,1,Home,Connecticut,3
+724,20172018,Connecticut,Win,3,Away,Providence,1
+725,20172018,Vermont,Win,6,Home,Massachusetts-Lowell,3
+725,20172018,Massachusetts-Lowell,Loss,3,Away,Vermont,6
+726,20172018,Denver,Win,4,Home,Nebraska-Omaha,0
+726,20172018,Nebraska-Omaha,Loss,0,Away,Denver,4
+727,20172018,Minnesota-Duluth,Win,5,Home,North Dakota,2
+727,20172018,North Dakota,Loss,2,Away,Minnesota-Duluth,5
+728,20172018,Western Michigan,Loss,5,Home,Colorado College,6
+728,20172018,Colorado College,Win,6,Away,Western Michigan,5
+729,20172018,Bowling Green,Win,3,Home,Alaska-Anchorage,2
+729,20172018,Alaska-Anchorage,Loss,2,Away,Bowling Green,3
+730,20172018,Ferris State,Loss,1,Home,Bemidji State,4
+730,20172018,Bemidji State,Win,4,Away,Ferris State,1
+731,20172018,Michigan Tech,Win,4,Home,Alaska,3
+731,20172018,Alaska,Loss,3,Away,Michigan Tech,4
+732,20172018,Northern Michigan,Win,3,Home,Lake Superior,2
+732,20172018,Lake Superior,Loss,2,Away,Northern Michigan,3
+733,20172018,Arizona State,Loss,3,Home,Quinnipiac,5
+733,20172018,Quinnipiac,Win,5,Away,Arizona State,3
+734,20172018,St. Cloud State,Loss,2,Home,Minnesota State,5
+734,20172018,Minnesota State,Win,5,Away,St. Cloud State,2
+735,20172018,Wisconsin,Win,5,Neutral,Notre Dame,0
+735,20172018,Notre Dame,Loss,0,Neutral,Wisconsin,5
+736,20172018,Boston College,Win,2,Home,Massachusetts,1
+736,20172018,Massachusetts,Loss,1,Away,Boston College,2
+737,20172018,Minnesota State,Win,1,Home,Minnesota-Duluth,0
+737,20172018,Minnesota-Duluth,Loss,0,Away,Minnesota State,1
+738,20172018,American International,Win,3,Home,Robert Morris,1
+738,20172018,Robert Morris,Loss,1,Away,American International,3
+739,20172018,Army,Tie,2,Home,Mercyhurst,2
+739,20172018,Mercyhurst,Tie,2,Away,Army,2
+740,20172018,Bentley,Loss,2,Home,Canisius,3
+740,20172018,Canisius,Win,3,Away,Bentley,2
+741,20172018,Holy Cross,Win,4,Home,RIT,0
+741,20172018,RIT,Loss,0,Away,Holy Cross,4
+742,20172018,Niagara,Loss,2,Home,Air Force,4
+742,20172018,Air Force,Win,4,Away,Niagara,2
+743,20172018,Ohio State,Win,4,Home,Michigan,0
+743,20172018,Michigan,Loss,0,Away,Ohio State,4
+744,20172018,Minnesota,Win,1,Home,Notre Dame,0
+744,20172018,Notre Dame,Loss,0,Away,Minnesota,1
+745,20172018,Wisconsin,Win,4,Home,Penn State,2
+745,20172018,Penn State,Loss,2,Away,Wisconsin,4
+746,20172018,Clarkson,Win,4,Home,Yale,1
+746,20172018,Yale,Loss,1,Away,Clarkson,4
+747,20172018,Dartmouth,Win,2,Home,Colgate,1
+747,20172018,Colgate,Loss,1,Away,Dartmouth,2
+748,20172018,Harvard,Loss,0,Home,Cornell,3
+748,20172018,Cornell,Win,3,Away,Harvard,0
+749,20172018,St. Lawrence,Win,3,Home,Brown,2
+749,20172018,Brown,Loss,2,Away,St. Lawrence,3
+750,20172018,Merrimack,Loss,1,Home,Vermont,2
+750,20172018,Vermont,Win,2,Away,Merrimack,1
+751,20172018,Northeastern,Tie,4,Home,Providence,4
+751,20172018,Providence,Tie,4,Away,Northeastern,4
+752,20172018,Massachusetts,Loss,2,Home,Maine,3
+752,20172018,Maine,Win,3,Away,Massachusetts,2
+753,20172018,Massachusetts-Lowell,Win,3,Home,Boston College,2
+753,20172018,Boston College,Loss,2,Away,Massachusetts-Lowell,3
+754,20172018,New Hampshire,Loss,2,Home,Connecticut,4
+754,20172018,Connecticut,Win,4,Away,New Hampshire,2
+755,20172018,Colorado College,Win,6,Home,Miami,3
+755,20172018,Miami,Loss,3,Away,Colorado College,6
+756,20172018,Minnesota-Duluth,Win,5,Home,St. Cloud State,1
+756,20172018,St. Cloud State,Loss,1,Away,Minnesota-Duluth,5
+757,20172018,North Dakota,Tie,3,Home,Denver,3
+757,20172018,Denver,Tie,3,Away,North Dakota,3
+758,20172018,Nebraska-Omaha,Win,6,Home,Western Michigan,2
+758,20172018,Western Michigan,Loss,2,Away,Nebraska-Omaha,6
+759,20172018,Ferris State,Win,4,Home,Michigan Tech,3
+759,20172018,Michigan Tech,Loss,3,Away,Ferris State,4
+760,20172018,Lake Superior,Loss,3,Home,Bowling Green,5
+760,20172018,Bowling Green,Win,5,Away,Lake Superior,3
+761,20172018,Alaska-Anchorage,Loss,2,Home,Northern Michigan,4
+761,20172018,Northern Michigan,Win,4,Away,Alaska-Anchorage,2
+762,20172018,Alabama-Huntsville,Win,5,Home,Bemidji State,1
+762,20172018,Bemidji State,Loss,1,Away,Alabama-Huntsville,5
+763,20172018,Arizona State,Loss,0,Home,Boston University,8
+763,20172018,Boston University,Win,8,Away,Arizona State,0
+764,20172018,American International,Loss,3,Home,Robert Morris,5
+764,20172018,Robert Morris,Win,5,Away,American International,3
+765,20172018,Army,Loss,1,Home,Mercyhurst,6
+765,20172018,Mercyhurst,Win,6,Away,Army,1
+766,20172018,Bentley,Win,3,Home,Canisius,2
+766,20172018,Canisius,Loss,2,Away,Bentley,3
+767,20172018,Holy Cross,Loss,2,Home,RIT,3
+767,20172018,RIT,Win,3,Away,Holy Cross,2
+768,20172018,Niagara,Loss,3,Home,Air Force,5
+768,20172018,Air Force,Win,5,Away,Niagara,3
+769,20172018,Ohio State,Win,5,Home,Michigan,3
+769,20172018,Michigan,Loss,3,Away,Ohio State,5
+770,20172018,Minnesota,Loss,1,Home,Notre Dame,4
+770,20172018,Notre Dame,Win,4,Away,Minnesota,1
+771,20172018,Wisconsin,Tie,4,Home,Penn State,4
+771,20172018,Penn State,Tie,4,Away,Wisconsin,4
+772,20172018,Clarkson,Tie,2,Home,Brown,2
+772,20172018,Brown,Tie,2,Away,Clarkson,2
+773,20172018,Dartmouth,Loss,1,Home,Cornell,3
+773,20172018,Cornell,Win,3,Away,Dartmouth,1
+774,20172018,Harvard,Loss,0,Home,Colgate,2
+774,20172018,Colgate,Win,2,Away,Harvard,0
+775,20172018,St. Lawrence,Win,1,Home,Yale,0
+775,20172018,Yale,Loss,0,Away,St. Lawrence,1
+776,20172018,Boston College,Win,5,Home,Massachusetts-Lowell,2
+776,20172018,Massachusetts-Lowell,Loss,2,Away,Boston College,5
+777,20172018,Merrimack,Loss,1,Home,Vermont,2
+777,20172018,Vermont,Win,2,Away,Merrimack,1
+778,20172018,Providence,Win,2,Home,Northeastern,1
+778,20172018,Northeastern,Loss,1,Away,Providence,2
+779,20172018,Connecticut,Win,3,Home,New Hampshire,2
+779,20172018,New Hampshire,Loss,2,Away,Connecticut,3
+780,20172018,Massachusetts,Loss,2,Home,Maine,3
+780,20172018,Maine,Win,3,Away,Massachusetts,2
+781,20172018,Colorado College,Tie,4,Home,Miami,4
+781,20172018,Miami,Tie,4,Away,Colorado College,4
+782,20172018,Minnesota-Duluth,Loss,1,Home,St. Cloud State,2
+782,20172018,St. Cloud State,Win,2,Away,Minnesota-Duluth,1
+783,20172018,North Dakota,Tie,1,Home,Denver,1
+783,20172018,Denver,Tie,1,Away,North Dakota,1
+784,20172018,Nebraska-Omaha,Win,7,Home,Western Michigan,3
+784,20172018,Western Michigan,Loss,3,Away,Nebraska-Omaha,7
+785,20172018,Ferris State,Win,3,Home,Michigan Tech,1
+785,20172018,Michigan Tech,Loss,1,Away,Ferris State,3
+786,20172018,Lake Superior,Loss,2,Home,Bowling Green,3
+786,20172018,Bowling Green,Win,3,Away,Lake Superior,2
+787,20172018,Alaska-Anchorage,Loss,3,Home,Northern Michigan,5
+787,20172018,Northern Michigan,Win,5,Away,Alaska-Anchorage,3
+788,20172018,Alabama-Huntsville,Loss,1,Home,Bemidji State,5
+788,20172018,Bemidji State,Win,5,Away,Alabama-Huntsville,1
+789,20172018,Arizona State,Loss,3,Home,Boston University,4
+789,20172018,Boston University,Win,4,Away,Arizona State,3
+790,20172018,Union,Win,4,Neutral,Rensselaer,3
+790,20172018,Rensselaer,Loss,3,Neutral,Union,4
+791,20172018,Quinnipiac,Loss,3,Home,Princeton,5
+791,20172018,Princeton,Win,5,Away,Quinnipiac,3
+792,20172018,Air Force,Win,3,Home,American International,0
+792,20172018,American International,Loss,0,Away,Air Force,3
+793,20172018,Army,Win,6,Home,Niagara,2
+793,20172018,Niagara,Loss,2,Away,Army,6
+794,20172018,Canisius,Loss,1,Home,Holy Cross,5
+794,20172018,Holy Cross,Win,5,Away,Canisius,1
+795,20172018,RIT,Loss,3,Home,Bentley,4
+795,20172018,Bentley,Win,4,Away,RIT,3
+796,20172018,Sacred Heart,Loss,1,Home,Robert Morris,4
+796,20172018,Robert Morris,Win,4,Away,Sacred Heart,1
+797,20172018,Ohio State,Win,4,Home,Michigan State,2
+797,20172018,Michigan State,Loss,2,Away,Ohio State,4
+798,20172018,Penn State,Loss,3,Home,Notre Dame,5
+798,20172018,Notre Dame,Win,5,Away,Penn State,3
+799,20172018,Michigan,Win,5,Home,Wisconsin,3
+799,20172018,Wisconsin,Loss,3,Away,Michigan,5
+800,20172018,Colgate,Win,3,Home,Rensselaer,0
+800,20172018,Rensselaer,Loss,0,Away,Colgate,3
+801,20172018,Cornell,Win,4,Home,Union,3
+801,20172018,Union,Loss,3,Away,Cornell,4
+802,20172018,Dartmouth,Loss,1,Home,Harvard,4
+802,20172018,Harvard,Win,4,Away,Dartmouth,1
+803,20172018,Princeton,Win,5,Home,St. Lawrence,4
+803,20172018,St. Lawrence,Loss,4,Away,Princeton,5
+804,20172018,Quinnipiac,Win,4,Home,Clarkson,1
+804,20172018,Clarkson,Loss,1,Away,Quinnipiac,4
+805,20172018,Maine,Win,4,Home,Merrimack,3
+805,20172018,Merrimack,Loss,3,Away,Maine,4
+806,20172018,Northeastern,Tie,1,Home,New Hampshire,1
+806,20172018,New Hampshire,Tie,1,Away,Northeastern,1
+807,20172018,Connecticut,Win,5,Home,Boston College,3
+807,20172018,Boston College,Loss,3,Away,Connecticut,5
+808,20172018,Massachusetts,Loss,2,Home,Boston University,3
+808,20172018,Boston University,Win,3,Away,Massachusetts,2
+809,20172018,Vermont,Tie,2,Home,Providence,2
+809,20172018,Providence,Tie,2,Away,Vermont,2
+810,20172018,Denver,Win,1,Home,Minnesota-Duluth,0
+810,20172018,Minnesota-Duluth,Loss,0,Away,Denver,1
+811,20172018,Miami,Win,4,Home,Western Michigan,2
+811,20172018,Western Michigan,Loss,2,Away,Miami,4
+812,20172018,St. Cloud State,Win,5,Home,Nebraska-Omaha,3
+812,20172018,Nebraska-Omaha,Loss,3,Away,St. Cloud State,5
+813,20172018,Bowling Green,Win,7,Home,Michigan Tech,2
+813,20172018,Michigan Tech,Loss,2,Away,Bowling Green,7
+814,20172018,Bemidji State,Loss,0,Home,Lake Superior,2
+814,20172018,Lake Superior,Win,2,Away,Bemidji State,0
+815,20172018,Minnesota State,Win,7,Home,Alaska-Anchorage,1
+815,20172018,Alaska-Anchorage,Loss,1,Away,Minnesota State,7
+816,20172018,Alaska,Win,4,Home,Ferris State,2
+816,20172018,Ferris State,Loss,2,Away,Alaska,4
+817,20172018,Yale,Win,3,Home,Arizona State,2
+817,20172018,Arizona State,Loss,2,Away,Yale,3
+818,20172018,Air Force,Tie,2,Home,American International,2
+818,20172018,American International,Tie,2,Away,Air Force,2
+819,20172018,Army,Tie,1,Home,Niagara,1
+819,20172018,Niagara,Tie,1,Away,Army,1
+820,20172018,Canisius,Win,5,Home,Holy Cross,2
+820,20172018,Holy Cross,Loss,2,Away,Canisius,5
+821,20172018,RIT,Loss,2,Home,Bentley,5
+821,20172018,Bentley,Win,5,Away,RIT,2
+822,20172018,Sacred Heart,Loss,1,Home,Robert Morris,3
+822,20172018,Robert Morris,Win,3,Away,Sacred Heart,1
+823,20172018,Ohio State,Loss,3,Home,Michigan State,6
+823,20172018,Michigan State,Win,6,Away,Ohio State,3
+824,20172018,Penn State,Tie,2,Home,Notre Dame,2
+824,20172018,Notre Dame,Tie,2,Away,Penn State,2
+825,20172018,Michigan,Loss,2,Home,Wisconsin,4
+825,20172018,Wisconsin,Win,4,Away,Michigan,2
+826,20172018,Colgate,Loss,1,Home,Union,3
+826,20172018,Union,Win,3,Away,Colgate,1
+827,20172018,Cornell,Loss,1,Home,Rensselaer,2
+827,20172018,Rensselaer,Win,2,Away,Cornell,1
+828,20172018,Princeton,Win,4,Home,Clarkson,3
+828,20172018,Clarkson,Loss,3,Away,Princeton,4
+829,20172018,Quinnipiac,Win,5,Home,St. Lawrence,2
+829,20172018,St. Lawrence,Loss,2,Away,Quinnipiac,5
+830,20172018,Maine,Loss,2,Home,Merrimack,3
+830,20172018,Merrimack,Win,3,Away,Maine,2
+831,20172018,New Hampshire,Win,3,Home,Massachusetts,1
+831,20172018,Massachusetts,Loss,1,Away,New Hampshire,3
+832,20172018,Vermont,Win,4,Home,Providence,3
+832,20172018,Providence,Loss,3,Away,Vermont,4
+833,20172018,Denver,Win,4,Home,Minnesota-Duluth,3
+833,20172018,Minnesota-Duluth,Loss,3,Away,Denver,4
+834,20172018,Miami,Loss,2,Home,Western Michigan,3
+834,20172018,Western Michigan,Win,3,Away,Miami,2
+835,20172018,St. Cloud State,Win,6,Home,Nebraska-Omaha,2
+835,20172018,Nebraska-Omaha,Loss,2,Away,St. Cloud State,6
+836,20172018,Bowling Green,Loss,0,Home,Michigan Tech,4
+836,20172018,Michigan Tech,Win,4,Away,Bowling Green,0
+837,20172018,Bemidji State,Loss,0,Home,Lake Superior,2
+837,20172018,Lake Superior,Win,2,Away,Bemidji State,0
+838,20172018,Minnesota State,Win,4,Home,Alaska-Anchorage,3
+838,20172018,Alaska-Anchorage,Loss,3,Away,Minnesota State,4
+839,20172018,Alaska,Win,4,Home,Ferris State,1
+839,20172018,Ferris State,Loss,1,Away,Alaska,4
+840,20172018,Alabama-Huntsville,Loss,3,Home,Northern Michigan,4
+840,20172018,Northern Michigan,Win,4,Away,Alabama-Huntsville,3
+841,20172018,Brown,Loss,4,Home,Connecticut,6
+841,20172018,Connecticut,Win,6,Away,Brown,4
+842,20172018,Yale,Win,4,Home,Arizona State,3
+842,20172018,Arizona State,Loss,3,Away,Yale,4
+843,20172018,Alabama-Huntsville,Win,4,Home,Northern Michigan,2
+843,20172018,Northern Michigan,Loss,2,Away,Alabama-Huntsville,4
+844,20172018,Boston College,Loss,0,Neutral,Northeastern,3
+844,20172018,Northeastern,Win,3,Neutral,Boston College,0
+845,20172018,Harvard,Loss,2,Neutral,Boston University,3
+845,20172018,Boston University,Win,3,Neutral,Harvard,2
+846,20172018,Massachusetts,Win,5,Home,Merrimack,2
+846,20172018,Merrimack,Loss,2,Away,Massachusetts,5
+847,20172018,Massachusetts-Lowell,Win,4,Home,American International,0
+847,20172018,American International,Loss,0,Away,Massachusetts-Lowell,4
+848,20172018,Bentley,Win,2,Home,Air Force,0
+848,20172018,Air Force,Loss,0,Away,Bentley,2
+849,20172018,Canisius,Win,4,Home,Army,1
+849,20172018,Army,Loss,1,Away,Canisius,4
+850,20172018,Mercyhurst,Win,6,Home,Holy Cross,5
+850,20172018,Holy Cross,Loss,5,Away,Mercyhurst,6
+851,20172018,Niagara,Loss,1,Home,Sacred Heart,7
+851,20172018,Sacred Heart,Win,7,Away,Niagara,1
+852,20172018,Robert Morris,Loss,3,Home,RIT,4
+852,20172018,RIT,Win,4,Away,Robert Morris,3
+853,20172018,Michigan State,Tie,1,Home,Michigan,1
+853,20172018,Michigan,Tie,1,Away,Michigan State,1
+854,20172018,Notre Dame,Win,2,Home,Ohio State,1
+854,20172018,Ohio State,Loss,1,Away,Notre Dame,2
+855,20172018,Wisconsin,Loss,2,Home,Minnesota,4
+855,20172018,Minnesota,Win,4,Away,Wisconsin,2
+856,20172018,Brown,Loss,2,Home,Princeton,7
+856,20172018,Princeton,Win,7,Away,Brown,2
+857,20172018,Clarkson,Tie,0,Home,Cornell,0
+857,20172018,Cornell,Tie,0,Away,Clarkson,0
+858,20172018,Rensselaer,Loss,3,Home,Dartmouth,7
+858,20172018,Dartmouth,Win,7,Away,Rensselaer,3
+859,20172018,St. Lawrence,Win,5,Home,Colgate,2
+859,20172018,Colgate,Loss,2,Away,St. Lawrence,5
+860,20172018,Union,Win,3,Home,Harvard,1
+860,20172018,Harvard,Loss,1,Away,Union,3
+861,20172018,Yale,Win,3,Home,Quinnipiac,2
+861,20172018,Quinnipiac,Loss,2,Away,Yale,3
+862,20172018,Boston College,Win,3,Home,Massachusetts-Lowell,2
+862,20172018,Massachusetts-Lowell,Loss,2,Away,Boston College,3
+863,20172018,Boston University,Tie,3,Home,Massachusetts,3
+863,20172018,Massachusetts,Tie,3,Away,Boston University,3
+864,20172018,Northeastern,Loss,2,Home,Connecticut,4
+864,20172018,Connecticut,Win,4,Away,Northeastern,2
+865,20172018,Providence,Win,3,Home,Maine,2
+865,20172018,Maine,Loss,2,Away,Providence,3
+866,20172018,New Hampshire,Loss,1,Home,Vermont,2
+866,20172018,Vermont,Win,2,Away,New Hampshire,1
+867,20172018,Miami,Loss,2,Home,St. Cloud State,5
+867,20172018,St. Cloud State,Win,5,Away,Miami,2
+868,20172018,North Dakota,Loss,2,Home,Colorado College,4
+868,20172018,Colorado College,Win,4,Away,North Dakota,2
+869,20172018,Michigan Tech,Loss,2,Home,Bemidji State,4
+869,20172018,Bemidji State,Win,4,Away,Michigan Tech,2
+870,20172018,Northern Michigan,Win,2,Home,Alaska,1
+870,20172018,Alaska,Loss,1,Away,Northern Michigan,2
+871,20172018,Alaska-Anchorage,Loss,2,Home,Lake Superior,3
+871,20172018,Lake Superior,Win,3,Away,Alaska-Anchorage,2
+872,20172018,Alabama-Huntsville,Loss,2,Home,Minnesota State,3
+872,20172018,Minnesota State,Win,3,Away,Alabama-Huntsville,2
+873,20172018,Bentley,Loss,2,Home,Air Force,4
+873,20172018,Air Force,Win,4,Away,Bentley,2
+874,20172018,Canisius,Loss,2,Home,Army,3
+874,20172018,Army,Win,3,Away,Canisius,2
+875,20172018,Mercyhurst,Win,4,Home,Holy Cross,0
+875,20172018,Holy Cross,Loss,0,Away,Mercyhurst,4
+876,20172018,Niagara,Loss,3,Home,Sacred Heart,5
+876,20172018,Sacred Heart,Win,5,Away,Niagara,3
+877,20172018,Robert Morris,Loss,2,Home,RIT,6
+877,20172018,RIT,Win,6,Away,Robert Morris,2
+878,20172018,Michigan State,Loss,2,Neutral,Michigan,3
+878,20172018,Michigan,Win,3,Neutral,Michigan State,2
+879,20172018,Notre Dame,Loss,1,Home,Ohio State,5
+879,20172018,Ohio State,Win,5,Away,Notre Dame,1
+880,20172018,Wisconsin,Loss,1,Home,Minnesota,7
+880,20172018,Minnesota,Win,7,Away,Wisconsin,1
+881,20172018,Brown,Loss,0,Home,Quinnipiac,3
+881,20172018,Quinnipiac,Win,3,Away,Brown,0
+882,20172018,Clarkson,Tie,4,Home,Colgate,4
+882,20172018,Colgate,Tie,4,Away,Clarkson,4
+883,20172018,St. Lawrence,Loss,0,Home,Cornell,1
+883,20172018,Cornell,Win,1,Away,St. Lawrence,0
+884,20172018,Union,Win,2,Home,Dartmouth,1
+884,20172018,Dartmouth,Loss,1,Away,Union,2
+885,20172018,Yale,Win,7,Home,Princeton,2
+885,20172018,Princeton,Loss,2,Away,Yale,7
+886,20172018,Massachusetts,Win,3,Home,Massachusetts-Lowell,0
+886,20172018,Massachusetts-Lowell,Loss,0,Away,Massachusetts,3
+887,20172018,New Hampshire,Tie,2,Home,Vermont,2
+887,20172018,Vermont,Tie,2,Away,New Hampshire,2
+888,20172018,Miami,Loss,0,Home,St. Cloud State,4
+888,20172018,St. Cloud State,Win,4,Away,Miami,0
+889,20172018,North Dakota,Win,5,Home,Colorado College,1
+889,20172018,Colorado College,Loss,1,Away,North Dakota,5
+890,20172018,Michigan Tech,Win,5,Home,Bemidji State,1
+890,20172018,Bemidji State,Loss,1,Away,Michigan Tech,5
+891,20172018,Northern Michigan,Win,4,Home,Alaska,1
+891,20172018,Alaska,Loss,1,Away,Northern Michigan,4
+892,20172018,Alaska-Anchorage,Loss,1,Home,Lake Superior,2
+892,20172018,Lake Superior,Win,2,Away,Alaska-Anchorage,1
+893,20172018,Alabama-Huntsville,Loss,1,Home,Minnesota State,6
+893,20172018,Minnesota State,Win,6,Away,Alabama-Huntsville,1
+894,20172018,Mercyhurst,Loss,5,Home,RIT,6
+894,20172018,RIT,Win,6,Away,Mercyhurst,5
+895,20172018,Boston University,Loss,2,Neutral,Northeastern,5
+895,20172018,Northeastern,Win,5,Neutral,Boston University,2
+896,20172018,Harvard,Win,5,Neutral,Boston College,4
+896,20172018,Boston College,Loss,4,Neutral,Harvard,5
+897,20172018,Air Force,Loss,1,Neutral,Sacred Heart,2
+897,20172018,Sacred Heart,Win,2,Neutral,Air Force,1
+898,20172018,New Hampshire,Loss,3,Home,Maine,4
+898,20172018,Maine,Win,4,Away,New Hampshire,3
+899,20172018,Massachusetts,Loss,2,Home,Boston College,5
+899,20172018,Boston College,Win,5,Away,Massachusetts,2
+900,20172018,Bemidji State,Tie,2,Home,Alaska,2
+900,20172018,Alaska,Tie,2,Away,Bemidji State,2
+901,20172018,Alaska-Anchorage,Loss,2,Home,Bowling Green,5
+901,20172018,Bowling Green,Win,5,Away,Alaska-Anchorage,2
+902,20172018,Air Force,Win,7,Home,Canisius,4
+902,20172018,Canisius,Loss,4,Away,Air Force,7
+903,20172018,Bentley,Loss,1,Home,Army,5
+903,20172018,Army,Win,5,Away,Bentley,1
+904,20172018,Robert Morris,Loss,1,Home,Mercyhurst,2
+904,20172018,Mercyhurst,Win,2,Away,Robert Morris,1
+905,20172018,Michigan State,Win,4,Home,Penn State,2
+905,20172018,Penn State,Loss,2,Away,Michigan State,4
+906,20172018,Notre Dame,Loss,2,Home,Michigan,4
+906,20172018,Michigan,Win,4,Away,Notre Dame,2
+907,20172018,Minnesota,Win,2,Home,Ohio State,1
+907,20172018,Ohio State,Loss,1,Away,Minnesota,2
+908,20172018,Colgate,Loss,3,Home,Yale,4
+908,20172018,Yale,Win,4,Away,Colgate,3
+909,20172018,Cornell,Win,2,Home,Brown,1
+909,20172018,Brown,Loss,1,Away,Cornell,2
+910,20172018,Dartmouth,Win,3,Home,Clarkson,2
+910,20172018,Clarkson,Loss,2,Away,Dartmouth,3
+911,20172018,Harvard,Win,5,Home,St. Lawrence,0
+911,20172018,St. Lawrence,Loss,0,Away,Harvard,5
+912,20172018,Princeton,Win,7,Home,Rensselaer,2
+912,20172018,Rensselaer,Loss,2,Away,Princeton,7
+913,20172018,Quinnipiac,Loss,2,Home,Union,5
+913,20172018,Union,Win,5,Away,Quinnipiac,2
+914,20172018,Merrimack,Win,3,Home,New Hampshire,2
+914,20172018,New Hampshire,Loss,2,Away,Merrimack,3
+915,20172018,Providence,Win,5,Home,Massachusetts-Lowell,2
+915,20172018,Massachusetts-Lowell,Loss,2,Away,Providence,5
+916,20172018,Connecticut,Win,5,Home,Boston University,4
+916,20172018,Boston University,Loss,4,Away,Connecticut,5
+917,20172018,Vermont,Loss,3,Home,Northeastern,4
+917,20172018,Northeastern,Win,4,Away,Vermont,3
+918,20172018,Colorado College,Loss,1,Home,Denver,5
+918,20172018,Denver,Win,5,Away,Colorado College,1
+919,20172018,Minnesota-Duluth,Win,4,Home,Miami,0
+919,20172018,Miami,Loss,0,Away,Minnesota-Duluth,4
+920,20172018,Nebraska-Omaha,Win,6,Home,North Dakota,3
+920,20172018,North Dakota,Loss,3,Away,Nebraska-Omaha,6
+921,20172018,Western Michigan,Tie,5,Home,St. Cloud State,5
+921,20172018,St. Cloud State,Tie,5,Away,Western Michigan,5
+922,20172018,Bemidji State,Win,2,Home,Alaska,1
+922,20172018,Alaska,Loss,1,Away,Bemidji State,2
+923,20172018,Minnesota State,Win,7,Home,Ferris State,1
+923,20172018,Ferris State,Loss,1,Away,Minnesota State,7
+924,20172018,Alaska-Anchorage,Loss,1,Home,Bowling Green,2
+924,20172018,Bowling Green,Win,2,Away,Alaska-Anchorage,1
+925,20172018,Michigan Tech,Loss,1,Home,Arizona State,2
+925,20172018,Arizona State,Win,2,Away,Michigan Tech,1
+926,20172018,Air Force,Win,3,Home,Canisius,2
+926,20172018,Canisius,Loss,2,Away,Air Force,3
+927,20172018,American International,Win,1,Home,Holy Cross,0
+927,20172018,Holy Cross,Loss,0,Away,American International,1
+928,20172018,Bentley,Win,4,Home,Army,2
+928,20172018,Army,Loss,2,Away,Bentley,4
+929,20172018,Mercyhurst,Win,3,Home,Robert Morris,2
+929,20172018,Robert Morris,Loss,2,Away,Mercyhurst,3
+930,20172018,Sacred Heart,Loss,0,Home,RIT,5
+930,20172018,RIT,Win,5,Away,Sacred Heart,0
+931,20172018,Michigan State,Loss,2,Home,Penn State,3
+931,20172018,Penn State,Win,3,Away,Michigan State,2
+932,20172018,Minnesota,Tie,1,Home,Ohio State,1
+932,20172018,Ohio State,Tie,1,Away,Minnesota,1
+933,20172018,Colgate,Win,3,Home,Brown,1
+933,20172018,Brown,Loss,1,Away,Colgate,3
+934,20172018,Cornell,Win,3,Home,Yale,2
+934,20172018,Yale,Loss,2,Away,Cornell,3
+935,20172018,Dartmouth,Win,3,Home,St. Lawrence,1
+935,20172018,St. Lawrence,Loss,1,Away,Dartmouth,3
+936,20172018,Harvard,Win,5,Home,Clarkson,2
+936,20172018,Clarkson,Loss,2,Away,Harvard,5
+937,20172018,Princeton,Loss,1,Home,Union,4
+937,20172018,Union,Win,4,Away,Princeton,1
+938,20172018,Quinnipiac,Win,4,Home,Rensselaer,1
+938,20172018,Rensselaer,Loss,1,Away,Quinnipiac,4
+939,20172018,Merrimack,Loss,1,Home,Boston University,3
+939,20172018,Boston University,Win,3,Away,Merrimack,1
+940,20172018,Maine,Loss,0,Home,Boston College,5
+940,20172018,Boston College,Win,5,Away,Maine,0
+941,20172018,Massachusetts-Lowell,Loss,1,Home,Providence,3
+941,20172018,Providence,Win,3,Away,Massachusetts-Lowell,1
+942,20172018,Vermont,Loss,1,Home,Northeastern,4
+942,20172018,Northeastern,Win,4,Away,Vermont,1
+943,20172018,Denver,Loss,0,Home,Colorado College,1
+943,20172018,Colorado College,Win,1,Away,Denver,0
+944,20172018,Minnesota-Duluth,Win,3,Home,Miami,0
+944,20172018,Miami,Loss,0,Away,Minnesota-Duluth,3
+945,20172018,Nebraska-Omaha,Loss,0,Home,North Dakota,3
+945,20172018,North Dakota,Win,3,Away,Nebraska-Omaha,0
+946,20172018,Western Michigan,Loss,2,Home,St. Cloud State,4
+946,20172018,St. Cloud State,Win,4,Away,Western Michigan,2
+947,20172018,Minnesota State,Win,4,Home,Ferris State,2
+947,20172018,Ferris State,Loss,2,Away,Minnesota State,4
+948,20172018,Michigan Tech,Win,5,Home,Arizona State,3
+948,20172018,Arizona State,Loss,3,Away,Michigan Tech,5
+949,20172018,Sacred Heart,Win,5,Home,RIT,3
+949,20172018,RIT,Loss,3,Away,Sacred Heart,5
+950,20172018,Michigan,Win,1,Home,Notre Dame,0
+950,20172018,Notre Dame,Loss,0,Away,Michigan,1
+951,20172018,Holy Cross,Win,2,Home,American International,0
+951,20172018,American International,Loss,0,Away,Holy Cross,2
+952,20172018,Connecticut,Loss,2,Home,Massachusetts,3
+952,20172018,Massachusetts,Win,3,Away,Connecticut,2
+953,20172018,Army,Win,6,Home,Sacred Heart,0
+953,20172018,Sacred Heart,Loss,0,Away,Army,6
+954,20172018,Canisius,Win,2,Home,Niagara,1
+954,20172018,Niagara,Loss,1,Away,Canisius,2
+955,20172018,RIT,Loss,3,Home,Mercyhurst,4
+955,20172018,Mercyhurst,Win,4,Away,RIT,3
+956,20172018,Robert Morris,Loss,0,Home,Air Force,1
+956,20172018,Air Force,Win,1,Away,Robert Morris,0
+957,20172018,Notre Dame,Win,6,Home,Michigan State,3
+957,20172018,Michigan State,Loss,3,Away,Notre Dame,6
+958,20172018,Ohio State,Win,6,Home,Wisconsin,2
+958,20172018,Wisconsin,Loss,2,Away,Ohio State,6
+959,20172018,Penn State,Win,5,Home,Minnesota,1
+959,20172018,Minnesota,Loss,1,Away,Penn State,5
+960,20172018,Brown,Win,6,Home,Harvard,4
+960,20172018,Harvard,Loss,4,Away,Brown,6
+961,20172018,Clarkson,Tie,3,Home,Princeton,3
+961,20172018,Princeton,Tie,3,Away,Clarkson,3
+962,20172018,Rensselaer,Loss,2,Home,Cornell,4
+962,20172018,Cornell,Win,4,Away,Rensselaer,2
+963,20172018,St. Lawrence,Loss,2,Home,Quinnipiac,3
+963,20172018,Quinnipiac,Win,3,Away,St. Lawrence,2
+964,20172018,Union,Tie,1,Home,Colgate,1
+964,20172018,Colgate,Tie,1,Away,Union,1
+965,20172018,Yale,Loss,4,Home,Dartmouth,6
+965,20172018,Dartmouth,Win,6,Away,Yale,4
+966,20172018,Boston College,Win,6,Home,Maine,3
+966,20172018,Maine,Loss,3,Away,Boston College,6
+967,20172018,Boston University,Win,2,Home,Vermont,0
+967,20172018,Vermont,Loss,0,Away,Boston University,2
+968,20172018,Merrimack,Win,4,Home,Massachusetts-Lowell,1
+968,20172018,Massachusetts-Lowell,Loss,1,Away,Merrimack,4
+969,20172018,Northeastern,Win,8,Home,New Hampshire,0
+969,20172018,New Hampshire,Loss,0,Away,Northeastern,8
+970,20172018,Miami,Win,4,Home,North Dakota,3
+970,20172018,North Dakota,Loss,3,Away,Miami,4
+971,20172018,St. Cloud State,Tie,1,Home,Denver,1
+971,20172018,Denver,Tie,1,Away,St. Cloud State,1
+972,20172018,Nebraska-Omaha,Win,4,Home,Colorado College,2
+972,20172018,Colorado College,Loss,2,Away,Nebraska-Omaha,4
+973,20172018,Western Michigan,Loss,0,Home,Minnesota-Duluth,8
+973,20172018,Minnesota-Duluth,Win,8,Away,Western Michigan,0
+974,20172018,Ferris State,Win,4,Home,Lake Superior,1
+974,20172018,Lake Superior,Loss,1,Away,Ferris State,4
+975,20172018,Minnesota State,Win,2,Home,Bemidji State,1
+975,20172018,Bemidji State,Loss,1,Away,Minnesota State,2
+976,20172018,Northern Michigan,Win,2,Home,Michigan Tech,1
+976,20172018,Michigan Tech,Loss,1,Away,Northern Michigan,2
+977,20172018,Alaska,Loss,3,Home,Alaska-Anchorage,5
+977,20172018,Alaska-Anchorage,Win,5,Away,Alaska,3
+978,20172018,Alabama-Huntsville,Win,3,Home,Bowling Green,2
+978,20172018,Bowling Green,Loss,2,Away,Alabama-Huntsville,3
+979,20172018,Michigan,Win,5,Home,Arizona State,3
+979,20172018,Arizona State,Loss,3,Away,Michigan,5
+980,20172018,Army,Win,4,Home,Sacred Heart,3
+980,20172018,Sacred Heart,Loss,3,Away,Army,4
+981,20172018,Bentley,Loss,2,Home,American International,3
+981,20172018,American International,Win,3,Away,Bentley,2
+982,20172018,Niagara,Loss,2,Home,Canisius,3
+982,20172018,Canisius,Win,3,Away,Niagara,2
+983,20172018,RIT,Loss,3,Home,Mercyhurst,4
+983,20172018,Mercyhurst,Win,4,Away,RIT,3
+984,20172018,Robert Morris,Tie,2,Home,Air Force,2
+984,20172018,Air Force,Tie,2,Away,Robert Morris,2
+985,20172018,Notre Dame,Loss,3,Home,Michigan State,4
+985,20172018,Michigan State,Win,4,Away,Notre Dame,3
+986,20172018,Ohio State,Win,4,Home,Wisconsin,0
+986,20172018,Wisconsin,Loss,0,Away,Ohio State,4
+987,20172018,Penn State,Win,5,Home,Minnesota,2
+987,20172018,Minnesota,Loss,2,Away,Penn State,5
+988,20172018,Brown,Win,3,Home,Dartmouth,0
+988,20172018,Dartmouth,Loss,0,Away,Brown,3
+989,20172018,Clarkson,Win,4,Home,Quinnipiac,2
+989,20172018,Quinnipiac,Loss,2,Away,Clarkson,4
+990,20172018,Rensselaer,Loss,2,Home,Colgate,5
+990,20172018,Colgate,Win,5,Away,Rensselaer,2
+991,20172018,St. Lawrence,Loss,3,Home,Princeton,4
+991,20172018,Princeton,Win,4,Away,St. Lawrence,3
+992,20172018,Union,Win,4,Home,Cornell,3
+992,20172018,Cornell,Loss,3,Away,Union,4
+993,20172018,Yale,Win,2,Home,Harvard,1
+993,20172018,Harvard,Loss,1,Away,Yale,2
+994,20172018,Boston College,Win,2,Home,Maine,1
+994,20172018,Maine,Loss,1,Away,Boston College,2
+995,20172018,Boston University,Tie,1,Home,Vermont,1
+995,20172018,Vermont,Tie,1,Away,Boston University,1
+996,20172018,Massachusetts,Win,1,Home,Providence,0
+996,20172018,Providence,Loss,0,Away,Massachusetts,1
+997,20172018,Massachusetts-Lowell,Win,5,Home,Merrimack,0
+997,20172018,Merrimack,Loss,0,Away,Massachusetts-Lowell,5
+998,20172018,New Hampshire,Loss,0,Home,Northeastern,4
+998,20172018,Northeastern,Win,4,Away,New Hampshire,0
+999,20172018,Miami,Tie,2,Home,North Dakota,2
+999,20172018,North Dakota,Tie,2,Away,Miami,2
+1000,20172018,St. Cloud State,Win,4,Home,Denver,2
+1000,20172018,Denver,Loss,2,Away,St. Cloud State,4
+1001,20172018,Nebraska-Omaha,Tie,2,Home,Colorado College,2
+1001,20172018,Colorado College,Tie,2,Away,Nebraska-Omaha,2
+1002,20172018,Western Michigan,Loss,1,Home,Minnesota-Duluth,6
+1002,20172018,Minnesota-Duluth,Win,6,Away,Western Michigan,1
+1003,20172018,Ferris State,Win,4,Home,Lake Superior,2
+1003,20172018,Lake Superior,Loss,2,Away,Ferris State,4
+1004,20172018,Minnesota State,Tie,2,Home,Bemidji State,2
+1004,20172018,Bemidji State,Tie,2,Away,Minnesota State,2
+1005,20172018,Michigan Tech,Win,3,Home,Northern Michigan,2
+1005,20172018,Northern Michigan,Loss,2,Away,Michigan Tech,3
+1006,20172018,Alaska,Loss,2,Home,Alaska-Anchorage,3
+1006,20172018,Alaska-Anchorage,Win,3,Away,Alaska,2
+1007,20172018,Alabama-Huntsville,Loss,0,Home,Bowling Green,3
+1007,20172018,Bowling Green,Win,3,Away,Alabama-Huntsville,0
+1008,20172018,Michigan,Win,5,Home,Arizona State,3
+1008,20172018,Arizona State,Loss,3,Away,Michigan,5
+1009,20172018,Massachusetts,Win,3,Home,Vermont,2
+1009,20172018,Vermont,Loss,2,Away,Massachusetts,3
+1010,20172018,American International,Win,4,Home,Niagara,1
+1010,20172018,Niagara,Loss,1,Away,American International,4
+1011,20172018,RIT,Win,5,Home,Sacred Heart,4
+1011,20172018,Sacred Heart,Loss,4,Away,RIT,5
+1012,20172018,Robert Morris,Win,3,Home,Bentley,1
+1012,20172018,Bentley,Loss,1,Away,Robert Morris,3
+1013,20172018,Ohio State,Win,6,Home,Michigan State,2
+1013,20172018,Michigan State,Loss,2,Away,Ohio State,6
+1014,20172018,Penn State,Win,5,Home,Minnesota,3
+1014,20172018,Minnesota,Loss,3,Away,Penn State,5
+1015,20172018,Michigan,Win,6,Home,Wisconsin,5
+1015,20172018,Wisconsin,Loss,5,Away,Michigan,6
+1016,20172018,Colgate,Win,3,Home,Rensselaer,1
+1016,20172018,Rensselaer,Loss,1,Away,Colgate,3
+1017,20172018,Dartmouth,Win,2,Home,St. Lawrence,1
+1017,20172018,St. Lawrence,Loss,1,Away,Dartmouth,2
+1018,20172018,Princeton,Win,8,Home,Brown,2
+1018,20172018,Brown,Loss,2,Away,Princeton,8
+1019,20172018,Yale,Loss,1,Home,Quinnipiac,5
+1019,20172018,Quinnipiac,Win,5,Away,Yale,1
+1020,20172018,Maine,Win,4,Home,New Hampshire,1
+1020,20172018,New Hampshire,Loss,1,Away,Maine,4
+1021,20172018,Massachusetts,Loss,3,Home,Vermont,4
+1021,20172018,Vermont,Win,4,Away,Massachusetts,3
+1022,20172018,Massachusetts-Lowell,Loss,1,Home,Merrimack,2
+1022,20172018,Merrimack,Win,2,Away,Massachusetts-Lowell,1
+1023,20172018,Colorado College,Win,2,Home,Western Michigan,1
+1023,20172018,Western Michigan,Loss,1,Away,Colorado College,2
+1024,20172018,Denver,Win,6,Home,Miami,3
+1024,20172018,Miami,Loss,3,Away,Denver,6
+1025,20172018,Minnesota-Duluth,Loss,1,Home,Nebraska-Omaha,4
+1025,20172018,Nebraska-Omaha,Win,4,Away,Minnesota-Duluth,1
+1026,20172018,North Dakota,Loss,3,Home,St. Cloud State,4
+1026,20172018,St. Cloud State,Win,4,Away,North Dakota,3
+1027,20172018,Bowling Green,Win,2,Home,Ferris State,1
+1027,20172018,Ferris State,Loss,1,Away,Bowling Green,2
+1028,20172018,Bemidji State,Loss,3,Home,Michigan Tech,5
+1028,20172018,Michigan Tech,Win,5,Away,Bemidji State,3
+1029,20172018,Minnesota State,Win,8,Home,Alaska,2
+1029,20172018,Alaska,Loss,2,Away,Minnesota State,8
+1030,20172018,Northern Michigan,Win,7,Home,Alabama-Huntsville,1
+1030,20172018,Alabama-Huntsville,Loss,1,Away,Northern Michigan,7
+1031,20172018,American International,Win,4,Home,Niagara,3
+1031,20172018,Niagara,Loss,3,Away,American International,4
+1032,20172018,RIT,Loss,3,Home,Sacred Heart,4
+1032,20172018,Sacred Heart,Win,4,Away,RIT,3
+1033,20172018,Robert Morris,Loss,3,Home,Bentley,4
+1033,20172018,Bentley,Win,4,Away,Robert Morris,3
+1034,20172018,Ohio State,Win,4,Home,Michigan State,3
+1034,20172018,Michigan State,Loss,3,Away,Ohio State,4
+1035,20172018,Penn State,Win,6,Home,Minnesota,5
+1035,20172018,Minnesota,Loss,5,Away,Penn State,6
+1036,20172018,Michigan,Win,7,Home,Wisconsin,4
+1036,20172018,Wisconsin,Loss,4,Away,Michigan,7
+1037,20172018,Colgate,Loss,0,Home,Rensselaer,1
+1037,20172018,Rensselaer,Win,1,Away,Colgate,0
+1038,20172018,Dartmouth,Loss,2,Home,St. Lawrence,4
+1038,20172018,St. Lawrence,Win,4,Away,Dartmouth,2
+1039,20172018,Princeton,Win,7,Home,Brown,1
+1039,20172018,Brown,Loss,1,Away,Princeton,7
+1040,20172018,Yale,Loss,1,Home,Quinnipiac,4
+1040,20172018,Quinnipiac,Win,4,Away,Yale,1
+1041,20172018,Maine,Win,3,Home,New Hampshire,2
+1041,20172018,New Hampshire,Loss,2,Away,Maine,3
+1042,20172018,Massachusetts-Lowell,Loss,2,Home,Merrimack,3
+1042,20172018,Merrimack,Win,3,Away,Massachusetts-Lowell,2
+1043,20172018,Colorado College,Loss,2,Home,Western Michigan,8
+1043,20172018,Western Michigan,Win,8,Away,Colorado College,2
+1044,20172018,Denver,Tie,3,Home,Miami,3
+1044,20172018,Miami,Tie,3,Away,Denver,3
+1045,20172018,Minnesota-Duluth,Win,4,Home,Nebraska-Omaha,1
+1045,20172018,Nebraska-Omaha,Loss,1,Away,Minnesota-Duluth,4
+1046,20172018,North Dakota,Tie,2,Home,St. Cloud State,2
+1046,20172018,St. Cloud State,Tie,2,Away,North Dakota,2
+1047,20172018,Bowling Green,Win,5,Home,Ferris State,2
+1047,20172018,Ferris State,Loss,2,Away,Bowling Green,5
+1048,20172018,Bemidji State,Loss,4,Home,Michigan Tech,5
+1048,20172018,Michigan Tech,Win,5,Away,Bemidji State,4
+1049,20172018,Minnesota State,Win,6,Home,Alaska,2
+1049,20172018,Alaska,Loss,2,Away,Minnesota State,6
+1050,20172018,Northern Michigan,Loss,2,Home,Alabama-Huntsville,3
+1050,20172018,Alabama-Huntsville,Win,3,Away,Northern Michigan,2
+1051,20172018,RIT,Loss,0,Home,Sacred Heart,2
+1051,20172018,Sacred Heart,Win,2,Away,RIT,0
+1052,20172018,Robert Morris,Win,3,Home,Bentley,2
+1052,20172018,Bentley,Loss,2,Away,Robert Morris,3
+1053,20172018,Colgate,Win,2,Home,Rensselaer,0
+1053,20172018,Rensselaer,Loss,0,Away,Colgate,2
+1054,20172018,Dartmouth,Win,2,Home,St. Lawrence,1
+1054,20172018,St. Lawrence,Loss,1,Away,Dartmouth,2
+1055,20172018,Massachusetts,Win,5,Home,Vermont,1
+1055,20172018,Vermont,Loss,1,Away,Massachusetts,5
+1056,20172018,Northern Michigan,Win,5,Home,Alabama-Huntsville,2
+1056,20172018,Alabama-Huntsville,Loss,2,Away,Northern Michigan,5
+1057,20172018,Army,Loss,3,Home,Air Force,5
+1057,20172018,Air Force,Win,5,Away,Army,3
+1058,20172018,Canisius,Win,8,Home,American International,1
+1058,20172018,American International,Loss,1,Away,Canisius,8
+1059,20172018,Holy Cross,Loss,1,Home,Robert Morris,4
+1059,20172018,Robert Morris,Win,4,Away,Holy Cross,1
+1060,20172018,Mercyhurst,Win,4,Home,Sacred Heart,2
+1060,20172018,Sacred Heart,Loss,2,Away,Mercyhurst,4
+1061,20172018,Clarkson,Loss,1,Home,Colgate,2
+1061,20172018,Colgate,Win,2,Away,Clarkson,1
+1062,20172018,Cornell,Win,9,Home,Quinnipiac,1
+1062,20172018,Quinnipiac,Loss,1,Away,Cornell,9
+1063,20172018,Harvard,Loss,1,Home,Dartmouth,4
+1063,20172018,Dartmouth,Win,4,Away,Harvard,1
+1064,20172018,Union,Loss,3,Home,Princeton,5
+1064,20172018,Princeton,Win,5,Away,Union,3
+1065,20172018,Boston College,Win,1,Home,Merrimack,0
+1065,20172018,Merrimack,Loss,0,Away,Boston College,1
+1066,20172018,Boston University,Win,5,Home,Connecticut,4
+1066,20172018,Connecticut,Loss,4,Away,Boston University,5
+1067,20172018,Northeastern,Win,3,Home,Massachusetts,2
+1067,20172018,Massachusetts,Loss,2,Away,Northeastern,3
+1068,20172018,Providence,Win,4,Home,Maine,3
+1068,20172018,Maine,Loss,3,Away,Providence,4
+1069,20172018,Denver,Loss,0,Home,Colorado College,2
+1069,20172018,Colorado College,Win,2,Away,Denver,0
+1070,20172018,St. Cloud State,Win,5,Home,Miami,2
+1070,20172018,Miami,Loss,2,Away,St. Cloud State,5
+1071,20172018,Minnesota-Duluth,Win,5,Home,Western Michigan,0
+1071,20172018,Western Michigan,Loss,0,Away,Minnesota-Duluth,5
+1072,20172018,North Dakota,Win,4,Home,Nebraska-Omaha,0
+1072,20172018,Nebraska-Omaha,Loss,0,Away,North Dakota,4
+1073,20172018,Minnesota State,Win,2,Home,Michigan Tech,1
+1073,20172018,Michigan Tech,Loss,1,Away,Minnesota State,2
+1074,20172018,Northern Michigan,Win,6,Home,Bowling Green,1
+1074,20172018,Bowling Green,Loss,1,Away,Northern Michigan,6
+1075,20172018,Army,Win,1,Home,Air Force,0
+1075,20172018,Air Force,Loss,0,Away,Army,1
+1076,20172018,Canisius,Loss,1,Home,American International,2
+1076,20172018,American International,Win,2,Away,Canisius,1
+1077,20172018,Holy Cross,Loss,1,Home,Robert Morris,5
+1077,20172018,Robert Morris,Win,5,Away,Holy Cross,1
+1078,20172018,Mercyhurst,Win,3,Home,Sacred Heart,2
+1078,20172018,Sacred Heart,Loss,2,Away,Mercyhurst,3
+1079,20172018,Notre Dame,Win,3,Home,Penn State,2
+1079,20172018,Penn State,Loss,2,Away,Notre Dame,3
+1080,20172018,Ohio State,Win,3,Home,Michigan,2
+1080,20172018,Michigan,Loss,2,Away,Ohio State,3
+1081,20172018,Clarkson,Win,3,Home,Colgate,0
+1081,20172018,Colgate,Loss,0,Away,Clarkson,3
+1082,20172018,Cornell,Win,2,Home,Quinnipiac,0
+1082,20172018,Quinnipiac,Loss,0,Away,Cornell,2
+1083,20172018,Harvard,Win,7,Home,Dartmouth,1
+1083,20172018,Dartmouth,Loss,1,Away,Harvard,7
+1084,20172018,Union,Loss,2,Home,Princeton,3
+1084,20172018,Princeton,Win,3,Away,Union,2
+1085,20172018,Boston College,Win,4,Home,Merrimack,3
+1085,20172018,Merrimack,Loss,3,Away,Boston College,4
+1086,20172018,Boston University,Win,2,Home,Connecticut,1
+1086,20172018,Connecticut,Loss,1,Away,Boston University,2
+1087,20172018,Northeastern,Win,7,Home,Massachusetts,2
+1087,20172018,Massachusetts,Loss,2,Away,Northeastern,7
+1088,20172018,Providence,Win,3,Home,Maine,2
+1088,20172018,Maine,Loss,2,Away,Providence,3
+1089,20172018,Denver,Win,3,Home,Colorado College,2
+1089,20172018,Colorado College,Loss,2,Away,Denver,3
+1090,20172018,St. Cloud State,Loss,2,Home,Miami,3
+1090,20172018,Miami,Win,3,Away,St. Cloud State,2
+1091,20172018,Minnesota-Duluth,Win,2,Home,Western Michigan,0
+1091,20172018,Western Michigan,Loss,0,Away,Minnesota-Duluth,2
+1092,20172018,North Dakota,Win,4,Home,Nebraska-Omaha,3
+1092,20172018,Nebraska-Omaha,Loss,3,Away,North Dakota,4
+1093,20172018,Minnesota State,Loss,2,Home,Michigan Tech,4
+1093,20172018,Michigan Tech,Win,4,Away,Minnesota State,2
+1094,20172018,Northern Michigan,Loss,0,Home,Bowling Green,1
+1094,20172018,Bowling Green,Win,1,Away,Northern Michigan,0
+1095,20172018,Army,Loss,0,Home,Air Force,1
+1095,20172018,Air Force,Win,1,Away,Army,0
+1096,20172018,Canisius,Win,3,Home,American International,0
+1096,20172018,American International,Loss,0,Away,Canisius,3
+1097,20172018,Clarkson,Win,5,Home,Colgate,1
+1097,20172018,Colgate,Loss,1,Away,Clarkson,5
+1098,20172018,Harvard,Win,4,Home,Dartmouth,2
+1098,20172018,Dartmouth,Loss,2,Away,Harvard,4
+1099,20172018,Denver,Win,6,Home,Colorado College,1
+1099,20172018,Colorado College,Loss,1,Away,Denver,6
+1100,20172018,St. Cloud State,Win,4,Home,Miami,3
+1100,20172018,Miami,Loss,3,Away,St. Cloud State,4
+1101,20172018,Minnesota State,Loss,1,Home,Michigan Tech,2
+1101,20172018,Michigan Tech,Win,2,Away,Minnesota State,1
+1102,20172018,Northern Michigan,Win,3,Home,Bowling Green,2
+1102,20172018,Bowling Green,Loss,2,Away,Northern Michigan,3
+1103,20172018,Canisius,Loss,0,Neutral,Air Force,3
+1103,20172018,Air Force,Win,3,Neutral,Canisius,0
+1104,20172018,Mercyhurst,Loss,4,Neutral,Robert Morris,5
+1104,20172018,Robert Morris,Win,5,Neutral,Mercyhurst,4
+1105,20172018,Clarkson,Win,5,Neutral,Harvard,4
+1105,20172018,Harvard,Loss,4,Neutral,Clarkson,5
+1106,20172018,Cornell,Loss,1,Neutral,Princeton,4
+1106,20172018,Princeton,Win,4,Neutral,Cornell,1
+1107,20172018,Boston College,Loss,3,Neutral,Boston University,4
+1107,20172018,Boston University,Win,4,Neutral,Boston College,3
+1108,20172018,Northeastern,Loss,2,Neutral,Providence,3
+1108,20172018,Providence,Win,3,Neutral,Northeastern,2
+1109,20172018,Denver,Win,3,Neutral,Minnesota-Duluth,1
+1109,20172018,Minnesota-Duluth,Loss,1,Neutral,Denver,3
+1110,20172018,St. Cloud State,Win,3,Neutral,North Dakota,2
+1110,20172018,North Dakota,Loss,2,Neutral,St. Cloud State,3
+1111,20172018,Air Force,Win,5,Neutral,Robert Morris,1
+1111,20172018,Robert Morris,Loss,1,Neutral,Air Force,5
+1112,20172018,Notre Dame,Win,3,Home,Ohio State,2
+1112,20172018,Ohio State,Loss,2,Away,Notre Dame,3
+1113,20172018,Clarkson,Loss,1,Neutral,Princeton,2
+1113,20172018,Princeton,Win,2,Neutral,Clarkson,1
+1114,20172018,Providence,Loss,0,Neutral,Boston University,2
+1114,20172018,Boston University,Win,2,Neutral,Providence,0
+1115,20172018,St. Cloud State,Loss,1,Neutral,Denver,4
+1115,20172018,Denver,Win,4,Neutral,St. Cloud State,1
+1116,20172018,Minnesota-Duluth,Loss,1,Neutral,North Dakota,4
+1116,20172018,North Dakota,Win,4,Neutral,Minnesota-Duluth,1
+1117,20172018,Northern Michigan,Loss,0,Home,Michigan Tech,2
+1117,20172018,Michigan Tech,Win,2,Away,Northern Michigan,0
+1118,20172018,Notre Dame,Win,4,Neutral,Michigan Tech,3
+1118,20172018,Michigan Tech,Loss,3,Neutral,Notre Dame,4
+1119,20172018,Providence,Win,1,Neutral,Clarkson,0
+1119,20172018,Clarkson,Loss,0,Neutral,Providence,1
+1120,20172018,Minnesota State,Loss,2,Neutral,Minnesota-Duluth,3
+1120,20172018,Minnesota-Duluth,Win,3,Neutral,Minnesota State,2
+1121,20172018,St. Cloud State,Loss,1,Neutral,Air Force,4
+1121,20172018,Air Force,Win,4,Neutral,St. Cloud State,1
+1122,20172018,Notre Dame,Win,2,Neutral,Providence,1
+1122,20172018,Providence,Loss,1,Neutral,Notre Dame,2
+1123,20172018,Minnesota-Duluth,Win,2,Neutral,Air Force,1
+1123,20172018,Air Force,Loss,1,Neutral,Minnesota-Duluth,2
+1124,20172018,Denver,Win,5,Neutral,Penn State,1
+1124,20172018,Penn State,Loss,1,Neutral,Denver,5
+1125,20172018,Ohio State,Win,4,Neutral,Princeton,2
+1125,20172018,Princeton,Loss,2,Neutral,Ohio State,4
+1126,20172018,Cornell,Loss,1,Neutral,Boston University,3
+1126,20172018,Boston University,Win,3,Neutral,Cornell,1
+1127,20172018,Michigan,Win,3,Neutral,Northeastern,2
+1127,20172018,Northeastern,Loss,2,Neutral,Michigan,3
+1128,20172018,Ohio State,Win,5,Neutral,Denver,1
+1128,20172018,Denver,Loss,1,Neutral,Ohio State,5
+1129,20172018,Michigan,Win,6,Neutral,Boston University,3
+1129,20172018,Boston University,Loss,3,Neutral,Michigan,6
+1130,20172018,Notre Dame,Win,4,Neutral,Michigan,3
+1130,20172018,Michigan,Loss,3,Neutral,Notre Dame,4
+1131,20172018,Ohio State,Loss,1,Neutral,Minnesota-Duluth,2
+1131,20172018,Minnesota-Duluth,Win,2,Neutral,Ohio State,1
+1132,20172018,Notre Dame,Loss,1,Neutral,Minnesota-Duluth,2
+1132,20172018,Minnesota-Duluth,Win,2,Neutral,Notre Dame,1

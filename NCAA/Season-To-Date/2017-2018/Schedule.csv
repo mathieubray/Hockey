@@ -1,0 +1,1133 @@
+Season,Away,AwayScore,at,Home,HomeScore,OT,Notes,Date,GameType,HomeWin,AwayWin,Tournament,ConfTournament,NCAA,HomeConference,AwayConference
+20172018,Union,1,@,Boston University,4,NA,NA,2017-09-30,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20172018,Niagara,1,@,Colgate,5,NA,NA,2017-09-30,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Michigan Tech,2,@,Wisconsin,3,NA,NA,2017-10-01,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Army,5,@,American International,1,NA,NA,2017-10-06,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,3,@,Niagara,4,OT,NA,2017-10-06,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Ohio State,3,@,Wisconsin,2,NA,NA,2017-10-06,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Connecticut,3,@,Maine,4,OT,NA,2017-10-06,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,4,@,Massachusetts-Lowell,3,NA,NA,2017-10-06,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,3,@,Arizona State,5,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,Independent,Hockey East
+20172018,Quinnipiac,1,@,Boston College,1,OT,NA,2017-10-06,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20172018,Penn State,1,@,Clarkson,2,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,ECAC,Big Ten
+20172018,Merrimack,1,@,Colgate,2,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20172018,Northern Michigan,3,@,Lake Superior,5,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Providence,3,@,Miami,1,NA,NA,2017-10-06,NC,Loss,Win,No,No,No,NCHC,Hockey East
+20172018,Alabama-Huntsville,3,@,Notre Dame,5,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Sacred Heart,3,@,Northeastern,7,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Michigan,3,@,St. Lawrence,1,NA,NA,2017-10-06,NC,Loss,Win,No,No,No,ECAC,Big Ten
+20172018,North Dakota,1,@,Alaska-Anchorage,1,OT,NA,2017-10-06,NC,Tie,Tie,No,No,No,WCHA,NCHC
+20172018,Air Force,3,@,Alaska,2,NA,NA,2017-10-06,NC,Loss,Win,No,No,No,WCHA,Atlantic Hockey
+20172018,Colorado College,0,@,Vermont,3,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20172018,Ferris State,1,@,Western Michigan,6,NA,NA,2017-10-06,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Union,3,vs.,Michigan Tech,6,NA,IceBreaker,2017-10-06,NC,Win,Loss,Yes,No,No,WCHA,ECAC
+20172018,Minnesota,3,@,Minnesota-Duluth,4,OT,IceBreaker,2017-10-06,NC,Win,Loss,Yes,No,No,NCHC,Big Ten
+20172018,Army,2,@,American International,1,NA,NA,2017-10-07,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Ohio State,2,@,Wisconsin,3,NA,NA,2017-10-07,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Connecticut,5,@,Maine,1,NA,NA,2017-10-07,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,1,@,New Hampshire,3,NA,NA,2017-10-07,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,4,@,Arizona State,2,NA,NA,2017-10-07,NC,Loss,Win,No,No,No,Independent,Hockey East
+20172018,Michigan,0,@,Clarkson,3,NA,NA,2017-10-07,NC,Win,Loss,No,No,No,ECAC,Big Ten
+20172018,Merrimack,2,@,Colgate,2,OT,NA,2017-10-07,NC,Tie,Tie,No,No,No,ECAC,Hockey East
+20172018,Western Michigan,2,@,Ferris State,3,NA,NA,2017-10-07,NC,Win,Loss,No,No,No,WCHA,NCHC
+20172018,St. Cloud State,4,@,Minnesota State,0,NA,NA,2017-10-07,NC,Loss,Win,No,No,No,WCHA,NCHC
+20172018,Providence,3,@,Miami,2,NA,NA,2017-10-07,NC,Loss,Win,No,No,No,NCHC,Hockey East
+20172018,Alabama-Huntsville,0,@,Notre Dame,4,NA,NA,2017-10-07,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Lake Superior,1,@,Northern Michigan,4,NA,NA,2017-10-07,NC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Sacred Heart,0,@,Northeastern,7,NA,NA,2017-10-07,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Penn State,4,@,St. Lawrence,1,NA,NA,2017-10-07,NC,Loss,Win,No,No,No,ECAC,Big Ten
+20172018,North Dakota,3,@,Alaska-Anchorage,2,OT,NA,2017-10-07,NC,Loss,Win,No,No,No,WCHA,NCHC
+20172018,Air Force,1,@,Alaska,1,OT,NA,2017-10-07,NC,Tie,Tie,No,No,No,WCHA,Atlantic Hockey
+20172018,Colorado College,4,@,Vermont,3,NA,NA,2017-10-07,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,Michigan Tech,4,@,Minnesota-Duluth,3,NA,IceBreaker,2017-10-07,NC,Loss,Win,Yes,No,No,NCHC,WCHA
+20172018,Union,0,vs.,Minnesota,2,NA,IceBreaker,2017-10-07,NC,Win,Loss,Yes,No,No,Big Ten,ECAC
+20172018,Boston University,3,@,Quinnipiac,2,OT,NA,2017-10-08,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,American International,3,@,Bentley,3,OT,NA,2017-10-10,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bowling Green,1,@,Western Michigan,3,NA,NA,2017-10-10,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Robert Morris,4,@,Canisius,3,NA,NA,2017-10-13,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,1,@,Holy Cross,1,OT,NA,2017-10-13,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Penn State,3,@,Minnesota,1,NA,NA,2017-10-13,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Northern Michigan,3,@,Ferris State,2,NA,NA,2017-10-13,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,4,@,Lake Superior,3,NA,NA,2017-10-13,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Arizona State,3,@,Air Force,4,NA,NA,2017-10-13,NC,Win,Loss,No,No,No,Atlantic Hockey,Independent
+20172018,Connecticut,6,@,American International,4,NA,NA,2017-10-13,NC,Loss,Win,No,No,No,Atlantic Hockey,Hockey East
+20172018,Wisconsin,5,@,Boston College,2,NA,NA,2017-10-13,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20172018,Michigan State,1,@,Bowling Green,4,NA,NA,2017-10-13,NC,Win,Loss,No,No,No,WCHA,Big Ten
+20172018,Minnesota-Duluth,2,@,Bemidji State,5,NA,NA,2017-10-13,NC,Win,Loss,No,No,No,WCHA,NCHC
+20172018,Minnesota State,6,@,Boston University,3,NA,NA,2017-10-13,NC,Loss,Win,No,No,No,Hockey East,WCHA
+20172018,Alaska-Anchorage,1,@,Colorado College,6,NA,NA,2017-10-13,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Denver,2,@,Notre Dame,2,OT,NA,2017-10-13,NC,Tie,Tie,No,No,No,Big Ten,NCHC
+20172018,Rensselaer,1,@,Ohio State,1,OT,NA,2017-10-13,NC,Tie,Tie,No,No,No,Big Ten,ECAC
+20172018,Alaska,3,@,St. Cloud State,6,NA,NA,2017-10-13,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Massachusetts,5,@,Union,4,NA,NA,2017-10-13,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Nebraska-Omaha,4,@,Massachusetts-Lowell,2,NA,NA,2017-10-13,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,St. Lawrence,1,@,North Dakota,2,NA,NA,2017-10-13,NC,Win,Loss,No,No,No,NCHC,ECAC
+20172018,Colgate,0,@,New Hampshire,5,NA,NA,2017-10-13,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20172018,Clarkson,2,@,Western Michigan,2,OT,NA,2017-10-13,NC,Tie,Tie,No,No,No,NCHC,ECAC
+20172018,Robert Morris,1,@,Canisius,4,NA,NA,2017-10-14,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,4,@,Holy Cross,4,OT,NA,2017-10-14,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Northern Michigan,1,@,Ferris State,0,NA,NA,2017-10-14,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,2,@,Lake Superior,2,OT,NA,2017-10-14,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Arizona State,2,@,Air Force,3,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,Atlantic Hockey,Independent
+20172018,Minnesota State,3,@,Boston University,0,NA,NA,2017-10-14,NC,Loss,Win,No,No,No,Hockey East,WCHA
+20172018,Alaska-Anchorage,2,@,Colorado College,3,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Wisconsin,4,@,Merrimack,1,NA,NA,2017-10-14,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20172018,Bowling Green,2,@,Michigan State,3,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Denver,4,@,Notre Dame,2,NA,NA,2017-10-14,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20172018,Rensselaer,1,@,Ohio State,1,OT,NA,2017-10-14,NC,Tie,Tie,No,No,No,Big Ten,ECAC
+20172018,Vermont,2,@,Quinnipiac,3,OT,NA,2017-10-14,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20172018,Northeastern,3,@,RIT,3,OT,NA,2017-10-14,NC,Tie,Tie,No,No,No,Atlantic Hockey,Hockey East
+20172018,Alaska,4,@,St. Cloud State,5,OT,NA,2017-10-14,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Connecticut,1,@,Sacred Heart,3,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,Atlantic Hockey,Hockey East
+20172018,American International,1,@,Massachusetts,3,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Bemidji State,0,@,Minnesota-Duluth,0,OT,NA,2017-10-14,NC,Tie,Tie,No,No,No,NCHC,WCHA
+20172018,Nebraska-Omaha,2,@,Massachusetts-Lowell,5,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20172018,St. Lawrence,1,@,North Dakota,6,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,NCHC,ECAC
+20172018,Colgate,3,@,New Hampshire,5,NA,NA,2017-10-14,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20172018,Clarkson,4,@,Western Michigan,2,NA,NA,2017-10-14,NC,Loss,Win,No,No,No,NCHC,ECAC
+20172018,Penn State,3,@,Minnesota,6,NA,NA,2017-10-15,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Boston College,4,@,Providence,3,OT,NA,2017-10-15,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Vermont,3,@,Union,2,NA,NA,2017-10-15,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Sacred Heart,6,@,Notre Dame,4,NA,NA,2017-10-19,NC,Loss,Win,No,No,No,Big Ten,Atlantic Hockey
+20172018,American International,5,@,Penn State,7,NA,NA,2017-10-19,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,Bentley,3,@,Holy Cross,4,OT,NA,2017-10-20,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,2,@,Robert Morris,4,NA,NA,2017-10-20,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Connecticut,2,@,Boston University,2,OT,NA,2017-10-20,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Minnesota State,4,@,Bowling Green,1,NA,NA,2017-10-20,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,4,@,Michigan Tech,5,NA,NA,2017-10-20,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Air Force,1,@,Bemidji State,4,NA,NA,2017-10-20,NC,Win,Loss,No,No,No,WCHA,Atlantic Hockey
+20172018,Massachusetts-Lowell,3,@,Clarkson,1,NA,NA,2017-10-20,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Lake Superior,3,@,Denver,3,OT,NA,2017-10-20,NC,Tie,Tie,No,No,No,NCHC,WCHA
+20172018,Miami,7,@,Maine,5,NA,NA,2017-10-20,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,Ferris State,3,@,Mercyhurst,2,NA,NA,2017-10-20,NC,Loss,Win,No,No,No,Atlantic Hockey,WCHA
+20172018,Western Michigan,4,@,Michigan State,6,NA,NA,2017-10-20,NC,Win,Loss,No,No,No,Big Ten,NCHC
+20172018,Sacred Heart,1,@,Notre Dame,3,NA,NA,2017-10-20,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,Rensselaer,3,@,Niagara,4,OT,NA,2017-10-20,NC,Win,Loss,No,No,No,Atlantic Hockey,ECAC
+20172018,Wisconsin,4,vs.,Northern Michigan,5,OT,NA,2017-10-20,NC,Win,Loss,No,No,No,WCHA,Big Ten
+20172018,Quinnipiac,6,@,Northeastern,4,NA,NA,2017-10-20,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20172018,American International,3,@,Penn State,2,OT,NA,2017-10-20,NC,Loss,Win,No,No,No,Big Ten,Atlantic Hockey
+20172018,Union,6,@,RIT,1,NA,NA,2017-10-20,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20172018,Boston College,2,@,St. Cloud State,5,NA,NA,2017-10-20,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20172018,Providence,6,@,St. Lawrence,5,OT,NA,2017-10-20,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Vermont,1,@,Michigan,4,NA,NA,2017-10-20,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20172018,Ohio State,3,@,Massachusetts,1,NA,NA,2017-10-20,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20172018,Merrimack,5,@,Minnesota-Duluth,5,OT,NA,2017-10-20,NC,Tie,Tie,No,No,No,NCHC,Hockey East
+20172018,Minnesota,2,@,North Dakota,1,NA,NA,2017-10-20,NC,Loss,Win,No,No,No,NCHC,Big Ten
+20172018,Colorado College,3,@,New Hampshire,6,NA,NA,2017-10-20,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20172018,Arizona State,1,@,Nebraska-Omaha,5,NA,NA,2017-10-20,NC,Win,Loss,No,No,No,NCHC,Independent
+20172018,Alaska,6,@,Alaska-Anchorage,2,NA,Governor's Cup,2017-10-20,NC,Loss,Win,Yes,No,No,WCHA,WCHA
+20172018,Bentley,0,@,Holy Cross,5,NA,NA,2017-10-21,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,3,@,Robert Morris,1,NA,NA,2017-10-21,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Boston University,6,@,Connecticut,3,NA,NA,2017-10-21,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Minnesota State,2,@,Bowling Green,5,NA,NA,2017-10-21,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,4,@,Michigan Tech,2,NA,NA,2017-10-21,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Air Force,5,@,Bemidji State,1,NA,NA,2017-10-21,NC,Loss,Win,No,No,No,WCHA,Atlantic Hockey
+20172018,Colgate,3,@,Canisius,3,OT,NA,2017-10-21,NC,Tie,Tie,No,No,No,Atlantic Hockey,ECAC
+20172018,Providence,0,@,Clarkson,4,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20172018,Lake Superior,1,@,Denver,5,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Miami,3,@,Maine,6,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,Hockey East,NCHC
+20172018,Ferris State,1,@,Mercyhurst,4,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,Atlantic Hockey,WCHA
+20172018,Union,5,@,Niagara,1,NA,NA,2017-10-21,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20172018,Wisconsin,4,vs.,Northern Michigan,0,NA,NA,2017-10-21,NC,Loss,Win,No,No,No,WCHA,Big Ten
+20172018,Quinnipiac,3,@,Northeastern,2,OT,NA,2017-10-21,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20172018,Rensselaer,8,@,RIT,3,NA,NA,2017-10-21,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20172018,Boston College,1,@,St. Cloud State,3,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20172018,Massachusetts-Lowell,5,@,St. Lawrence,0,NA,NA,2017-10-21,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Vermont,2,@,Michigan,3,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,Big Ten,Hockey East
+20172018,Ohio State,3,@,Massachusetts,0,NA,NA,2017-10-21,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20172018,Merrimack,2,@,Minnesota-Duluth,7,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20172018,Minnesota,0,@,North Dakota,4,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20172018,Colorado College,2,@,New Hampshire,1,OT,NA,2017-10-21,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,Arizona State,4,@,Nebraska-Omaha,4,OT,NA,2017-10-21,NC,Tie,Tie,No,No,No,NCHC,Independent
+20172018,Michigan State,1,@,Western Michigan,3,NA,NA,2017-10-21,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20172018,Alaska-Anchorage,2,@,Alaska,3,NA,Governor's Cup,2017-10-21,NC,Win,Loss,Yes,No,No,WCHA,WCHA
+20172018,Bentley,2,@,American International,2,OT,NA,2017-10-24,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Nebraska-Omaha,6,@,Notre Dame,4,NA,NA,2017-10-26,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20172018,RIT,5,@,Army,4,NA,NA,2017-10-27,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,3,@,Bentley,4,NA,NA,2017-10-27,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,3,@,Canisius,1,NA,NA,2017-10-27,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,3,@,Sacred Heart,2,NA,NA,2017-10-27,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,4,@,Penn State,5,OT,NA,2017-10-27,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Rensselaer,3,@,Union,4,NA,NA,2017-10-27,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Brown,4,@,Yale,1,NA,NA,2017-10-27,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Boston College,1,@,Providence,2,NA,NA,2017-10-27,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Merrimack,0,@,Massachusetts,4,NA,NA,2017-10-27,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,3,@,Massachusetts-Lowell,1,NA,NA,2017-10-27,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,North Dakota,1,@,Colorado College,2,NA,NA,2017-10-27,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Alaska,1,@,Bowling Green,2,NA,NA,2017-10-27,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Ferris State,2,@,Bemidji State,2,OT,NA,2017-10-27,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,1,@,Minnesota State,3,NA,NA,2017-10-27,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Denver,4,@,Boston University,3,NA,NA,2017-10-27,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,Arizona State,0,@,Colgate,3,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,ECAC,Independent
+20172018,Alabama-Huntsville,1,@,Cornell,5,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,ECAC,WCHA
+20172018,Dartmouth,3,@,Holy Cross,5,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,Atlantic Hockey,ECAC
+20172018,Minnesota-Duluth,2,@,Maine,1,NA,NA,2017-10-27,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,Lake Superior,3,@,Michigan State,4,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Connecticut,0,@,Miami,3,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20172018,Nebraska-Omaha,4,@,Notre Dame,5,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,Big Ten,NCHC
+20172018,Robert Morris,3,@,Ohio State,5,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,Clarkson,1,@,Minnesota,3,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20172018,St. Lawrence,2,@,Wisconsin,4,NA,NA,2017-10-27,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20172018,RIT,3,@,Army,1,NA,NA,2017-10-28,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,2,@,Bentley,0,NA,NA,2017-10-28,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,2,@,Canisius,3,NA,NA,2017-10-28,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,6,@,Sacred Heart,2,NA,NA,2017-10-28,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,5,@,Penn State,2,NA,NA,2017-10-28,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Yale,5,@,Brown,2,NA,NA,2017-10-28,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Union,4,@,Rensselaer,2,NA,NA,2017-10-28,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Massachusetts,3,@,Merrimack,5,NA,NA,2017-10-28,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,4,@,Northeastern,5,OT,NA,2017-10-28,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Boston University,0,@,Providence,3,NA,NA,2017-10-28,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,4,@,Vermont,4,OT,NA,2017-10-28,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,North Dakota,6,@,Colorado College,4,NA,NA,2017-10-28,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Alaska,2,@,Bowling Green,2,OT,NA,2017-10-28,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Ferris State,0,@,Bemidji State,3,NA,NA,2017-10-28,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,3,@,Minnesota State,5,NA,NA,2017-10-28,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Denver,6,@,Boston College,1,NA,NA,2017-10-28,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,Arizona State,1,@,Colgate,1,OT,NA,2017-10-28,NC,Tie,Tie,No,No,No,ECAC,Independent
+20172018,Alabama-Huntsville,0,@,Cornell,3,NA,NA,2017-10-28,NC,Win,Loss,No,No,No,ECAC,WCHA
+20172018,Minnesota-Duluth,2,@,Maine,0,NA,NA,2017-10-28,NC,Loss,Win,No,No,No,Hockey East,NCHC
+20172018,Lake Superior,0,@,Michigan State,6,NA,NA,2017-10-28,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Connecticut,1,@,Miami,7,NA,NA,2017-10-28,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20172018,Ohio State,3,@,Robert Morris,1,NA,NA,2017-10-28,NC,Loss,Win,No,No,No,Atlantic Hockey,Big Ten
+20172018,Clarkson,1,@,Minnesota,2,NA,NA,2017-10-28,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20172018,St. Lawrence,6,@,Wisconsin,3,NA,NA,2017-10-28,NC,Loss,Win,No,No,No,Big Ten,ECAC
+20172018,Dartmouth,0,@,Harvard,5,NA,NA,2017-10-29,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Holy Cross,2,@,Princeton,4,NA,NA,2017-10-29,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Ferris State,2,@,Michigan,7,NA,NA,2017-11-02,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Army,3,@,Air Force,2,NA,NA,2017-11-03,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,3,@,Niagara,3,OT,NA,2017-11-03,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,3,@,RIT,5,NA,NA,2017-11-03,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,5,@,Robert Morris,5,OT,NA,2017-11-03,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Notre Dame,4,@,Ohio State,1,NA,NA,2017-11-03,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Michigan State,1,@,Minnesota,3,NA,NA,2017-11-03,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Rensselaer,0,@,Clarkson,6,NA,NA,2017-11-03,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Brown,3,@,Dartmouth,4,NA,NA,2017-11-03,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Yale,5,@,Harvard,2,NA,NA,2017-11-03,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Colgate,0,@,Princeton,0,OT,NA,2017-11-03,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Cornell,2,@,Quinnipiac,1,NA,NA,2017-11-03,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Union,3,@,St. Lawrence,1,NA,NA,2017-11-03,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Merrimack,1,@,Boston College,3,NA,NA,2017-11-03,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Providence,0,@,Boston University,2,NA,NA,2017-11-03,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Vermont,1,@,Connecticut,5,NA,NA,2017-11-03,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Maine,2,@,Massachusetts-Lowell,3,NA,NA,2017-11-03,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Colorado College,2,@,Miami,3,OT,NA,2017-11-03,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,3,@,St. Cloud State,5,NA,NA,2017-11-03,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Denver,5,@,Western Michigan,6,NA,NA,2017-11-03,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Alaska-Anchorage,2,@,Lake Superior,3,OT,NA,2017-11-03,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bowling Green,2,@,Michigan Tech,1,NA,NA,2017-11-03,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Minnesota State,3,@,Northern Michigan,0,NA,NA,2017-11-03,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bemidji State,3,@,Alaska,4,OT,NA,2017-11-03,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,2,@,Arizona State,3,NA,NA,2017-11-03,NC,Win,Loss,No,No,No,Independent,WCHA
+20172018,Mercyhurst,7,@,Penn State,4,NA,NA,2017-11-03,NC,Loss,Win,No,No,No,Big Ten,Atlantic Hockey
+20172018,Ferris State,3,@,Michigan,2,OT,NA,2017-11-03,NC,Loss,Win,No,No,No,Big Ten,WCHA
+20172018,North Dakota,3,@,Wisconsin,2,NA,NA,2017-11-03,NC,Loss,Win,No,No,No,Big Ten,NCHC
+20172018,Army,2,@,Air Force,0,NA,NA,2017-11-04,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,3,@,Niagara,4,NA,NA,2017-11-04,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,3,@,RIT,2,OT,NA,2017-11-04,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,0,@,Robert Morris,3,NA,NA,2017-11-04,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,2,@,Sacred Heart,6,NA,NA,2017-11-04,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Notre Dame,3,@,Ohio State,2,NA,NA,2017-11-04,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Michigan State,0,@,Minnesota,4,NA,NA,2017-11-04,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Union,2,@,Clarkson,3,NA,NA,2017-11-04,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Yale,1,@,Dartmouth,3,NA,NA,2017-11-04,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Brown,0,@,Harvard,3,NA,NA,2017-11-04,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Cornell,5,@,Princeton,4,NA,NA,2017-11-04,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Colgate,4,@,Quinnipiac,1,NA,NA,2017-11-04,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Rensselaer,4,@,St. Lawrence,4,OT,NA,2017-11-04,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Northeastern,4,@,Boston University,1,NA,NA,2017-11-04,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Boston College,2,@,Merrimack,1,NA,NA,2017-11-04,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Vermont,4,@,Connecticut,2,NA,NA,2017-11-04,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,3,@,Massachusetts,0,NA,NA,2017-11-04,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Maine,6,@,Massachusetts-Lowell,2,NA,NA,2017-11-04,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Colorado College,2,@,Miami,1,NA,NA,2017-11-04,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,0,@,St. Cloud State,5,NA,NA,2017-11-04,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Denver,4,@,Western Michigan,7,NA,NA,2017-11-04,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Alaska-Anchorage,4,@,Lake Superior,1,NA,NA,2017-11-04,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bowling Green,2,@,Michigan Tech,2,OT,NA,2017-11-04,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Minnesota State,1,@,Northern Michigan,4,NA,NA,2017-11-04,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bemidji State,3,@,Alaska,2,NA,NA,2017-11-04,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,3,@,Arizona State,1,NA,NA,2017-11-04,NC,Loss,Win,No,No,No,Independent,WCHA
+20172018,Mercyhurst,5,@,Penn State,7,NA,NA,2017-11-04,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,North Dakota,2,@,Wisconsin,2,OT,NA,2017-11-04,NC,Tie,Tie,No,No,No,Big Ten,NCHC
+20172018,Canisius,3,@,Sacred Heart,2,NA,NA,2017-11-05,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Connecticut,1,@,Boston College,2,NA,NA,2017-11-07,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Providence,2,@,Massachusetts,5,NA,NA,2017-11-09,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Sacred Heart,2,@,American International,6,NA,NA,2017-11-10,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,0,@,Holy Cross,3,NA,NA,2017-11-10,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,3,@,Mercyhurst,4,OT,NA,2017-11-10,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,3,@,Niagara,1,NA,NA,2017-11-10,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,3,@,RIT,5,NA,NA,2017-11-10,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Wisconsin,6,@,Michigan State,3,NA,NA,2017-11-10,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Penn State,3,@,Notre Dame,5,NA,NA,2017-11-10,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Minnesota,4,@,Michigan,5,OT,NA,2017-11-10,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Clarkson,5,@,Brown,3,NA,NA,2017-11-10,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Harvard,1,@,Colgate,2,NA,NA,2017-11-10,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Dartmouth,0,@,Cornell,3,NA,NA,2017-11-10,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,3,@,Rensselaer,5,NA,NA,2017-11-10,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Princeton,3,@,Union,4,OT,NA,2017-11-10,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,1,@,Yale,6,NA,NA,2017-11-10,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Boston University,1,@,Northeastern,6,NA,NA,2017-11-10,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,2,@,New Hampshire,1,NA,NA,2017-11-10,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Boston College,4,@,Vermont,3,NA,NA,2017-11-10,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Nebraska-Omaha,5,@,Colorado College,3,NA,NA,2017-11-10,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,2,@,Denver,4,NA,NA,2017-11-10,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Western Michigan,0,@,Minnesota-Duluth,3,NA,NA,2017-11-10,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Miami,1,@,North Dakota,4,NA,NA,2017-11-10,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Lake Superior,2,@,Bowling Green,2,OT,NA,2017-11-10,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Minnesota State,5,@,Bemidji State,2,NA,NA,2017-11-10,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska,1,@,Ferris State,3,NA,NA,2017-11-10,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,1,@,Michigan Tech,4,NA,NA,2017-11-10,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,1,@,Alabama-Huntsville,5,NA,NA,2017-11-10,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bentley,2,@,Merrimack,5,NA,NA,2017-11-10,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Ohio State,5,@,Connecticut,4,NA,NA,2017-11-10,NC,Loss,Win,No,No,No,Hockey East,Big Ten
+20172018,Sacred Heart,1,@,American International,4,NA,NA,2017-11-11,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,3,@,Holy Cross,3,OT,NA,2017-11-11,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,7,@,Mercyhurst,3,NA,NA,2017-11-11,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,2,@,Niagara,3,NA,NA,2017-11-11,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,2,@,RIT,5,NA,NA,2017-11-11,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Wisconsin,0,@,Michigan State,2,NA,NA,2017-11-11,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Penn State,0,@,Notre Dame,1,NA,NA,2017-11-11,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Minnesota,6,@,Michigan,6,OT,"Minnesota wins shootout, 2-1 (3 rounds)",2017-11-11,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,St. Lawrence,1,@,Brown,3,NA,NA,2017-11-11,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Dartmouth,2,@,Colgate,3,NA,NA,2017-11-11,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Harvard,2,@,Cornell,3,NA,NA,2017-11-11,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Princeton,6,@,Rensselaer,2,NA,NA,2017-11-11,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,1,@,Union,4,NA,NA,2017-11-11,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Clarkson,4,@,Yale,1,NA,NA,2017-11-11,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,New Hampshire,0,@,Boston University,4,NA,NA,2017-11-11,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,2,@,Providence,7,NA,NA,2017-11-11,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,2,@,Massachusetts-Lowell,4,NA,NA,2017-11-11,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Boston College,5,@,Vermont,1,NA,NA,2017-11-11,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Nebraska-Omaha,0,@,Colorado College,4,NA,NA,2017-11-11,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,1,@,Denver,5,NA,NA,2017-11-11,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Western Michigan,5,@,Minnesota-Duluth,0,NA,NA,2017-11-11,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Miami,3,@,North Dakota,3,OT,"North Dakota wins shootout, 1-0 (4 rounds)",2017-11-11,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Lake Superior,2,@,Bowling Green,5,NA,NA,2017-11-11,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Minnesota State,8,@,Bemidji State,6,NA,NA,2017-11-11,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska,3,@,Ferris State,5,NA,NA,2017-11-11,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,0,@,Northern Michigan,4,NA,NA,2017-11-11,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,3,@,Alabama-Huntsville,3,OT,NA,2017-11-11,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Ohio State,1,@,Connecticut,1,OT,NA,2017-11-11,NC,Tie,Tie,No,No,No,Hockey East,Big Ten
+20172018,RIT,3,@,Air Force,4,NA,NA,2017-11-17,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,2,@,Army,2,OT,NA,2017-11-17,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,1,@,Canisius,5,NA,NA,2017-11-17,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,1,@,Robert Morris,3,NA,NA,2017-11-17,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,3,@,Wisconsin,7,NA,NA,2017-11-17,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Clarkson,5,@,Colgate,2,NA,NA,2017-11-17,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,1,@,Cornell,6,NA,NA,2017-11-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Yale,4,@,Princeton,5,NA,NA,2017-11-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Brown,0,@,Quinnipiac,5,NA,NA,2017-11-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Boston University,2,@,Maine,5,NA,NA,2017-11-17,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Vermont,1,@,Northeastern,2,NA,NA,2017-11-17,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Merrimack,1,@,Providence,2,NA,NA,2017-11-17,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Connecticut,2,@,Massachusetts-Lowell,5,NA,NA,2017-11-17,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Boston College,3,@,New Hampshire,2,NA,NA,2017-11-17,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,North Dakota,5,@,Denver,4,NA,NA,2017-11-17,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,3,@,Miami,1,NA,NA,2017-11-17,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Colorado College,1,@,St. Cloud State,6,NA,NA,2017-11-17,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,1,@,Western Michigan,4,NA,NA,2017-11-17,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Bowling Green,1,@,Minnesota State,6,NA,NA,2017-11-17,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,1,@,Alaska-Anchorage,1,OT,NA,2017-11-17,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,5,@,Alaska,3,NA,NA,2017-11-17,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Lake Superior,3,@,Alabama-Huntsville,1,NA,NA,2017-11-17,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Penn State,7,@,Arizona State,0,NA,NA,2017-11-17,NC,Loss,Win,No,No,No,Independent,Big Ten
+20172018,Ferris State,2,@,Michigan State,3,OT,NA,2017-11-17,NC,Win,Loss,No,No,No,Big Ten,WCHA
+20172018,Notre Dame,4,@,Rensselaer,1,NA,NA,2017-11-17,NC,Loss,Win,No,No,No,ECAC,Big Ten
+20172018,Harvard,2,@,Minnesota,4,NA,NA,2017-11-17,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20172018,RIT,3,@,Air Force,2,NA,NA,2017-11-18,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,4,@,Army,0,NA,NA,2017-11-18,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,2,@,Canisius,5,NA,NA,2017-11-18,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,0,@,Robert Morris,4,NA,NA,2017-11-18,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,4,@,Wisconsin,4,OT,"Michigan wins shootout, 1-0",2017-11-18,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,St. Lawrence,1,@,Colgate,3,NA,NA,2017-11-18,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Clarkson,4,@,Cornell,0,NA,NA,2017-11-18,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Brown,3,@,Princeton,0,NA,NA,2017-11-18,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Yale,0,@,Quinnipiac,3,NA,NA,2017-11-18,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Providence,6,@,Merrimack,6,OT,NA,2017-11-18,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Boston University,7,@,Maine,0,NA,NA,2017-11-18,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Boston College,4,@,Northeastern,1,NA,NA,2017-11-18,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,1,@,Connecticut,0,NA,NA,2017-11-18,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,North Dakota,1,@,Denver,4,NA,NA,2017-11-18,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,2,@,Miami,3,NA,NA,2017-11-18,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Colorado College,1,@,St. Cloud State,5,NA,NA,2017-11-18,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,2,@,Western Michigan,5,NA,NA,2017-11-18,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Bowling Green,4,@,Minnesota State,1,NA,NA,2017-11-18,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,3,@,Alaska-Anchorage,3,OT,NA,2017-11-18,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,1,@,Alaska,4,NA,NA,2017-11-18,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,3,@,Alabama-Huntsville,5,NA,NA,2017-11-18,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Penn State,4,@,Arizona State,2,NA,NA,2017-11-18,NC,Loss,Win,No,No,No,Independent,Big Ten
+20172018,Michigan State,3,@,Ferris State,1,NA,NA,2017-11-18,NC,Loss,Win,No,No,No,WCHA,Big Ten
+20172018,Notre Dame,1,@,Rensselaer,0,OT,NA,2017-11-18,NC,Loss,Win,No,No,No,ECAC,Big Ten
+20172018,Harvard,1,@,Minnesota,2,OT,NA,2017-11-18,NC,Win,Loss,No,No,No,Big Ten,ECAC
+20172018,Army,5,@,Sacred Heart,5,OT,NA,2017-11-21,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Connecticut,4,@,Vermont,1,NA,NA,2017-11-21,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Holy Cross,2,@,Brown,4,NA,NA,2017-11-21,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Niagara,4,@,Cornell,5,NA,NA,2017-11-21,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Bemidji State,5,@,Princeton,3,NA,NA,2017-11-22,NC,Loss,Win,No,No,No,ECAC,WCHA
+20172018,Niagara,3,@,American International,1,NA,NA,2017-11-24,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,4,@,Army,3,OT,NA,2017-11-24,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,1,@,Bentley,3,NA,NA,2017-11-24,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Minnesota,0,@,Notre Dame,1,NA,NA,2017-11-24,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Michigan State,2,@,Penn State,7,NA,NA,2017-11-24,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Ohio State,3,@,Michigan,2,NA,NA,2017-11-24,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Maine,0,vs.,Providence,3,NA,Friendship Four,2017-11-24,HE,Win,Loss,Yes,No,No,Hockey East,Hockey East
+20172018,Michigan Tech,5,@,Alaska,4,OT,NA,2017-11-24,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Ferris State,6,@,Alabama-Huntsville,2,NA,NA,2017-11-24,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Harvard,4,@,Boston College,4,OT,NA,2017-11-24,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20172018,Miami,6,@,Bowling Green,3,NA,NA,2017-11-24,NC,Loss,Win,No,No,No,WCHA,NCHC
+20172018,Arizona State,3,@,Holy Cross,1,NA,NA,2017-11-24,NC,Loss,Win,No,No,No,Atlantic Hockey,Independent
+20172018,Bemidji State,1,@,Princeton,4,NA,NA,2017-11-24,NC,Win,Loss,No,No,No,ECAC,WCHA
+20172018,Massachusetts,2,@,Quinnipiac,1,NA,NA,2017-11-24,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Union,4,@,North Dakota,1,NA,NA,2017-11-24,NC,Loss,Win,No,No,No,NCHC,ECAC
+20172018,Northern Michigan,3,@,Nebraska-Omaha,4,NA,NA,2017-11-24,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Colgate,3,@,Western Michigan,5,NA,NA,2017-11-24,NC,Win,Loss,No,No,No,NCHC,ECAC
+20172018,Rensselaer,0,vs.,Clarkson,2,NA,Friendship Four,2017-11-24,NC,Win,Loss,Yes,No,No,ECAC,ECAC
+20172018,Niagara,1,@,American International,4,NA,NA,2017-11-25,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,3,@,Army,2,NA,NA,2017-11-25,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,3,@,Bentley,6,NA,NA,2017-11-25,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,3,@,Sacred Heart,3,OT,NA,2017-11-25,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Minnesota,2,@,Notre Dame,5,NA,NA,2017-11-25,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Michigan State,2,@,Penn State,2,OT,"Michigan State wins shootout, 2-1",2017-11-25,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,Ohio State,5,@,Michigan,1,NA,NA,2017-11-25,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Michigan Tech,5,@,Alaska,1,NA,NA,2017-11-25,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Ferris State,3,@,Alabama-Huntsville,5,NA,NA,2017-11-25,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Miami,2,@,Bowling Green,2,OT,NA,2017-11-25,NC,Tie,Tie,No,No,No,WCHA,NCHC
+20172018,Boston University,3,vs.,Cornell,4,NA,NA,2017-11-25,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20172018,Vermont,2,@,Dartmouth,1,OT,NA,2017-11-25,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Arizona State,3,@,Holy Cross,3,OT,NA,2017-11-25,NC,Tie,Tie,No,No,No,Atlantic Hockey,Independent
+20172018,RIT,1,@,Connecticut,2,NA,NA,2017-11-25,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Quinnipiac,3,@,Massachusetts,6,NA,NA,2017-11-25,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20172018,Minnesota State,1,@,Minnesota-Duluth,3,NA,NA,2017-11-25,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Union,2,@,North Dakota,2,OT,NA,2017-11-25,NC,Tie,Tie,No,No,No,NCHC,ECAC
+20172018,Northern Michigan,1,@,Nebraska-Omaha,4,NA,NA,2017-11-25,NC,Win,Loss,No,No,No,NCHC,WCHA
+20172018,Mercyhurst,3,@,Wisconsin,2,NA,NA,2017-11-25,NC,Loss,Win,No,No,No,Big Ten,Atlantic Hockey
+20172018,Colgate,5,@,Western Michigan,1,NA,NA,2017-11-25,NC,Loss,Win,No,No,No,NCHC,ECAC
+20172018,New Hampshire,4,@,Yale,0,NA,NA,2017-11-25,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Rensselaer,2,vs.,Maine,4,NA,Friendship Four,2017-11-25,NC,Win,Loss,Yes,No,No,Hockey East,ECAC
+20172018,Clarkson,4,vs.,Providence,2,NA,Friendship Four,2017-11-25,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20172018,Air Force,5,@,Sacred Heart,3,NA,NA,2017-11-26,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,2,@,Wisconsin,4,NA,NA,2017-11-26,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,Quinnipiac,6,@,Princeton,2,NA,NA,2017-11-28,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Northeastern,1,@,Connecticut,4,NA,NA,2017-11-28,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Bentley,3,@,Massachusetts-Lowell,2,OT,NA,2017-11-28,NC,Loss,Win,No,No,No,Hockey East,Atlantic Hockey
+20172018,Niagara,6,@,Air Force,3,NA,NA,2017-12-01,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,6,@,American International,2,NA,NA,2017-12-01,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,2,@,Mercyhurst,3,OT,NA,2017-12-01,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,4,@,RIT,2,NA,NA,2017-12-01,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Notre Dame,3,@,Michigan State,1,NA,NA,2017-12-01,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Penn State,5,@,Ohio State,5,OT,"Penn State wins shootout, 1-0",2017-12-01,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,4,@,Minnesota,5,NA,NA,2017-12-01,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Dartmouth,2,@,Princeton,9,NA,NA,2017-12-01,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Harvard,6,@,Quinnipiac,2,NA,NA,2017-12-01,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Yale,1,@,Rensselaer,2,NA,NA,2017-12-01,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Brown,1,@,Union,3,NA,NA,2017-12-01,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Boston University,7,@,Boston College,4,NA,NA,2017-12-01,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Vermont,2,@,Maine,2,OT,NA,2017-12-01,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Merrimack,1,@,Northeastern,3,NA,NA,2017-12-01,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,2,@,Providence,5,NA,NA,2017-12-01,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Connecticut,2,@,Massachusetts,4,NA,NA,2017-12-01,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Denver,1,@,Minnesota-Duluth,0,NA,NA,2017-12-01,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Western Michigan,3,@,North Dakota,4,NA,NA,2017-12-01,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,7,@,Nebraska-Omaha,4,NA,NA,2017-12-01,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Bemidji State,1,@,Bowling Green,3,NA,NA,2017-12-01,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,0,@,Ferris State,2,NA,NA,2017-12-01,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska,5,@,Lake Superior,3,NA,NA,2017-12-01,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,1,@,Northern Michigan,3,NA,NA,2017-12-01,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Cornell,1,@,Miami,2,NA,NA,2017-12-01,NC,Win,Loss,No,No,No,NCHC,ECAC
+20172018,Niagara,5,@,Air Force,2,NA,NA,2017-12-02,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,5,@,Mercyhurst,3,NA,NA,2017-12-02,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,3,@,RIT,5,NA,NA,2017-12-02,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Notre Dame,2,@,Michigan State,0,NA,NA,2017-12-02,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Penn State,4,@,Ohio State,0,NA,NA,2017-12-02,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,3,@,Minnesota,2,NA,NA,2017-12-02,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Harvard,5,@,Princeton,2,NA,NA,2017-12-02,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Dartmouth,0,@,Quinnipiac,0,OT,NA,2017-12-02,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Brown,5,@,Rensselaer,4,OT,NA,2017-12-02,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Yale,5,@,Union,3,NA,NA,2017-12-02,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Boston College,4,@,Boston University,1,NA,NA,2017-12-02,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,3,@,Merrimack,1,NA,NA,2017-12-02,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Vermont,2,@,Maine,6,NA,NA,2017-12-02,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Providence,0,@,New Hampshire,1,NA,NA,2017-12-02,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Denver,2,@,Minnesota-Duluth,1,NA,NA,2017-12-02,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Western Michigan,1,@,North Dakota,4,NA,NA,2017-12-02,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,5,@,Nebraska-Omaha,0,NA,NA,2017-12-02,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Bemidji State,3,@,Bowling Green,3,OT,NA,2017-12-02,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,2,@,Ferris State,5,NA,NA,2017-12-02,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska,1,@,Lake Superior,4,NA,NA,2017-12-02,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,3,@,Northern Michigan,2,NA,NA,2017-12-02,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Colgate,1,@,Army,3,NA,NA,2017-12-02,NC,Win,Loss,No,No,No,Atlantic Hockey,ECAC
+20172018,Clarkson,5,@,Canisius,1,NA,NA,2017-12-02,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20172018,Cornell,4,@,Miami,0,NA,NA,2017-12-02,NC,Loss,Win,No,No,No,NCHC,ECAC
+20172018,Massachusetts,2,@,Connecticut,8,NA,NA,2017-12-05,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Bentley,3,@,Brown,1,NA,NA,2017-12-06,NC,Loss,Win,No,No,No,ECAC,Atlantic Hockey
+20172018,New Hampshire,6,@,Rensselaer,3,NA,NA,2017-12-06,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Michigan State,0,@,Michigan,4,NA,NA,2017-12-07,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Mercyhurst,1,@,American International,3,NA,NA,2017-12-08,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,4,@,Niagara,2,NA,NA,2017-12-08,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,0,@,Michigan State,5,NA,NA,2017-12-08,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Minnesota,1,@,Ohio State,2,OT,NA,2017-12-08,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Notre Dame,3,@,Wisconsin,2,NA,NA,2017-12-08,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,St. Lawrence,1,@,Clarkson,3,NA,NA,2017-12-08,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Boston University,2,@,Massachusetts-Lowell,3,NA,NA,2017-12-08,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Colorado College,4,@,Denver,4,OT,NA,2017-12-08,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,North Dakota,2,@,St. Cloud State,2,OT,NA,2017-12-08,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,5,@,Nebraska-Omaha,7,NA,NA,2017-12-08,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Miami,5,@,Western Michigan,2,NA,NA,2017-12-08,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Alabama-Huntsville,3,@,Bowling Green,3,OT,NA,2017-12-08,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,1,@,Bemidji State,1,OT,NA,2017-12-08,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Minnesota State,5,@,Lake Superior,1,NA,NA,2017-12-08,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Ferris State,4,@,Michigan Tech,3,NA,NA,2017-12-08,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska,7,@,Alaska-Anchorage,2,NA,Governor's Cup,2017-12-08,WC,Loss,Win,Yes,No,No,WCHA,WCHA
+20172018,Princeton,4,@,Arizona State,0,NA,NA,2017-12-08,NC,Loss,Win,No,No,No,Independent,ECAC
+20172018,Army,1,@,Merrimack,4,NA,NA,2017-12-08,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,RIT,3,@,Providence,8,NA,NA,2017-12-08,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Maine,7,@,Quinnipiac,4,NA,NA,2017-12-08,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Penn State,5,@,Robert Morris,2,NA,NA,2017-12-08,NC,Loss,Win,No,No,No,Atlantic Hockey,Big Ten
+20172018,Colgate,2,@,Connecticut,4,NA,NA,2017-12-08,NC,Win,Loss,No,No,No,Hockey East,ECAC
+20172018,Mercyhurst,4,@,American International,2,NA,NA,2017-12-09,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,2,@,Canisius,8,NA,NA,2017-12-09,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Minnesota,1,@,Ohio State,4,NA,NA,2017-12-09,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Notre Dame,6,@,Wisconsin,2,NA,NA,2017-12-09,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Clarkson,4,@,St. Lawrence,2,NA,NA,2017-12-09,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Northeastern,5,@,Boston College,2,NA,NA,2017-12-09,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,3,@,Boston University,9,NA,NA,2017-12-09,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Denver,1,@,Colorado College,1,OT,NA,2017-12-09,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,North Dakota,1,@,St. Cloud State,3,NA,NA,2017-12-09,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,6,@,Nebraska-Omaha,2,NA,NA,2017-12-09,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Miami,3,@,Western Michigan,4,OT,NA,2017-12-09,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Alabama-Huntsville,1,@,Bowling Green,3,NA,NA,2017-12-09,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,4,@,Bemidji State,4,OT,NA,2017-12-09,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Minnesota State,7,@,Lake Superior,0,NA,NA,2017-12-09,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Ferris State,1,@,Michigan Tech,5,NA,NA,2017-12-09,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska,3,@,Alaska-Anchorage,2,NA,Governor's Cup,2017-12-09,WC,Loss,Win,Yes,No,No,WCHA,WCHA
+20172018,Princeton,3,@,Arizona State,4,OT,NA,2017-12-09,NC,Win,Loss,No,No,No,Independent,ECAC
+20172018,Bentley,5,@,Dartmouth,1,NA,NA,2017-12-09,NC,Loss,Win,No,No,No,ECAC,Atlantic Hockey
+20172018,RIT,4,@,Providence,0,NA,NA,2017-12-09,NC,Loss,Win,No,No,No,Hockey East,Atlantic Hockey
+20172018,Robert Morris,4,@,Penn State,7,NA,NA,2017-12-09,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,Maine,5,@,Quinnipiac,3,NA,NA,2017-12-09,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Yale,2,@,Sacred Heart,1,NA,NA,2017-12-09,NC,Loss,Win,No,No,No,Atlantic Hockey,ECAC
+20172018,Holy Cross,2,@,Union,4,NA,NA,2017-12-09,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Army,4,@,New Hampshire,3,NA,NA,2017-12-09,NC,Loss,Win,No,No,No,Hockey East,Atlantic Hockey
+20172018,Brown,2,@,Vermont,2,OT,NA,2017-12-09,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20172018,Merrimack,4,@,New Hampshire,3,NA,NA,2017-12-10,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,2,@,Union,1,NA,NA,2017-12-10,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Alaska-Anchorage,1,@,Bemidji State,5,NA,NA,2017-12-15,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,1,@,Minnesota State,5,NA,NA,2017-12-15,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,0,@,Michigan Tech,3,NA,NA,2017-12-15,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Ferris State,1,@,Northern Michigan,6,NA,NA,2017-12-15,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Dartmouth,0,@,Denver,1,NA,NA,2017-12-15,NC,Win,Loss,No,No,No,NCHC,ECAC
+20172018,Mercyhurst,2,@,Robert Morris,5,NA,NA,2017-12-16,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Northeastern,1,@,Merrimack,1,OT,NA,2017-12-16,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Alaska-Anchorage,0,@,Bemidji State,4,NA,NA,2017-12-16,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,0,@,Minnesota State,3,NA,NA,2017-12-16,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,3,@,Michigan Tech,3,OT,NA,2017-12-16,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Ferris State,2,@,Northern Michigan,4,NA,NA,2017-12-16,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Arizona State,0,@,Colorado College,4,NA,NA,2017-12-16,NC,Win,Loss,No,No,No,NCHC,Independent
+20172018,Dartmouth,5,@,Denver,4,NA,NA,2017-12-16,NC,Loss,Win,No,No,No,NCHC,ECAC
+20172018,Robert Morris,5,@,Mercyhurst,3,NA,NA,2017-12-17,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Arizona State,4,@,Colorado College,4,OT,NA,2017-12-17,NC,Tie,Tie,No,No,No,NCHC,Independent
+20172018,Western Michigan,5,@,Bowling Green,2,NA,NA,2017-12-28,NC,Loss,Win,No,No,No,WCHA,NCHC
+20172018,Holy Cross,4,@,Sacred Heart,1,NA,NA,2017-12-29,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Alabama-Huntsville,1,@,Bemidji State,3,NA,NA,2017-12-29,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,4,@,Minnesota State,3,NA,NA,2017-12-29,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Colorado College,3,@,Air Force,6,NA,NA,2017-12-29,NC,Win,Loss,No,No,No,Atlantic Hockey,NCHC
+20172018,Merrimack,3,@,Denver,2,NA,NA,2017-12-29,NC,Loss,Win,No,No,No,NCHC,Hockey East
+20172018,Niagara,2,@,Ohio State,3,NA,NA,2017-12-29,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,St. Cloud State,3,@,Princeton,3,OT,NA,2017-12-29,NC,Tie,Tie,No,No,No,ECAC,NCHC
+20172018,Maine,3,@,Rensselaer,2,NA,NA,2017-12-29,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Army,0,@,Minnesota,3,NA,NA,2017-12-29,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,Union,1,@,Nebraska-Omaha,5,NA,NA,2017-12-29,NC,Win,Loss,No,No,No,NCHC,ECAC
+20172018,New Hampshire,1,@,Dartmouth,3,NA,Ledyard Bank Classic,2017-12-29,NC,Win,Loss,Yes,No,No,ECAC,Hockey East
+20172018,Minnesota-Duluth,5,vs.,Yale,0,NA,Ledyard Bank Classic,2017-12-29,NC,Loss,Win,Yes,No,No,ECAC,NCHC
+20172018,Harvard,2,vs.,Massachusetts-Lowell,5,NA,Catamount Cup,2017-12-29,NC,Win,Loss,Yes,No,No,Hockey East,ECAC
+20172018,St. Lawrence,3,@,Vermont,2,NA,Catamount Cup,2017-12-29,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20172018,Arizona State,0,vs.,Providence,6,NA,Three Rivers Classic,2017-12-29,NC,Win,Loss,Yes,No,No,Hockey East,Independent
+20172018,Lake Superior,0,vs.,Robert Morris,5,NA,Three Rivers Classic,2017-12-29,NC,Win,Loss,Yes,No,No,Atlantic Hockey,WCHA
+20172018,Sacred Heart,5,@,Holy Cross,5,OT,NA,2017-12-30,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Connecticut,0,@,Boston College,2,NA,NA,2017-12-30,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Alabama-Huntsville,1,@,Bemidji State,4,NA,NA,2017-12-30,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,3,@,Minnesota State,6,NA,NA,2017-12-30,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Merrimack,1,@,Colorado College,2,NA,NA,2017-12-30,NC,Win,Loss,No,No,No,NCHC,Hockey East
+20172018,Canisius,2,@,Cornell,6,NA,NA,2017-12-30,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Air Force,0,@,Denver,6,NA,NA,2017-12-30,NC,Win,Loss,No,No,No,NCHC,Atlantic Hockey
+20172018,American International,1,@,Northeastern,3,NA,NA,2017-12-30,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Niagara,1,@,Ohio State,4,NA,NA,2017-12-30,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,St. Cloud State,2,@,Princeton,2,OT,NA,2017-12-30,NC,Tie,Tie,No,No,No,ECAC,NCHC
+20172018,Maine,5,@,Rensselaer,2,NA,NA,2017-12-30,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Army,1,@,Minnesota,4,NA,NA,2017-12-30,NC,Win,Loss,No,No,No,Big Ten,Atlantic Hockey
+20172018,Union,3,@,Nebraska-Omaha,5,NA,NA,2017-12-30,NC,Win,Loss,No,No,No,NCHC,ECAC
+20172018,Minnesota-Duluth,2,@,Dartmouth,2,OT,Ledyard Bank Classic,2017-12-30,NC,Tie,Tie,Yes,No,No,ECAC,NCHC
+20172018,Yale,4,vs.,New Hampshire,2,NA,Ledyard Bank Classic,2017-12-30,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20172018,St. Lawrence,3,vs.,Massachusetts-Lowell,0,NA,Catamount Cup,2017-12-30,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20172018,Harvard,4,@,Vermont,1,NA,Catamount Cup,2017-12-30,NC,Loss,Win,Yes,No,No,Hockey East,ECAC
+20172018,Lake Superior,4,vs.,Arizona State,1,NA,Three Rivers Classic,2017-12-30,NC,Loss,Win,Yes,No,No,Independent,WCHA
+20172018,Providence,2,vs.,Robert Morris,1,NA,Three Rivers Classic,2017-12-30,NC,Loss,Win,Yes,No,No,Atlantic Hockey,Hockey East
+20172018,Michigan State,2,vs.,Michigan Tech,5,NA,Great Lakes Invitational,2018-01-01,NC,Win,Loss,Yes,No,No,WCHA,Big Ten
+20172018,Bowling Green,6,vs.,Michigan,4,NA,Great Lakes Invitational,2018-01-01,NC,Loss,Win,Yes,No,No,Big Ten,WCHA
+20172018,Canisius,0,@,Clarkson,4,NA,NA,2018-01-02,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Quinnipiac,3,@,Connecticut,0,NA,NA,2018-01-02,NC,Loss,Win,No,No,No,Hockey East,ECAC
+20172018,Bowling Green,4,vs.,Michigan Tech,1,NA,Great Lakes Invitational,2018-01-02,NC,Loss,Win,Yes,No,No,WCHA,WCHA
+20172018,Michigan State,4,vs.,Michigan,6,NA,Great Lakes Invitational,2018-01-02,NC,Win,Loss,Yes,No,No,Big Ten,Big Ten
+20172018,Brown,0,@,Providence,5,NA,Mayor's Cup,2018-01-03,NC,Win,Loss,Yes,No,No,Hockey East,ECAC
+20172018,Mercyhurst,1,@,Air Force,0,NA,NA,2018-01-05,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,1,@,American International,2,NA,NA,2018-01-05,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,3,@,Niagara,4,NA,NA,2018-01-05,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Ohio State,4,@,Michigan State,1,NA,NA,2018-01-05,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,1,@,Penn State,5,NA,NA,2018-01-05,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Notre Dame,2,@,Michigan,1,NA,NA,2018-01-05,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Quinnipiac,4,@,Colgate,3,OT,NA,2018-01-05,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Princeton,1,@,Cornell,7,NA,NA,2018-01-05,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Union,4,@,Dartmouth,1,NA,NA,2018-01-05,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Rensselaer,0,@,Harvard,3,NA,NA,2018-01-05,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Merrimack,3,@,Connecticut,2,OT,NA,2018-01-05,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Vermont,0,@,Massachusetts-Lowell,6,NA,NA,2018-01-05,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Denver,3,@,Miami,4,NA,NA,2018-01-05,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,4,@,North Dakota,1,NA,NA,2018-01-05,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Bemidji State,3,@,Lake Superior,0,NA,NA,2018-01-05,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Minnesota State,5,@,Alaska-Anchorage,2,NA,NA,2018-01-05,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,2,@,Alaska,3,NA,NA,2018-01-05,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Northeastern,3,@,Bentley,3,OT,NA,2018-01-05,NC,Tie,Tie,No,No,No,Atlantic Hockey,Hockey East
+20172018,Canisius,4,@,St. Lawrence,4,OT,NA,2018-01-05,NC,Tie,Tie,No,No,No,ECAC,Atlantic Hockey
+20172018,Massachusetts,3,@,Yale,5,NA,NA,2018-01-05,NC,Win,Loss,No,No,No,ECAC,Hockey East
+20172018,Northern Michigan,3,vs.,Arizona State,7,NA,Ice Vegas Invitational,2018-01-05,NC,Win,Loss,Yes,No,No,Independent,WCHA
+20172018,Boston College,3,vs.,Michigan Tech,4,NA,Ice Vegas Invitational,2018-01-05,NC,Win,Loss,Yes,No,No,WCHA,Hockey East
+20172018,Mercyhurst,1,@,Air Force,5,NA,NA,2018-01-06,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,4,@,Holy Cross,2,NA,NA,2018-01-06,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,2,@,Niagara,2,OT,NA,2018-01-06,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,3,@,Sacred Heart,3,OT,NA,2018-01-06,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Ohio State,5,@,Michigan State,3,NA,NA,2018-01-06,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,3,@,Penn State,3,OT,Penn State wins shootout 1-0,2018-01-06,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,Princeton,0,@,Colgate,4,NA,NA,2018-01-06,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,0,@,Cornell,1,NA,NA,2018-01-06,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Rensselaer,5,@,Dartmouth,6,OT,NA,2018-01-06,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Union,3,@,Harvard,4,OT,NA,2018-01-06,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Maine,3,@,Boston University,0,NA,NA,2018-01-06,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Merrimack,2,@,Providence,5,NA,NA,2018-01-06,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,3,@,Massachusetts-Lowell,8,NA,NA,2018-01-06,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Denver,4,@,Miami,1,NA,NA,2018-01-06,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,0,@,North Dakota,7,NA,NA,2018-01-06,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Bowling Green,6,@,Ferris State,3,NA,NA,2018-01-06,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bemidji State,6,@,Lake Superior,3,NA,NA,2018-01-06,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Minnesota State,4,@,Alaska-Anchorage,1,NA,NA,2018-01-06,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,3,@,Alaska,1,NA,NA,2018-01-06,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bentley,1,@,Northeastern,6,NA,NA,2018-01-06,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Minnesota,2,@,St. Cloud State,5,NA,NA,2018-01-06,NC,Win,Loss,No,No,No,NCHC,Big Ten
+20172018,Canisius,1,@,St. Lawrence,4,NA,NA,2018-01-06,NC,Win,Loss,No,No,No,ECAC,Atlantic Hockey
+20172018,Brown,4,@,New Hampshire,4,OT,NA,2018-01-06,NC,Tie,Tie,No,No,No,Hockey East,ECAC
+20172018,Michigan Tech,2,vs.,Arizona State,3,NA,Ice Vegas Invitational,2018-01-06,NC,Win,Loss,Yes,No,No,Independent,WCHA
+20172018,Northern Michigan,3,vs.,Boston College,3,OT,Ice Vegas Invitational,2018-01-06,NC,Tie,Tie,Yes,No,No,Hockey East,WCHA
+20172018,Michigan,1,@,Notre Dame,2,NA,NA,2018-01-07,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Bowling Green,3,@,Ferris State,0,NA,NA,2018-01-07,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,St. Cloud State,0,@,Minnesota,2,NA,NA,2018-01-07,NC,Win,Loss,No,No,No,Big Ten,NCHC
+20172018,Maine,4,@,Brown,4,OT,NA,2018-01-08,NC,Tie,Tie,No,No,No,ECAC,Hockey East
+20172018,Sacred Heart,4,@,Bentley,1,NA,NA,2018-01-09,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,3,@,Niagara,1,NA,NA,2018-01-09,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Harvard,2,@,Rensselaer,2,OT,NA,2018-01-09,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Bentley,3,@,Army,3,OT,NA,2018-01-12,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,3,@,Canisius,0,NA,NA,2018-01-12,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,2,@,Mercyhurst,3,NA,NA,2018-01-12,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,2,@,RIT,1,NA,NA,2018-01-12,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,3,@,Sacred Heart,1,NA,NA,2018-01-12,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Ohio State,2,@,Penn State,5,NA,NA,2018-01-12,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Michigan,5,@,Minnesota,3,NA,NA,2018-01-12,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Michigan State,2,@,Wisconsin,0,NA,NA,2018-01-12,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Colgate,2,@,Brown,1,NA,NA,2018-01-12,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,3,@,Dartmouth,4,NA,NA,2018-01-12,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Princeton,1,@,Harvard,3,NA,NA,2018-01-12,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,1,@,Rensselaer,2,OT,NA,2018-01-12,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Clarkson,4,@,Union,1,NA,NA,2018-01-12,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Cornell,3,@,Yale,3,OT,NA,2018-01-12,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Providence,4,@,Boston College,1,NA,NA,2018-01-12,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Connecticut,0,@,Merrimack,3,NA,NA,2018-01-12,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Maine,3,@,Northeastern,5,NA,NA,2018-01-12,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Boston University,3,@,New Hampshire,2,NA,NA,2018-01-12,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,2,@,Vermont,2,OT,NA,2018-01-12,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Minnesota-Duluth,6,@,Colorado College,5,NA,NA,2018-01-12,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Western Michigan,7,@,St. Cloud State,5,NA,NA,2018-01-12,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Miami,7,@,Nebraska-Omaha,11,NA,NA,2018-01-12,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Ferris State,4,@,Lake Superior,0,NA,NA,2018-01-12,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bowling Green,2,@,Northern Michigan,5,NA,NA,2018-01-12,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,4,@,Alaska-Anchorage,2,NA,NA,2018-01-12,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Minnesota State,0,@,Alaska,5,NA,NA,2018-01-12,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Massachusetts-Lowell,4,@,Arizona State,0,NA,NA,2018-01-12,NC,Loss,Win,No,No,No,Independent,Hockey East
+20172018,North Dakota,5,@,Bemidji State,1,NA,NA,2018-01-12,NC,Loss,Win,No,No,No,WCHA,NCHC
+20172018,Bentley,0,@,Army,4,NA,NA,2018-01-13,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,1,@,Canisius,6,NA,NA,2018-01-13,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,2,@,Holy Cross,4,NA,NA,2018-01-13,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,2,@,Mercyhurst,3,NA,NA,2018-01-13,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,4,@,RIT,0,NA,NA,2018-01-13,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Ohio State,5,@,Penn State,1,NA,NA,2018-01-13,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Michigan,3,@,Minnesota,1,NA,NA,2018-01-13,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Michigan State,2,@,Wisconsin,5,NA,NA,2018-01-13,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Cornell,3,@,Brown,1,NA,NA,2018-01-13,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Princeton,6,@,Dartmouth,3,NA,NA,2018-01-13,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,2,@,Harvard,2,OT,NA,2018-01-13,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Clarkson,3,@,Rensselaer,0,NA,NA,2018-01-13,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,4,@,Union,5,NA,NA,2018-01-13,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Colgate,1,@,Yale,5,NA,NA,2018-01-13,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Providence,2,@,Boston University,2,OT,NA,2018-01-13,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Maine,3,@,Northeastern,5,NA,NA,2018-01-13,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,6,@,Vermont,3,NA,NA,2018-01-13,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Minnesota-Duluth,5,@,Colorado College,1,NA,NA,2018-01-13,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Western Michigan,3,@,St. Cloud State,4,NA,NA,2018-01-13,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Miami,3,@,Nebraska-Omaha,4,NA,NA,2018-01-13,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Ferris State,3,@,Lake Superior,5,NA,NA,2018-01-13,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bowling Green,2,@,Northern Michigan,3,OT,NA,2018-01-13,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alabama-Huntsville,1,@,Alaska-Anchorage,2,NA,NA,2018-01-13,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Minnesota State,5,@,Alaska,1,NA,NA,2018-01-13,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Massachusetts-Lowell,0,@,Arizona State,4,NA,NA,2018-01-13,NC,Win,Loss,No,No,No,Independent,Hockey East
+20172018,Bemidji State,2,@,North Dakota,2,OT,NA,2018-01-13,NC,Tie,Tie,No,No,No,NCHC,WCHA
+20172018,New Hampshire,2,@,Boston College,5,NA,NA,2018-01-14,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Sacred Heart,4,@,Bentley,2,NA,NA,2018-01-16,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,3,@,Mercyhurst,6,NA,NA,2018-01-16,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Massachusetts,1,@,Maine,3,NA,NA,2018-01-16,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Minnesota,5,@,Michigan State,4,NA,NA,2018-01-18,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Providence,3,@,Connecticut,1,NA,NA,2018-01-18,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Sacred Heart,2,@,Air Force,1,NA,NA,2018-01-19,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,1,@,Holy Cross,3,NA,NA,2018-01-19,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,1,@,Mercyhurst,3,NA,NA,2018-01-19,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,5,@,RIT,4,OT,NA,2018-01-19,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,2,@,Robert Morris,3,OT,NA,2018-01-19,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Wisconsin,2,@,Notre Dame,4,NA,NA,2018-01-19,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Penn State,0,@,Michigan,4,NA,NA,2018-01-19,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Rensselaer,1,@,Brown,2,NA,NA,2018-01-19,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Harvard,6,@,Clarkson,6,OT,NA,2018-01-19,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Colgate,0,@,Cornell,2,NA,NA,2018-01-19,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Dartmouth,3,@,St. Lawrence,2,NA,NA,2018-01-19,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Union,3,@,Yale,2,NA,NA,2018-01-19,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Boston University,4,@,Merrimack,3,NA,NA,2018-01-19,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,2,@,Maine,2,OT,NA,2018-01-19,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,0,@,Massachusetts,3,NA,NA,2018-01-19,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,3,@,Vermont,2,OT,NA,2018-01-19,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Nebraska-Omaha,0,@,Denver,5,NA,NA,2018-01-19,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,North Dakota,3,@,Minnesota-Duluth,5,NA,NA,2018-01-19,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Colorado College,2,@,Western Michigan,3,OT,NA,2018-01-19,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Alaska-Anchorage,2,@,Bowling Green,6,NA,NA,2018-01-19,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bemidji State,2,@,Ferris State,0,NA,NA,2018-01-19,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska,2,@,Michigan Tech,5,NA,NA,2018-01-19,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,2,@,Northern Michigan,3,NA,NA,2018-01-19,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Quinnipiac,2,@,Arizona State,2,OT,NA,2018-01-19,NC,Tie,Tie,No,No,No,Independent,ECAC
+20172018,Niagara,6,@,Holy Cross,0,NA,NA,2018-01-20,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,4,@,Mercyhurst,4,OT,NA,2018-01-20,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,0,@,RIT,2,NA,NA,2018-01-20,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,3,@,Robert Morris,3,OT,NA,2018-01-20,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Minnesota,2,vs.,Michigan State,1,NA,NA,2018-01-20,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Penn State,2,@,Michigan,3,NA,NA,2018-01-20,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Union,2,@,Brown,0,NA,NA,2018-01-20,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Dartmouth,3,@,Clarkson,2,NA,NA,2018-01-20,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Cornell,2,@,Colgate,0,NA,NA,2018-01-20,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Harvard,4,@,St. Lawrence,3,OT,NA,2018-01-20,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Rensselaer,1,@,Yale,5,NA,NA,2018-01-20,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Merrimack,1,@,Boston University,3,NA,NA,2018-01-20,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,3,@,Maine,3,OT,NA,2018-01-20,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,0,@,Northeastern,5,NA,NA,2018-01-20,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Connecticut,3,@,Providence,1,NA,NA,2018-01-20,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,3,@,Vermont,6,NA,NA,2018-01-20,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Nebraska-Omaha,0,@,Denver,4,NA,NA,2018-01-20,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,North Dakota,2,@,Minnesota-Duluth,5,NA,NA,2018-01-20,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Colorado College,6,@,Western Michigan,5,OT,NA,2018-01-20,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Alaska-Anchorage,2,@,Bowling Green,3,NA,NA,2018-01-20,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bemidji State,4,@,Ferris State,1,NA,NA,2018-01-20,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska,3,@,Michigan Tech,4,NA,NA,2018-01-20,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,2,@,Northern Michigan,3,NA,NA,2018-01-20,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Quinnipiac,5,@,Arizona State,3,NA,NA,2018-01-20,NC,Loss,Win,No,No,No,Independent,ECAC
+20172018,Minnesota State,5,@,St. Cloud State,2,NA,NA,2018-01-20,NC,Loss,Win,No,No,No,NCHC,WCHA
+20172018,Notre Dame,0,vs.,Wisconsin,5,NA,NA,2018-01-21,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Massachusetts,1,@,Boston College,2,NA,NA,2018-01-23,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Minnesota-Duluth,0,@,Minnesota State,1,NA,NA,2018-01-23,NC,Win,Loss,No,No,No,WCHA,NCHC
+20172018,Robert Morris,1,@,American International,3,NA,NA,2018-01-26,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,2,@,Army,2,OT,NA,2018-01-26,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,3,@,Bentley,2,NA,NA,2018-01-26,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,0,@,Holy Cross,4,NA,NA,2018-01-26,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,4,@,Niagara,2,NA,NA,2018-01-26,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,0,@,Ohio State,4,NA,NA,2018-01-26,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Notre Dame,0,@,Minnesota,1,OT,NA,2018-01-26,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Penn State,2,@,Wisconsin,4,NA,NA,2018-01-26,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Yale,1,@,Clarkson,4,NA,NA,2018-01-26,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Colgate,1,@,Dartmouth,2,NA,NA,2018-01-26,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Cornell,3,@,Harvard,0,NA,NA,2018-01-26,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Brown,2,@,St. Lawrence,3,NA,NA,2018-01-26,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Vermont,2,@,Merrimack,1,NA,NA,2018-01-26,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Providence,4,@,Northeastern,4,OT,NA,2018-01-26,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Maine,3,@,Massachusetts,2,NA,NA,2018-01-26,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Boston College,2,@,Massachusetts-Lowell,3,NA,NA,2018-01-26,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Connecticut,4,@,New Hampshire,2,NA,NA,2018-01-26,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Miami,3,@,Colorado College,6,NA,NA,2018-01-26,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,1,@,Minnesota-Duluth,5,NA,NA,2018-01-26,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Denver,3,@,North Dakota,3,OT,NA,2018-01-26,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Western Michigan,2,@,Nebraska-Omaha,6,NA,NA,2018-01-26,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Michigan Tech,3,@,Ferris State,4,NA,NA,2018-01-26,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bowling Green,5,@,Lake Superior,3,NA,NA,2018-01-26,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,4,@,Alaska-Anchorage,2,NA,NA,2018-01-26,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bemidji State,1,@,Alabama-Huntsville,5,NA,NA,2018-01-26,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Boston University,8,@,Arizona State,0,NA,NA,2018-01-26,NC,Loss,Win,No,No,No,Independent,Hockey East
+20172018,Robert Morris,5,@,American International,3,NA,NA,2018-01-27,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,6,@,Army,1,NA,NA,2018-01-27,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,2,@,Bentley,3,NA,NA,2018-01-27,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,3,@,Holy Cross,2,NA,NA,2018-01-27,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,5,@,Niagara,3,NA,NA,2018-01-27,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,3,@,Ohio State,5,NA,NA,2018-01-27,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Notre Dame,4,@,Minnesota,1,NA,NA,2018-01-27,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Penn State,4,@,Wisconsin,4,OT,NA,2018-01-27,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,Brown,2,@,Clarkson,2,OT,NA,2018-01-27,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Cornell,3,@,Dartmouth,1,NA,NA,2018-01-27,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Colgate,2,@,Harvard,0,NA,NA,2018-01-27,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Yale,0,@,St. Lawrence,1,NA,NA,2018-01-27,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Massachusetts-Lowell,2,@,Boston College,5,NA,NA,2018-01-27,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Vermont,2,@,Merrimack,1,OT,NA,2018-01-27,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,1,@,Providence,2,OT,NA,2018-01-27,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,2,@,Connecticut,3,NA,NA,2018-01-27,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Maine,3,@,Massachusetts,2,NA,NA,2018-01-27,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Miami,4,@,Colorado College,4,OT,NA,2018-01-27,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,2,@,Minnesota-Duluth,1,NA,NA,2018-01-27,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Denver,1,@,North Dakota,1,OT,NA,2018-01-27,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Western Michigan,3,@,Nebraska-Omaha,7,NA,NA,2018-01-27,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Michigan Tech,1,@,Ferris State,3,NA,NA,2018-01-27,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bowling Green,3,@,Lake Superior,2,NA,NA,2018-01-27,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,5,@,Alaska-Anchorage,3,NA,NA,2018-01-27,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bemidji State,5,@,Alabama-Huntsville,1,NA,NA,2018-01-27,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Boston University,4,@,Arizona State,3,NA,NA,2018-01-27,NC,Loss,Win,No,No,No,Independent,Hockey East
+20172018,Rensselaer,3,vs.,Union,4,NA,Mayor's Cup,2018-01-27,NC,Win,Loss,Yes,No,No,ECAC,ECAC
+20172018,Princeton,5,@,Quinnipiac,3,NA,NA,2018-01-30,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,American International,0,@,Air Force,3,NA,NA,2018-02-02,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,2,@,Army,6,NA,NA,2018-02-02,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,5,@,Canisius,1,NA,NA,2018-02-02,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,4,@,RIT,3,NA,NA,2018-02-02,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,4,@,Sacred Heart,1,NA,NA,2018-02-02,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan State,2,@,Ohio State,4,NA,NA,2018-02-02,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Notre Dame,5,@,Penn State,3,NA,NA,2018-02-02,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,3,@,Michigan,5,NA,NA,2018-02-02,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Rensselaer,0,@,Colgate,3,NA,NA,2018-02-02,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Union,3,@,Cornell,4,NA,NA,2018-02-02,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Harvard,4,@,Dartmouth,1,NA,NA,2018-02-02,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,4,@,Princeton,5,OT,NA,2018-02-02,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Clarkson,1,@,Quinnipiac,4,NA,NA,2018-02-02,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Merrimack,3,@,Maine,4,OT,NA,2018-02-02,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,1,@,Northeastern,1,OT,NA,2018-02-02,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Boston College,3,@,Connecticut,5,NA,NA,2018-02-02,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Boston University,3,@,Massachusetts,2,NA,NA,2018-02-02,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Providence,2,@,Vermont,2,OT,NA,2018-02-02,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Minnesota-Duluth,0,@,Denver,1,NA,NA,2018-02-02,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Western Michigan,2,@,Miami,4,NA,NA,2018-02-02,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,3,@,St. Cloud State,5,NA,NA,2018-02-02,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Michigan Tech,2,@,Bowling Green,7,NA,NA,2018-02-02,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,2,@,Bemidji State,0,NA,NA,2018-02-02,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,1,@,Minnesota State,7,NA,NA,2018-02-02,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Ferris State,2,@,Alaska,4,NA,NA,2018-02-02,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Arizona State,2,@,Yale,3,OT,NA,2018-02-02,NC,Win,Loss,No,No,No,ECAC,Independent
+20172018,American International,2,@,Air Force,2,OT,NA,2018-02-03,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,1,@,Army,1,OT,NA,2018-02-03,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,2,@,Canisius,5,NA,NA,2018-02-03,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,5,@,RIT,2,NA,NA,2018-02-03,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,3,@,Sacred Heart,1,NA,NA,2018-02-03,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan State,6,@,Ohio State,3,NA,NA,2018-02-03,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Notre Dame,2,@,Penn State,2,OT,"Notre Dame wins shootout, 1-0",2018-02-03,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,4,@,Michigan,2,NA,NA,2018-02-03,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Union,3,@,Colgate,1,NA,NA,2018-02-03,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Rensselaer,2,@,Cornell,1,NA,NA,2018-02-03,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Clarkson,3,@,Princeton,4,NA,NA,2018-02-03,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,2,@,Quinnipiac,5,NA,NA,2018-02-03,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Merrimack,3,@,Maine,2,OT,NA,2018-02-03,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,1,@,New Hampshire,3,NA,NA,2018-02-03,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Providence,3,@,Vermont,4,NA,NA,2018-02-03,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Minnesota-Duluth,3,@,Denver,4,NA,NA,2018-02-03,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Western Michigan,3,@,Miami,2,NA,NA,2018-02-03,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,2,@,St. Cloud State,6,NA,NA,2018-02-03,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Michigan Tech,4,@,Bowling Green,0,NA,NA,2018-02-03,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Lake Superior,2,@,Bemidji State,0,NA,NA,2018-02-03,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,3,@,Minnesota State,4,NA,NA,2018-02-03,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Ferris State,1,@,Alaska,4,NA,NA,2018-02-03,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,4,@,Alabama-Huntsville,3,NA,NA,2018-02-03,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Connecticut,6,@,Brown,4,NA,NA,2018-02-03,NC,Loss,Win,No,No,No,ECAC,Hockey East
+20172018,Arizona State,3,@,Yale,4,OT,NA,2018-02-03,NC,Win,Loss,No,No,No,ECAC,Independent
+20172018,Northern Michigan,2,@,Alabama-Huntsville,4,NA,NA,2018-02-04,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Northeastern,3,vs.,Boston College,0,NA,Beanpot,2018-02-05,NC,Loss,Win,Yes,No,No,Hockey East,Hockey East
+20172018,Boston University,3,vs.,Harvard,2,2 OT,Beanpot,2018-02-05,NC,Loss,Win,Yes,No,No,ECAC,Hockey East
+20172018,Merrimack,2,@,Massachusetts,5,NA,NA,2018-02-06,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,American International,0,@,Massachusetts-Lowell,4,NA,NA,2018-02-06,NC,Win,Loss,No,No,No,Hockey East,Atlantic Hockey
+20172018,Air Force,0,@,Bentley,2,NA,NA,2018-02-09,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,1,@,Canisius,4,NA,NA,2018-02-09,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,5,@,Mercyhurst,6,NA,NA,2018-02-09,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,7,@,Niagara,1,NA,NA,2018-02-09,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,4,@,Robert Morris,3,NA,NA,2018-02-09,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,1,@,Michigan State,1,OT,"Michigan wins shootout, 1-0",2018-02-09,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,Ohio State,1,@,Notre Dame,2,NA,NA,2018-02-09,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Minnesota,4,@,Wisconsin,2,NA,NA,2018-02-09,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Princeton,7,@,Brown,2,NA,NA,2018-02-09,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Cornell,0,@,Clarkson,0,OT,NA,2018-02-09,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Dartmouth,7,@,Rensselaer,3,NA,NA,2018-02-09,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Colgate,2,@,St. Lawrence,5,NA,NA,2018-02-09,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Harvard,1,@,Union,3,NA,NA,2018-02-09,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,2,@,Yale,3,NA,NA,2018-02-09,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Massachusetts-Lowell,2,@,Boston College,3,OT,NA,2018-02-09,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts,3,@,Boston University,3,OT,NA,2018-02-09,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Connecticut,4,@,Northeastern,2,NA,NA,2018-02-09,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Maine,2,@,Providence,3,OT,NA,2018-02-09,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Vermont,2,@,New Hampshire,1,NA,NA,2018-02-09,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,St. Cloud State,5,@,Miami,2,NA,NA,2018-02-09,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Colorado College,4,@,North Dakota,2,NA,NA,2018-02-09,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Bemidji State,4,@,Michigan Tech,2,NA,NA,2018-02-09,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Alaska,1,@,Northern Michigan,2,OT,NA,2018-02-09,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,3,@,Alaska-Anchorage,2,OT,NA,2018-02-09,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Minnesota State,3,@,Alabama-Huntsville,2,OT,NA,2018-02-09,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Air Force,4,@,Bentley,2,NA,NA,2018-02-10,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,3,@,Canisius,2,NA,NA,2018-02-10,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,0,@,Mercyhurst,4,NA,NA,2018-02-10,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,5,@,Niagara,3,NA,NA,2018-02-10,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,6,@,Robert Morris,2,NA,NA,2018-02-10,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan,3,vs.,Michigan State,2,NA,NA,2018-02-10,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Ohio State,5,@,Notre Dame,1,NA,NA,2018-02-10,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Minnesota,7,@,Wisconsin,1,NA,NA,2018-02-10,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Quinnipiac,3,@,Brown,0,NA,NA,2018-02-10,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Colgate,4,@,Clarkson,4,OT,NA,2018-02-10,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Cornell,1,@,St. Lawrence,0,NA,NA,2018-02-10,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Dartmouth,1,@,Union,2,NA,NA,2018-02-10,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Princeton,2,@,Yale,7,NA,NA,2018-02-10,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Massachusetts-Lowell,0,@,Massachusetts,3,NA,NA,2018-02-10,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Vermont,2,@,New Hampshire,2,OT,NA,2018-02-10,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,St. Cloud State,4,@,Miami,0,NA,NA,2018-02-10,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Colorado College,1,@,North Dakota,5,NA,NA,2018-02-10,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Bemidji State,1,@,Michigan Tech,5,NA,NA,2018-02-10,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska,1,@,Northern Michigan,4,NA,NA,2018-02-10,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Lake Superior,2,@,Alaska-Anchorage,1,NA,NA,2018-02-10,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Minnesota State,6,@,Alabama-Huntsville,1,NA,NA,2018-02-10,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,RIT,6,@,Mercyhurst,5,OT,NA,2018-02-12,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Northeastern,5,vs.,Boston University,2,NA,Beanpot,2018-02-12,NC,Loss,Win,Yes,No,No,Hockey East,Hockey East
+20172018,Boston College,4,vs.,Harvard,5,OT,Beanpot,2018-02-12,NC,Win,Loss,Yes,No,No,ECAC,Hockey East
+20172018,Sacred Heart,2,vs.,Air Force,1,OT,NA,2018-02-13,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Maine,4,@,New Hampshire,3,OT,NA,2018-02-14,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Boston College,5,@,Massachusetts,2,NA,NA,2018-02-15,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Alaska,2,@,Bemidji State,2,OT,NA,2018-02-15,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Bowling Green,5,@,Alaska-Anchorage,2,NA,NA,2018-02-15,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Canisius,4,@,Air Force,7,NA,NA,2018-02-16,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,5,@,Bentley,1,NA,NA,2018-02-16,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,2,@,Robert Morris,1,NA,NA,2018-02-16,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Penn State,2,@,Michigan State,4,NA,NA,2018-02-16,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Michigan,4,@,Notre Dame,2,NA,NA,2018-02-16,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Ohio State,1,@,Minnesota,2,NA,NA,2018-02-16,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Yale,4,@,Colgate,3,NA,NA,2018-02-16,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Brown,1,@,Cornell,2,NA,NA,2018-02-16,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Clarkson,2,@,Dartmouth,3,NA,NA,2018-02-16,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,0,@,Harvard,5,NA,NA,2018-02-16,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Rensselaer,2,@,Princeton,7,NA,NA,2018-02-16,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Union,5,@,Quinnipiac,2,NA,NA,2018-02-16,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,New Hampshire,2,@,Merrimack,3,NA,NA,2018-02-16,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,2,@,Providence,5,NA,NA,2018-02-16,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Boston University,4,@,Connecticut,5,OT,NA,2018-02-16,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,4,@,Vermont,3,OT,NA,2018-02-16,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Denver,5,@,Colorado College,1,NA,NA,2018-02-16,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Miami,0,@,Minnesota-Duluth,4,NA,NA,2018-02-16,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,North Dakota,3,@,Nebraska-Omaha,6,NA,NA,2018-02-16,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,5,@,Western Michigan,5,OT,NA,2018-02-16,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Alaska,1,@,Bemidji State,2,NA,NA,2018-02-16,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Ferris State,1,@,Minnesota State,7,NA,NA,2018-02-16,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bowling Green,2,@,Alaska-Anchorage,1,NA,NA,2018-02-16,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Arizona State,2,@,Michigan Tech,1,NA,NA,2018-02-16,NC,Loss,Win,No,No,No,WCHA,Independent
+20172018,Canisius,2,@,Air Force,3,NA,NA,2018-02-17,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Holy Cross,0,@,American International,1,NA,NA,2018-02-17,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Army,2,@,Bentley,4,NA,NA,2018-02-17,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,2,@,Mercyhurst,3,OT,NA,2018-02-17,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,RIT,5,@,Sacred Heart,0,NA,NA,2018-02-17,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Penn State,3,@,Michigan State,2,NA,NA,2018-02-17,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Ohio State,1,@,Minnesota,1,OT,"Ohio State wins shootout, 2-1 (8 rounds)",2018-02-17,B10,Tie,Tie,No,No,No,Big Ten,Big Ten
+20172018,Brown,1,@,Colgate,3,NA,NA,2018-02-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Yale,2,@,Cornell,3,NA,NA,2018-02-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,St. Lawrence,1,@,Dartmouth,3,NA,NA,2018-02-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Clarkson,2,@,Harvard,5,NA,NA,2018-02-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Union,4,@,Princeton,1,NA,NA,2018-02-17,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Rensselaer,1,@,Quinnipiac,4,NA,NA,2018-02-17,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Boston University,3,@,Merrimack,1,NA,NA,2018-02-17,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Boston College,5,@,Maine,0,NA,NA,2018-02-17,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Providence,3,@,Massachusetts-Lowell,1,NA,NA,2018-02-17,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,4,@,Vermont,1,NA,NA,2018-02-17,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Colorado College,1,@,Denver,0,NA,NA,2018-02-17,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Miami,0,@,Minnesota-Duluth,3,NA,NA,2018-02-17,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,North Dakota,3,@,Nebraska-Omaha,0,NA,NA,2018-02-17,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,4,@,Western Michigan,2,NA,NA,2018-02-17,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Ferris State,2,@,Minnesota State,4,NA,NA,2018-02-17,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Arizona State,3,@,Michigan Tech,5,NA,NA,2018-02-17,NC,Win,Loss,No,No,No,WCHA,Independent
+20172018,RIT,3,@,Sacred Heart,5,NA,NA,2018-02-18,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Notre Dame,0,@,Michigan,1,NA,NA,2018-02-18,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,American International,0,@,Holy Cross,2,NA,NA,2018-02-22,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Massachusetts,3,@,Connecticut,2,NA,NA,2018-02-22,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,Sacred Heart,0,@,Army,6,NA,NA,2018-02-23,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Niagara,1,@,Canisius,2,NA,NA,2018-02-23,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,4,@,RIT,3,NA,NA,2018-02-23,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,1,@,Robert Morris,0,NA,NA,2018-02-23,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan State,3,@,Notre Dame,6,NA,NA,2018-02-23,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,2,@,Ohio State,6,NA,NA,2018-02-23,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Minnesota,1,@,Penn State,5,NA,NA,2018-02-23,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Harvard,4,@,Brown,6,NA,NA,2018-02-23,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Princeton,3,@,Clarkson,3,OT,NA,2018-02-23,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Cornell,4,@,Rensselaer,2,NA,NA,2018-02-23,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,3,@,St. Lawrence,2,NA,NA,2018-02-23,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Colgate,1,@,Union,1,OT,NA,2018-02-23,EC,Tie,Tie,No,No,No,ECAC,ECAC
+20172018,Dartmouth,6,@,Yale,4,NA,NA,2018-02-23,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Maine,3,@,Boston College,6,NA,NA,2018-02-23,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Vermont,0,@,Boston University,2,NA,NA,2018-02-23,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Massachusetts-Lowell,1,@,Merrimack,4,NA,NA,2018-02-23,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,New Hampshire,0,@,Northeastern,8,NA,NA,2018-02-23,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,North Dakota,3,@,Miami,4,OT,NA,2018-02-23,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Denver,1,@,St. Cloud State,1,OT,NA,2018-02-23,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Colorado College,2,@,Nebraska-Omaha,4,NA,NA,2018-02-23,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,8,@,Western Michigan,0,NA,NA,2018-02-23,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Lake Superior,1,@,Ferris State,4,NA,NA,2018-02-23,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bemidji State,1,@,Minnesota State,2,NA,NA,2018-02-23,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Michigan Tech,1,@,Northern Michigan,2,NA,NA,2018-02-23,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,5,@,Alaska,3,NA,NA,2018-02-23,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bowling Green,2,@,Alabama-Huntsville,3,NA,NA,2018-02-23,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Arizona State,3,@,Michigan,5,NA,NA,2018-02-23,NC,Win,Loss,No,No,No,Big Ten,Independent
+20172018,Sacred Heart,3,@,Army,4,NA,NA,2018-02-24,AH,Win,Loss,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,3,@,Bentley,2,NA,NA,2018-02-24,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Canisius,3,@,Niagara,2,NA,NA,2018-02-24,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Mercyhurst,4,@,RIT,3,NA,NA,2018-02-24,AH,Loss,Win,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Air Force,2,@,Robert Morris,2,OT,NA,2018-02-24,AH,Tie,Tie,No,No,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan State,4,@,Notre Dame,3,NA,NA,2018-02-24,B10,Loss,Win,No,No,No,Big Ten,Big Ten
+20172018,Wisconsin,0,@,Ohio State,4,NA,NA,2018-02-24,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Minnesota,2,@,Penn State,5,NA,NA,2018-02-24,B10,Win,Loss,No,No,No,Big Ten,Big Ten
+20172018,Dartmouth,0,@,Brown,3,NA,NA,2018-02-24,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Quinnipiac,2,@,Clarkson,4,NA,NA,2018-02-24,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Colgate,5,@,Rensselaer,2,NA,NA,2018-02-24,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Princeton,4,@,St. Lawrence,3,NA,NA,2018-02-24,EC,Loss,Win,No,No,No,ECAC,ECAC
+20172018,Cornell,3,@,Union,4,NA,NA,2018-02-24,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Harvard,1,@,Yale,2,NA,NA,2018-02-24,EC,Win,Loss,No,No,No,ECAC,ECAC
+20172018,Maine,1,@,Boston College,2,NA,NA,2018-02-24,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Vermont,1,@,Boston University,1,OT,NA,2018-02-24,HE,Tie,Tie,No,No,No,Hockey East,Hockey East
+20172018,Providence,0,@,Massachusetts,1,NA,NA,2018-02-24,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Merrimack,0,@,Massachusetts-Lowell,5,NA,NA,2018-02-24,HE,Win,Loss,No,No,No,Hockey East,Hockey East
+20172018,Northeastern,4,@,New Hampshire,0,NA,NA,2018-02-24,HE,Loss,Win,No,No,No,Hockey East,Hockey East
+20172018,North Dakota,2,@,Miami,2,OT,NA,2018-02-24,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Denver,2,@,St. Cloud State,4,NA,NA,2018-02-24,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Colorado College,2,@,Nebraska-Omaha,2,OT,NA,2018-02-24,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Minnesota-Duluth,6,@,Western Michigan,1,NA,NA,2018-02-24,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Lake Superior,2,@,Ferris State,4,NA,NA,2018-02-24,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Bemidji State,2,@,Minnesota State,2,OT,NA,2018-02-24,WC,Tie,Tie,No,No,No,WCHA,WCHA
+20172018,Northern Michigan,2,@,Michigan Tech,3,NA,NA,2018-02-24,WC,Win,Loss,No,No,No,WCHA,WCHA
+20172018,Alaska-Anchorage,3,@,Alaska,2,NA,NA,2018-02-24,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Bowling Green,3,@,Alabama-Huntsville,0,NA,NA,2018-02-24,WC,Loss,Win,No,No,No,WCHA,WCHA
+20172018,Arizona State,3,@,Michigan,5,NA,NA,2018-02-24,NC,Win,Loss,No,No,No,Big Ten,Independent
+20172018,Vermont,2,@,Massachusetts,3,OT,HEA Tournament,2018-03-01,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Niagara,1,@,American International,4,NA,AHA Tournament,2018-03-02,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,4,@,RIT,5,OT,AHA Tournament,2018-03-02,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,1,@,Robert Morris,3,NA,AHA Tournament,2018-03-02,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan State,2,@,Ohio State,6,NA,Big Ten Tournament,2018-03-02,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Minnesota,3,@,Penn State,5,NA,Big Ten Tournament,2018-03-02,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Wisconsin,5,@,Michigan,6,NA,Big Ten Tournament,2018-03-02,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Rensselaer,1,@,Colgate,3,NA,ECAC Tournament,2018-03-02,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,St. Lawrence,1,@,Dartmouth,2,NA,ECAC Tournament,2018-03-02,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Brown,2,@,Princeton,8,NA,ECAC Tournament,2018-03-02,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Quinnipiac,5,@,Yale,1,NA,ECAC Tournament,2018-03-02,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,New Hampshire,1,@,Maine,4,NA,HEA Tournament,2018-03-02,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Vermont,4,@,Massachusetts,3,OT,HEA Tournament,2018-03-02,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20172018,Merrimack,2,@,Massachusetts-Lowell,1,OT,HEA Tournament,2018-03-02,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20172018,Western Michigan,1,@,Colorado College,2,NA,NA,2018-03-02,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Miami,3,@,Denver,6,NA,NA,2018-03-02,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,4,@,Minnesota-Duluth,1,NA,NA,2018-03-02,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,4,@,North Dakota,3,OT,NA,2018-03-02,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Ferris State,1,@,Bowling Green,2,OT,WCHA Tournament,2018-03-02,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Michigan Tech,5,@,Bemidji State,3,NA,WCHA Tournament,2018-03-02,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20172018,Alaska,2,@,Minnesota State,8,NA,WCHA Tournament,2018-03-02,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Alabama-Huntsville,1,@,Northern Michigan,7,NA,WCHA Tournament,2018-03-02,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Niagara,3,@,American International,4,2 OT,AHA Tournament,2018-03-03,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,4,@,RIT,3,3 OT,AHA Tournament,2018-03-03,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,4,@,Robert Morris,3,NA,AHA Tournament,2018-03-03,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Michigan State,3,@,Ohio State,4,OT,Big Ten Tournament,2018-03-03,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Minnesota,5,@,Penn State,6,NA,Big Ten Tournament,2018-03-03,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Wisconsin,4,@,Michigan,7,NA,Big Ten Tournament,2018-03-03,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Rensselaer,1,@,Colgate,0,NA,ECAC Tournament,2018-03-03,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,St. Lawrence,4,@,Dartmouth,2,NA,ECAC Tournament,2018-03-03,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,Brown,1,@,Princeton,7,NA,ECAC Tournament,2018-03-03,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Quinnipiac,4,@,Yale,1,NA,ECAC Tournament,2018-03-03,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,New Hampshire,2,@,Maine,3,NA,HEA Tournament,2018-03-03,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Merrimack,3,@,Massachusetts-Lowell,2,NA,HEA Tournament,2018-03-03,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20172018,Western Michigan,8,@,Colorado College,2,NA,NA,2018-03-03,NT,Loss,Win,No,No,No,NCHC,NCHC
+20172018,Miami,3,@,Denver,3,OT,NA,2018-03-03,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Nebraska-Omaha,1,@,Minnesota-Duluth,4,NA,NA,2018-03-03,NT,Win,Loss,No,No,No,NCHC,NCHC
+20172018,St. Cloud State,2,@,North Dakota,2,OT,NA,2018-03-03,NT,Tie,Tie,No,No,No,NCHC,NCHC
+20172018,Ferris State,2,@,Bowling Green,5,NA,WCHA Tournament,2018-03-03,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Michigan Tech,5,@,Bemidji State,4,NA,WCHA Tournament,2018-03-03,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20172018,Alaska,2,@,Minnesota State,6,NA,WCHA Tournament,2018-03-03,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Alabama-Huntsville,3,@,Northern Michigan,2,NA,WCHA Tournament,2018-03-03,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20172018,Sacred Heart,2,@,RIT,0,NA,AHA Tournament,2018-03-04,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Bentley,2,@,Robert Morris,3,NA,AHA Tournament,2018-03-04,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Rensselaer,0,@,Colgate,2,NA,ECAC Tournament,2018-03-04,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,St. Lawrence,1,@,Dartmouth,2,NA,ECAC Tournament,2018-03-04,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Vermont,1,@,Massachusetts,5,NA,HEA Tournament,2018-03-04,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Alabama-Huntsville,2,@,Northern Michigan,5,NA,WCHA Tournament,2018-03-04,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Air Force,5,@,Army,3,NA,AHA Tournament,2018-03-09,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,1,@,Canisius,8,NA,AHA Tournament,2018-03-09,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,4,@,Holy Cross,1,NA,AHA Tournament,2018-03-09,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,2,@,Mercyhurst,4,NA,AHA Tournament,2018-03-09,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Colgate,2,@,Clarkson,1,NA,ECAC Tournament,2018-03-09,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,Quinnipiac,1,@,Cornell,9,NA,ECAC Tournament,2018-03-09,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Dartmouth,4,@,Harvard,1,NA,ECAC Tournament,2018-03-09,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,Princeton,5,@,Union,3,NA,ECAC Tournament,2018-03-09,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,Merrimack,0,@,Boston College,1,NA,HEA Tournament,2018-03-09,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Connecticut,4,@,Boston University,5,OT,HEA Tournament,2018-03-09,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Massachusetts,2,@,Northeastern,3,NA,HEA Tournament,2018-03-09,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Maine,3,@,Providence,4,NA,HEA Tournament,2018-03-09,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Colorado College,2,@,Denver,0,NA,NCHC Tournament,2018-03-09,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20172018,Miami,2,@,St. Cloud State,5,NA,NCHC Tournament,2018-03-09,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Western Michigan,0,@,Minnesota-Duluth,5,NA,NCHC Tournament,2018-03-09,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Nebraska-Omaha,0,@,North Dakota,4,NA,NCHC Tournament,2018-03-09,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Michigan Tech,1,@,Minnesota State,2,NA,WCHA Tournament,2018-03-09,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Bowling Green,1,@,Northern Michigan,6,NA,WCHA Tournament,2018-03-09,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Air Force,0,@,Army,1,NA,AHA Tournament,2018-03-10,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,2,@,Canisius,1,OT,AHA Tournament,2018-03-10,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,5,@,Holy Cross,1,NA,AHA Tournament,2018-03-10,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Sacred Heart,2,@,Mercyhurst,3,OT,AHA Tournament,2018-03-10,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Penn State,2,@,Notre Dame,3,NA,Big Ten Tournament,2018-03-10,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Michigan,2,@,Ohio State,3,OT,Big Ten Tournament,2018-03-10,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Colgate,0,@,Clarkson,3,NA,ECAC Tournament,2018-03-10,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Quinnipiac,0,@,Cornell,2,NA,ECAC Tournament,2018-03-10,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Dartmouth,1,@,Harvard,7,NA,ECAC Tournament,2018-03-10,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Princeton,3,@,Union,2,NA,ECAC Tournament,2018-03-10,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,Merrimack,3,@,Boston College,4,OT,HEA Tournament,2018-03-10,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Connecticut,1,@,Boston University,2,NA,HEA Tournament,2018-03-10,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Massachusetts,2,@,Northeastern,7,NA,HEA Tournament,2018-03-10,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Maine,2,@,Providence,3,NA,HEA Tournament,2018-03-10,HE,Win,Loss,Yes,Yes,No,Hockey East,Hockey East
+20172018,Colorado College,2,@,Denver,3,NA,NCHC Tournament,2018-03-10,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Miami,3,@,St. Cloud State,2,OT,NCHC Tournament,2018-03-10,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20172018,Western Michigan,0,@,Minnesota-Duluth,2,NA,NCHC Tournament,2018-03-10,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Nebraska-Omaha,3,@,North Dakota,4,OT,NCHC Tournament,2018-03-10,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Michigan Tech,4,@,Minnesota State,2,NA,WCHA Tournament,2018-03-10,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20172018,Bowling Green,1,@,Northern Michigan,0,NA,WCHA Tournament,2018-03-10,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20172018,Air Force,1,@,Army,0,OT,AHA Tournament,2018-03-11,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,American International,0,@,Canisius,3,NA,AHA Tournament,2018-03-11,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Colgate,1,@,Clarkson,5,NA,ECAC Tournament,2018-03-11,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Dartmouth,2,@,Harvard,4,NA,ECAC Tournament,2018-03-11,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Colorado College,1,@,Denver,6,NA,NCHC Tournament,2018-03-11,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Miami,3,@,St. Cloud State,4,OT,NCHC Tournament,2018-03-11,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Michigan Tech,2,@,Minnesota State,1,OT,WCHA Tournament,2018-03-11,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20172018,Bowling Green,2,@,Northern Michigan,3,OT,WCHA Tournament,2018-03-11,WC,Win,Loss,Yes,Yes,No,WCHA,WCHA
+20172018,Air Force,3,vs.,Canisius,0,NA,AHA Tournament,2018-03-16,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Robert Morris,5,vs.,Mercyhurst,4,OT,AHA Tournament,2018-03-16,AH,Loss,Win,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Harvard,4,vs.,Clarkson,5,OT,ECAC Tournament,2018-03-16,EC,Win,Loss,Yes,Yes,No,ECAC,ECAC
+20172018,Princeton,4,vs.,Cornell,1,NA,ECAC Tournament,2018-03-16,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,Boston University,4,vs.,Boston College,3,OT,HEA Tournament,2018-03-16,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20172018,Providence,3,vs.,Northeastern,2,OT,HEA Tournament,2018-03-16,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20172018,Minnesota-Duluth,1,vs.,Denver,3,NA,NCHC Tournament,2018-03-16,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,North Dakota,2,vs.,St. Cloud State,3,OT,NCHC Tournament,2018-03-16,NT,Win,Loss,Yes,Yes,No,NCHC,NCHC
+20172018,Robert Morris,1,vs.,Air Force,5,NA,AHA Tournament,2018-03-17,AH,Win,Loss,Yes,Yes,No,Atlantic Hockey,Atlantic Hockey
+20172018,Ohio State,2,@,Notre Dame,3,OT,Big Ten Tournament,2018-03-17,B10,Win,Loss,Yes,Yes,No,Big Ten,Big Ten
+20172018,Princeton,2,vs.,Clarkson,1,OT,ECAC Tournament,2018-03-17,EC,Loss,Win,Yes,Yes,No,ECAC,ECAC
+20172018,Boston University,2,vs.,Providence,0,NA,HEA Tournament,2018-03-17,HE,Loss,Win,Yes,Yes,No,Hockey East,Hockey East
+20172018,Denver,4,vs.,St. Cloud State,1,NA,NCHC Tournament,2018-03-17,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20172018,North Dakota,4,vs.,Minnesota-Duluth,1,NA,NCHC Tournament,2018-03-17,NT,Loss,Win,Yes,Yes,No,NCHC,NCHC
+20172018,Michigan Tech,2,@,Northern Michigan,0,NA,WCHA Tournament,2018-03-17,WC,Loss,Win,Yes,Yes,No,WCHA,WCHA
+20172018,Michigan Tech,3,vs.,Notre Dame,4,OT,NCAA East Regional,2018-03-23,NC,Win,Loss,Yes,No,Yes,Big Ten,WCHA
+20172018,Clarkson,0,vs.,Providence,1,NA,NCAA East Regional,2018-03-23,NC,Win,Loss,Yes,No,Yes,Hockey East,ECAC
+20172018,Minnesota-Duluth,3,vs.,Minnesota State,2,OT,NCAA West Regional,2018-03-23,NC,Loss,Win,Yes,No,Yes,WCHA,NCHC
+20172018,Air Force,4,vs.,St. Cloud State,1,NA,NCAA West Regional,2018-03-23,NC,Loss,Win,Yes,No,Yes,NCHC,Atlantic Hockey
+20172018,Providence,1,vs.,Notre Dame,2,NA,NCAA East Regional,2018-03-24,NC,Win,Loss,Yes,No,Yes,Big Ten,Hockey East
+20172018,Air Force,1,vs.,Minnesota-Duluth,2,NA,NCAA West Regional,2018-03-24,NC,Win,Loss,Yes,No,Yes,NCHC,Atlantic Hockey
+20172018,Penn State,1,vs.,Denver,5,NA,NCAA Midwest Regional,2018-03-24,NC,Win,Loss,Yes,No,Yes,NCHC,Big Ten
+20172018,Princeton,2,vs.,Ohio State,4,NA,NCAA Midwest Regional,2018-03-24,NC,Win,Loss,Yes,No,Yes,Big Ten,ECAC
+20172018,Boston University,3,vs.,Cornell,1,NA,NCAA Northeast Regional,2018-03-24,NC,Loss,Win,Yes,No,Yes,ECAC,Hockey East
+20172018,Northeastern,2,vs.,Michigan,3,NA,NCAA Northeast Regional,2018-03-24,NC,Win,Loss,Yes,No,Yes,Big Ten,Hockey East
+20172018,Denver,1,vs.,Ohio State,5,NA,NCAA Midwest Regional,2018-03-25,NC,Win,Loss,Yes,No,Yes,Big Ten,NCHC
+20172018,Boston University,3,vs.,Michigan,6,NA,NCAA Northeast Regional,2018-03-25,NC,Win,Loss,Yes,No,Yes,Big Ten,Hockey East
+20172018,Michigan,3,vs.,Notre Dame,4,NA,NCAA Tournament,2018-04-05,NC,Win,Loss,Yes,No,Yes,Big Ten,Big Ten
+20172018,Minnesota-Duluth,2,vs.,Ohio State,1,NA,NCAA Tournament,2018-04-05,NC,Loss,Win,Yes,No,Yes,Big Ten,NCHC
+20172018,Minnesota-Duluth,2,vs.,Notre Dame,1,NA,NCAA Tournament,2018-04-07,NC,Loss,Win,Yes,No,Yes,Big Ten,NCHC
